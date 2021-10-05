@@ -1,0 +1,48 @@
+{
+  "uid" : "82990e4ea2e471b0",
+  "name" : "Проверка платежного фрейма Альфа Клик",
+  "fullName" : "Проверка пополения и выплаты.Проверка платежного фрейма Альфа Клик",
+  "historyId" : "95af9a8e4b484062a292fd1e90453b97",
+  "time" : {
+    "start" : 1633435131335,
+    "stop" : 1633435131336,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "This test was ignored",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Проверка пополения и выплаты"
+  }, {
+    "name" : "testClass",
+    "value" : "Проверка пополения и выплаты"
+  }, {
+    "name" : "testMethod",
+    "value" : "Проверка платежного фрейма Альфа Клик"
+  }, {
+    "name" : "package",
+    "value" : "Проверка пополения и выплаты"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "82990e4ea2e471b0.json",
+  "parameterValues" : [ ]
+}

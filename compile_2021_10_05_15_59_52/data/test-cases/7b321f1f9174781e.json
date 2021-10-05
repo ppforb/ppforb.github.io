@@ -1,0 +1,48 @@
+{
+  "uid" : "7b321f1f9174781e",
+  "name" : "Проверка всего функционала во вкладке \"Суперэкспресс\"",
+  "fullName" : "Проверка \"Суперэкспресс\".Проверка всего функционала во вкладке \"Суперэкспресс\"",
+  "historyId" : "854c145f70330f5fb92cd7e11226347",
+  "time" : {
+    "start" : 1633435131446,
+    "stop" : 1633435131448,
+    "duration" : 2
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "This test was ignored",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Проверка \"Суперэкспресс\""
+  }, {
+    "name" : "testClass",
+    "value" : "Проверка \"Суперэкспресс\""
+  }, {
+    "name" : "testMethod",
+    "value" : "Проверка всего функционала во вкладке \"Суперэкспресс\""
+  }, {
+    "name" : "package",
+    "value" : "Проверка \"Суперэкспресс\""
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7b321f1f9174781e.json",
+  "parameterValues" : [ ]
+}

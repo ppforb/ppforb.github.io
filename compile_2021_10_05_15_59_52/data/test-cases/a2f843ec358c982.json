@@ -1,0 +1,48 @@
+{
+  "uid" : "a2f843ec358c982",
+  "name" : "Популярные события",
+  "fullName" : "Проверка всего в ленте купонов.Популярные события",
+  "historyId" : "a4b837391d24f2e6028bb068d03ea8b9",
+  "time" : {
+    "start" : 1633435131315,
+    "stop" : 1633435131315,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "This test was ignored",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Проверка всего в ленте купонов"
+  }, {
+    "name" : "testClass",
+    "value" : "Проверка всего в ленте купонов"
+  }, {
+    "name" : "testMethod",
+    "value" : "Популярные события"
+  }, {
+    "name" : "package",
+    "value" : "Проверка всего в ленте купонов"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a2f843ec358c982.json",
+  "parameterValues" : [ ]
+}

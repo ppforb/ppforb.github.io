@@ -1,0 +1,48 @@
+{
+  "uid" : "610713f6a536832f",
+  "name" : "Проверка фильтра в горизонтальном положении на выбор события",
+  "fullName" : "Тесты фильтра меню избранное.Проверка фильтра в горизонтальном положении на выбор события",
+  "historyId" : "fa0745f6f516db4133e6b5a25f469909",
+  "time" : {
+    "start" : 1633435131349,
+    "stop" : 1633435131350,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "This test was ignored",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Тесты фильтра меню избранное"
+  }, {
+    "name" : "testClass",
+    "value" : "Тесты фильтра меню избранное"
+  }, {
+    "name" : "testMethod",
+    "value" : "Проверка фильтра в горизонтальном положении на выбор события"
+  }, {
+    "name" : "package",
+    "value" : "Тесты фильтра меню избранное"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "610713f6a536832f.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,48 @@
+{
+  "uid" : "684259de51b9fd3d",
+  "name" : "Проверка избранного в выплатах",
+  "fullName" : "Проверка пополения и выплаты.Проверка избранного в выплатах",
+  "historyId" : "e5468a844c65320741c7e885f43aaff2",
+  "time" : {
+    "start" : 1633435131325,
+    "stop" : 1633435131326,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "This test was ignored",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Проверка пополения и выплаты"
+  }, {
+    "name" : "testClass",
+    "value" : "Проверка пополения и выплаты"
+  }, {
+    "name" : "testMethod",
+    "value" : "Проверка избранного в выплатах"
+  }, {
+    "name" : "package",
+    "value" : "Проверка пополения и выплаты"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "684259de51b9fd3d.json",
+  "parameterValues" : [ ]
+}

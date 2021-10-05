@@ -1,0 +1,48 @@
+{
+  "uid" : "239c124d704a13b2",
+  "name" : "Проверка пакетной ставки во вкладке \"Суперэкспресс\"",
+  "fullName" : "Проверка \"Суперэкспресс\".Проверка пакетной ставки во вкладке \"Суперэкспресс\"",
+  "historyId" : "d091d6b91c7fa8827e7995876724bb86",
+  "time" : {
+    "start" : 1633435131448,
+    "stop" : 1633435131450,
+    "duration" : 2
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "This test was ignored",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Проверка \"Суперэкспресс\""
+  }, {
+    "name" : "testClass",
+    "value" : "Проверка \"Суперэкспресс\""
+  }, {
+    "name" : "testMethod",
+    "value" : "Проверка пакетной ставки во вкладке \"Суперэкспресс\""
+  }, {
+    "name" : "package",
+    "value" : "Проверка \"Суперэкспресс\""
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "239c124d704a13b2.json",
+  "parameterValues" : [ ]
+}

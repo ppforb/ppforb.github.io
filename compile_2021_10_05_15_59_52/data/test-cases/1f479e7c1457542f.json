@@ -1,0 +1,48 @@
+{
+  "uid" : "1f479e7c1457542f",
+  "name" : "Добавляю аккаунт в Акцию серия побед, ставлю ставку, продаю",
+  "fullName" : "Проверка авторизации.Добавляю аккаунт в Акцию серия побед, ставлю ставку, продаю",
+  "historyId" : "1379fcd905e015abbdbd9d525507afc4",
+  "time" : {
+    "start" : 1633435131438,
+    "stop" : 1633435131440,
+    "duration" : 2
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "This test was ignored",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Проверка авторизации"
+  }, {
+    "name" : "testClass",
+    "value" : "Проверка авторизации"
+  }, {
+    "name" : "testMethod",
+    "value" : "Добавляю аккаунт в Акцию серия побед, ставлю ставку, продаю"
+  }, {
+    "name" : "package",
+    "value" : "Проверка авторизации"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1f479e7c1457542f.json",
+  "parameterValues" : [ ]
+}

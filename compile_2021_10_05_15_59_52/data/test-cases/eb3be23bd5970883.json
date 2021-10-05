@@ -1,0 +1,48 @@
+{
+  "uid" : "eb3be23bd5970883",
+  "name" : "Проверка для неидентифицированного клиента",
+  "fullName" : "Проверка пополения и выплаты.Проверка для неидентифицированного клиента",
+  "historyId" : "1e82e31324df5e9f800be71747743a96",
+  "time" : {
+    "start" : 1633435131322,
+    "stop" : 1633435131324,
+    "duration" : 2
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "This test was ignored",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Проверка пополения и выплаты"
+  }, {
+    "name" : "testClass",
+    "value" : "Проверка пополения и выплаты"
+  }, {
+    "name" : "testMethod",
+    "value" : "Проверка для неидентифицированного клиента"
+  }, {
+    "name" : "package",
+    "value" : "Проверка пополения и выплаты"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "eb3be23bd5970883.json",
+  "parameterValues" : [ ]
+}

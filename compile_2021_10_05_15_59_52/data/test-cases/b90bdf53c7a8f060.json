@@ -1,0 +1,48 @@
+{
+  "uid" : "b90bdf53c7a8f060",
+  "name" : "Проверка отображения всех видов трансляций лайф событий ",
+  "fullName" : "Лайв трансляции и eventView.Проверка отображения всех видов трансляций лайф событий ",
+  "historyId" : "edfa817ca61c09f9a4f8d879776c28d2",
+  "time" : {
+    "start" : 1633435131392,
+    "stop" : 1633435131393,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "This test was ignored",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Лайв трансляции и eventView"
+  }, {
+    "name" : "testClass",
+    "value" : "Лайв трансляции и eventView"
+  }, {
+    "name" : "testMethod",
+    "value" : "Проверка отображения всех видов трансляций лайф событий "
+  }, {
+    "name" : "package",
+    "value" : "Лайв трансляции и eventView"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b90bdf53c7a8f060.json",
+  "parameterValues" : [ ]
+}

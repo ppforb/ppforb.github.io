@@ -1,0 +1,48 @@
+{
+  "uid" : "f4ac497134a7399d",
+  "name" : "Проверка ввода суммы больше чем баланс счета",
+  "fullName" : "Проверка всего в ленте купонов.Проверка ввода суммы больше чем баланс счета",
+  "historyId" : "889454e61cec05e9b94ef175be54599f",
+  "time" : {
+    "start" : 1633435131310,
+    "stop" : 1633435131310,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "This test was ignored",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Проверка всего в ленте купонов"
+  }, {
+    "name" : "testClass",
+    "value" : "Проверка всего в ленте купонов"
+  }, {
+    "name" : "testMethod",
+    "value" : "Проверка ввода суммы больше чем баланс счета"
+  }, {
+    "name" : "package",
+    "value" : "Проверка всего в ленте купонов"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f4ac497134a7399d.json",
+  "parameterValues" : [ ]
+}

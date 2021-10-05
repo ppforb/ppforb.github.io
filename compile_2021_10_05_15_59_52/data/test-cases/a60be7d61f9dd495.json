@@ -1,0 +1,48 @@
+{
+  "uid" : "a60be7d61f9dd495",
+  "name" : "Проверка появления окна авторизации на пари без авторизации",
+  "fullName" : "Проверка ленты без авторизации.Проверка появления окна авторизации на пари без авторизации",
+  "historyId" : "1ef30270d9627e852c9363a59355c10a",
+  "time" : {
+    "start" : 1633435131304,
+    "stop" : 1633435131305,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "This test was ignored",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Проверка ленты без авторизации"
+  }, {
+    "name" : "testClass",
+    "value" : "Проверка ленты без авторизации"
+  }, {
+    "name" : "testMethod",
+    "value" : "Проверка появления окна авторизации на пари без авторизации"
+  }, {
+    "name" : "package",
+    "value" : "Проверка ленты без авторизации"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a60be7d61f9dd495.json",
+  "parameterValues" : [ ]
+}
