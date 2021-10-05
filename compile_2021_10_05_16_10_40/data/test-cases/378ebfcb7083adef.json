@@ -1,0 +1,48 @@
+{
+  "uid" : "378ebfcb7083adef",
+  "name" : "Проверка фильтра",
+  "fullName" : "Запросы на выплату.Проверка фильтра",
+  "historyId" : "c2016506114fdcb1191518ac78970fe6",
+  "time" : {
+    "start" : 1633435779799,
+    "stop" : 1633435779801,
+    "duration" : 2
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "This test was ignored",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Запросы на выплату"
+  }, {
+    "name" : "testClass",
+    "value" : "Запросы на выплату"
+  }, {
+    "name" : "testMethod",
+    "value" : "Проверка фильтра"
+  }, {
+    "name" : "package",
+    "value" : "Запросы на выплату"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "378ebfcb7083adef.json",
+  "parameterValues" : [ ]
+}

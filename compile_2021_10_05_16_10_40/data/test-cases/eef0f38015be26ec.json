@@ -1,0 +1,48 @@
+{
+  "uid" : "eef0f38015be26ec",
+  "name" : "Проверка всего функционала из модуля \"Вид\" в настройках сайта",
+  "fullName" : "Проверка настроек сайта.Проверка всего функционала из модуля \"Вид\" в настройках сайта",
+  "historyId" : "7fd1caa1823c79584ea48f8f1cfd6138",
+  "time" : {
+    "start" : 1633435779911,
+    "stop" : 1633435779913,
+    "duration" : 2
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "This test was ignored",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Проверка настроек сайта"
+  }, {
+    "name" : "testClass",
+    "value" : "Проверка настроек сайта"
+  }, {
+    "name" : "testMethod",
+    "value" : "Проверка всего функционала из модуля \"Вид\" в настройках сайта"
+  }, {
+    "name" : "package",
+    "value" : "Проверка настроек сайта"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "eef0f38015be26ec.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,48 @@
+{
+  "uid" : "b8862103447cb02c",
+  "name" : "Проверка карточки заявки",
+  "fullName" : "Запросы на выплату.Проверка карточки заявки",
+  "historyId" : "96a8741eb148cb75985252a20cb42ef6",
+  "time" : {
+    "start" : 1633435779801,
+    "stop" : 1633435779802,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "This test was ignored",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Запросы на выплату"
+  }, {
+    "name" : "testClass",
+    "value" : "Запросы на выплату"
+  }, {
+    "name" : "testMethod",
+    "value" : "Проверка карточки заявки"
+  }, {
+    "name" : "package",
+    "value" : "Запросы на выплату"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b8862103447cb02c.json",
+  "parameterValues" : [ ]
+}

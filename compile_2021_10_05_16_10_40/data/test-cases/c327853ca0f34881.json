@@ -1,0 +1,48 @@
+{
+  "uid" : "c327853ca0f34881",
+  "name" : "Выплата на Яндекс деньги",
+  "fullName" : "Проверка пополения и выплаты.Выплата на Яндекс деньги",
+  "historyId" : "b4673ec574940356593d6e42d98f2ce3",
+  "time" : {
+    "start" : 1633435779794,
+    "stop" : 1633435779795,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "This test was ignored",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Проверка пополения и выплаты"
+  }, {
+    "name" : "testClass",
+    "value" : "Проверка пополения и выплаты"
+  }, {
+    "name" : "testMethod",
+    "value" : "Выплата на Яндекс деньги"
+  }, {
+    "name" : "package",
+    "value" : "Проверка пополения и выплаты"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c327853ca0f34881.json",
+  "parameterValues" : [ ]
+}

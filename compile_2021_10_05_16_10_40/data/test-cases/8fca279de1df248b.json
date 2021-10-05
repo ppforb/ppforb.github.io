@@ -1,0 +1,48 @@
+{
+  "uid" : "8fca279de1df248b",
+  "name" : "Восстановление пароля по тестовому сценарию через email",
+  "fullName" : "Проверка Восстановления пароля.Восстановление пароля по тестовому сценарию через email",
+  "historyId" : "f5068a8741726eebf6b0dfd842c7f4a9",
+  "time" : {
+    "start" : 1633435779829,
+    "stop" : 1633435779830,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "This test was ignored",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Проверка Восстановления пароля"
+  }, {
+    "name" : "testClass",
+    "value" : "Проверка Восстановления пароля"
+  }, {
+    "name" : "testMethod",
+    "value" : "Восстановление пароля по тестовому сценарию через email"
+  }, {
+    "name" : "package",
+    "value" : "Проверка Восстановления пароля"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8fca279de1df248b.json",
+  "parameterValues" : [ ]
+}

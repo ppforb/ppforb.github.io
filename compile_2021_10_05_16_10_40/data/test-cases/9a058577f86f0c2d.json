@@ -1,0 +1,48 @@
+{
+  "uid" : "9a058577f86f0c2d",
+  "name" : "Проверка Максимальной суммы ставки",
+  "fullName" : "Проверка БС, min/max.Проверка Максимальной суммы ставки",
+  "historyId" : "d106758f15e0519c902d85106e5d0c2d",
+  "time" : {
+    "start" : 1633435779778,
+    "stop" : 1633435779778,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "This test was ignored",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Проверка БС, min/max"
+  }, {
+    "name" : "testClass",
+    "value" : "Проверка БС, min/max"
+  }, {
+    "name" : "testMethod",
+    "value" : "Проверка Максимальной суммы ставки"
+  }, {
+    "name" : "package",
+    "value" : "Проверка БС, min/max"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9a058577f86f0c2d.json",
+  "parameterValues" : [ ]
+}

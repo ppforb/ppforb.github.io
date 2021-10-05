@@ -1,0 +1,48 @@
+{
+  "uid" : "e046e980a68c9909",
+  "name" : "Сравнение фильтра времени у конкретного спорта в горизонтальном и вертикальном ",
+  "fullName" : "Тесты фильтра меню избранное.Сравнение фильтра времени у конкретного спорта в горизонтальном и вертикальном ",
+  "historyId" : "7d53c8983b34e928a6b8c434bf5d0d3a",
+  "time" : {
+    "start" : 1633435779808,
+    "stop" : 1633435779809,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "This test was ignored",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Тесты фильтра меню избранное"
+  }, {
+    "name" : "testClass",
+    "value" : "Тесты фильтра меню избранное"
+  }, {
+    "name" : "testMethod",
+    "value" : "Сравнение фильтра времени у конкретного спорта в горизонтальном и вертикальном "
+  }, {
+    "name" : "package",
+    "value" : "Тесты фильтра меню избранное"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e046e980a68c9909.json",
+  "parameterValues" : [ ]
+}

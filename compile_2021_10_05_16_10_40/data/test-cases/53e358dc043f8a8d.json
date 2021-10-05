@@ -1,0 +1,48 @@
+{
+  "uid" : "53e358dc043f8a8d",
+  "name" : "Проверка фильтров",
+  "fullName" : "Тесты на запросы из личного кабинета.Проверка фильтров",
+  "historyId" : "c73a4e3d63b7f704e33d4124368263f1",
+  "time" : {
+    "start" : 1633435779893,
+    "stop" : 1633435779896,
+    "duration" : 3
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "This test was ignored",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Тесты на запросы из личного кабинета"
+  }, {
+    "name" : "testClass",
+    "value" : "Тесты на запросы из личного кабинета"
+  }, {
+    "name" : "testMethod",
+    "value" : "Проверка фильтров"
+  }, {
+    "name" : "package",
+    "value" : "Тесты на запросы из личного кабинета"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "53e358dc043f8a8d.json",
+  "parameterValues" : [ ]
+}
