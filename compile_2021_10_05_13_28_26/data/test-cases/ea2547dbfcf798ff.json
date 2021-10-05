@@ -1,0 +1,48 @@
+{
+  "uid" : "ea2547dbfcf798ff",
+  "name" : "Проверка табов",
+  "fullName" : "Запросы на выплату.Проверка табов",
+  "historyId" : "436d4cb4ed30800f335ac2090100ec3d",
+  "time" : {
+    "start" : 1633426045332,
+    "stop" : 1633426045333,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "This test was ignored",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Запросы на выплату"
+  }, {
+    "name" : "testClass",
+    "value" : "Запросы на выплату"
+  }, {
+    "name" : "testMethod",
+    "value" : "Проверка табов"
+  }, {
+    "name" : "package",
+    "value" : "Запросы на выплату"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ea2547dbfcf798ff.json",
+  "parameterValues" : [ ]
+}

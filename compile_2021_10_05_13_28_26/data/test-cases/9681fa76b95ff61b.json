@@ -1,0 +1,48 @@
+{
+  "uid" : "9681fa76b95ff61b",
+  "name" : "Проверка разворачивания доп пари и доч событий",
+  "fullName" : "Провекра гридов с соревнованиями в линии/лайве.Проверка разворачивания доп пари и доч событий",
+  "historyId" : "ef26ea67211499bb105e8e3ab4af5574",
+  "time" : {
+    "start" : 1633426045347,
+    "stop" : 1633426045348,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "This test was ignored",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Провекра гридов с соревнованиями в линии/лайве"
+  }, {
+    "name" : "testClass",
+    "value" : "Провекра гридов с соревнованиями в линии/лайве"
+  }, {
+    "name" : "testMethod",
+    "value" : "Проверка разворачивания доп пари и доч событий"
+  }, {
+    "name" : "package",
+    "value" : "Провекра гридов с соревнованиями в линии/лайве"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9681fa76b95ff61b.json",
+  "parameterValues" : [ ]
+}

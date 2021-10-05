@@ -1,0 +1,48 @@
+{
+  "uid" : "34f3cdabca6821aa",
+  "name" : "Проверка скрытия баланса",
+  "fullName" : "Тесты на личный кабинет.Проверка скрытия баланса",
+  "historyId" : "6cd95be3a3f18ea896745615bf39dbe",
+  "time" : {
+    "start" : 1633426045405,
+    "stop" : 1633426045407,
+    "duration" : 2
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "This test was ignored",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Тесты на личный кабинет"
+  }, {
+    "name" : "testClass",
+    "value" : "Тесты на личный кабинет"
+  }, {
+    "name" : "testMethod",
+    "value" : "Проверка скрытия баланса"
+  }, {
+    "name" : "package",
+    "value" : "Тесты на личный кабинет"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "34f3cdabca6821aa.json",
+  "parameterValues" : [ ]
+}

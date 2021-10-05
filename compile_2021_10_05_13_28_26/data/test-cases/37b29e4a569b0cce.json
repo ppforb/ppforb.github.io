@@ -1,0 +1,48 @@
+{
+  "uid" : "37b29e4a569b0cce",
+  "name" : "Выплата на телефон",
+  "fullName" : "Проверка пополения и выплаты.Выплата на телефон",
+  "historyId" : "55021518d9f03bdad4af8ce28d8bf124",
+  "time" : {
+    "start" : 1633426045327,
+    "stop" : 1633426045327,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "This test was ignored",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Проверка пополения и выплаты"
+  }, {
+    "name" : "testClass",
+    "value" : "Проверка пополения и выплаты"
+  }, {
+    "name" : "testMethod",
+    "value" : "Выплата на телефон"
+  }, {
+    "name" : "package",
+    "value" : "Проверка пополения и выплаты"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "37b29e4a569b0cce.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,48 @@
+{
+  "uid" : "25e3062d3586bcb5",
+  "name" : "Проверка разворачивания/сворачивания всех дочерних событий и доп. пари",
+  "fullName" : "Тесты фильтра меню избранное.Проверка разворачивания/сворачивания всех дочерних событий и доп. пари",
+  "historyId" : "f25ffae9fa08432489c56d12ec237f5e",
+  "time" : {
+    "start" : 1633426045340,
+    "stop" : 1633426045341,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "This test was ignored",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Тесты фильтра меню избранное"
+  }, {
+    "name" : "testClass",
+    "value" : "Тесты фильтра меню избранное"
+  }, {
+    "name" : "testMethod",
+    "value" : "Проверка разворачивания/сворачивания всех дочерних событий и доп. пари"
+  }, {
+    "name" : "package",
+    "value" : "Тесты фильтра меню избранное"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "25e3062d3586bcb5.json",
+  "parameterValues" : [ ]
+}

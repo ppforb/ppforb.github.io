@@ -1,0 +1,48 @@
+{
+  "uid" : "56205d6d31ab3aed",
+  "name" : "Проверка ввода промокода Бонусы",
+  "fullName" : "Тесты на вкладку Бонусы.Проверка ввода промокода Бонусы",
+  "historyId" : "27fe227dcf3152e88982d8f8368c99eb",
+  "time" : {
+    "start" : 1633426045388,
+    "stop" : 1633426045390,
+    "duration" : 2
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "This test was ignored",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Тесты на вкладку Бонусы"
+  }, {
+    "name" : "testClass",
+    "value" : "Тесты на вкладку Бонусы"
+  }, {
+    "name" : "testMethod",
+    "value" : "Проверка ввода промокода Бонусы"
+  }, {
+    "name" : "package",
+    "value" : "Тесты на вкладку Бонусы"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "56205d6d31ab3aed.json",
+  "parameterValues" : [ ]
+}

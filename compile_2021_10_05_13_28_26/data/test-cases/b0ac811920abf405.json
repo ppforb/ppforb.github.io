@@ -1,0 +1,48 @@
+{
+  "uid" : "b0ac811920abf405",
+  "name" : "Тест на слишком частый ввод пароля неправильный",
+  "fullName" : "Проверка авторизации.Тест на слишком частый ввод пароля неправильный",
+  "historyId" : "6b8225662e12aeb6db3f5d52067439b2",
+  "time" : {
+    "start" : 1633426045288,
+    "stop" : 1633426045288,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "This test was ignored",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Проверка авторизации"
+  }, {
+    "name" : "testClass",
+    "value" : "Проверка авторизации"
+  }, {
+    "name" : "testMethod",
+    "value" : "Тест на слишком частый ввод пароля неправильный"
+  }, {
+    "name" : "package",
+    "value" : "Проверка авторизации"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b0ac811920abf405.json",
+  "parameterValues" : [ ]
+}

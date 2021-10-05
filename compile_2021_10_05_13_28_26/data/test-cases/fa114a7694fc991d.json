@@ -1,0 +1,48 @@
+{
+  "uid" : "fa114a7694fc991d",
+  "name" : "Проверка истории ставок у нового пользователя",
+  "fullName" : "Проверка ленты без авторизации.Проверка истории ставок у нового пользователя",
+  "historyId" : "eaf3a4382edd28bb443c683a9e92912b",
+  "time" : {
+    "start" : 1633426045299,
+    "stop" : 1633426045300,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "This test was ignored",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Проверка ленты без авторизации"
+  }, {
+    "name" : "testClass",
+    "value" : "Проверка ленты без авторизации"
+  }, {
+    "name" : "testMethod",
+    "value" : "Проверка истории ставок у нового пользователя"
+  }, {
+    "name" : "package",
+    "value" : "Проверка ленты без авторизации"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fa114a7694fc991d.json",
+  "parameterValues" : [ ]
+}

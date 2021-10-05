@@ -1,0 +1,48 @@
+{
+  "uid" : "c75cf1a793b50d60",
+  "name" : "Авторизация клиента с неправильный паролем",
+  "fullName" : "Проверка авторизации.Авторизация клиента с неправильный паролем",
+  "historyId" : "7c2f0b2b2dd30133f38c0dcf920e8ae9",
+  "time" : {
+    "start" : 1633426045287,
+    "stop" : 1633426045288,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "This test was ignored",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Проверка авторизации"
+  }, {
+    "name" : "testClass",
+    "value" : "Проверка авторизации"
+  }, {
+    "name" : "testMethod",
+    "value" : "Авторизация клиента с неправильный паролем"
+  }, {
+    "name" : "package",
+    "value" : "Проверка авторизации"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c75cf1a793b50d60.json",
+  "parameterValues" : [ ]
+}

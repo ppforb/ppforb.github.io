@@ -1,0 +1,114 @@
+{
+  "total" : 19,
+  "items" : [ {
+    "uid" : "ad18b79960a1e6dd8959e0df8d85e0f8",
+    "name" : "Проверка авторизации",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 11,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 12
+    }
+  }, {
+    "uid" : "70b3024019ee01094bbd0f624d9d3be4",
+    "name" : "Проверка пополения и выплаты",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 13,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 13
+    }
+  }, {
+    "uid" : "a8f264e785e3d81fa026e62544950342",
+    "name" : "Проверка всего в ленте купонов",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 12,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 12
+    }
+  }, {
+    "uid" : "14cdb201b99f34d604a3c68295c5656b",
+    "name" : "Тесты на личный кабинет",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 11,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 11
+    }
+  }, {
+    "uid" : "b2e05f5ce2eadeb7816662a151d23250",
+    "name" : "Тесты на запросы из личного кабинета",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 9,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 9
+    }
+  }, {
+    "uid" : "126849d231ce0884858c91d88c8a96a3",
+    "name" : "Проверка настроек сайта",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 8,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 8
+    }
+  }, {
+    "uid" : "b67dd22099d81180105cfb7bc014d588",
+    "name" : "Тесты фильтра меню избранное",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 6,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 6
+    }
+  }, {
+    "uid" : "69e3cb51db773173f5483192269d09c9",
+    "name" : "Тесты на вкладку Бонусы",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 5,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 5
+    }
+  }, {
+    "uid" : "d81137b0d9b438f2371137923b5d1260",
+    "name" : "Проверка БС, min/max",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 4,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 4
+    }
+  }, {
+    "uid" : "6451ac8aeb77b7b7cddac0fef8b7037d",
+    "name" : "Тесты на производительность",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 4,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 4
+    }
+  } ]
+}

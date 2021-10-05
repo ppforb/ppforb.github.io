@@ -1,0 +1,48 @@
+{
+  "uid" : "fa7d9fda86226b45",
+  "name" : "Нагрузка процессора",
+  "fullName" : "Тесты на производительность.Нагрузка процессора",
+  "historyId" : "89398dca497cc127a1b673c15e0802b4",
+  "time" : {
+    "start" : 1633426045377,
+    "stop" : 1633426045380,
+    "duration" : 3
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "This test was ignored",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Тесты на производительность"
+  }, {
+    "name" : "testClass",
+    "value" : "Тесты на производительность"
+  }, {
+    "name" : "testMethod",
+    "value" : "Нагрузка процессора"
+  }, {
+    "name" : "package",
+    "value" : "Тесты на производительность"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fa7d9fda86226b45.json",
+  "parameterValues" : [ ]
+}

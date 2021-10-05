@@ -1,0 +1,48 @@
+{
+  "uid" : "f949689b669b2278",
+  "name" : "Функционал EventView в Лайв событиях",
+  "fullName" : "Лайв трансляции и eventView.Функционал EventView в Лайв событиях",
+  "historyId" : "abaa5518e645d720a45ddf77dbe455f",
+  "time" : {
+    "start" : 1633426045366,
+    "stop" : 1633426045368,
+    "duration" : 2
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "This test was ignored",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Лайв трансляции и eventView"
+  }, {
+    "name" : "testClass",
+    "value" : "Лайв трансляции и eventView"
+  }, {
+    "name" : "testMethod",
+    "value" : "Функционал EventView в Лайв событиях"
+  }, {
+    "name" : "package",
+    "value" : "Лайв трансляции и eventView"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f949689b669b2278.json",
+  "parameterValues" : [ ]
+}

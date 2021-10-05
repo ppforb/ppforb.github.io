@@ -1,0 +1,48 @@
+{
+  "uid" : "9e3e39810655a4ef",
+  "name" : "Горизонтальное положение, проверка свитчера и компактный режим ",
+  "fullName" : "Тесты фильтра меню избранное.Горизонтальное положение, проверка свитчера и компактный режим ",
+  "historyId" : "b915300c07144f753e7b6e1358553e7d",
+  "time" : {
+    "start" : 1633426045337,
+    "stop" : 1633426045339,
+    "duration" : 2
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "This test was ignored",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Тесты фильтра меню избранное"
+  }, {
+    "name" : "testClass",
+    "value" : "Тесты фильтра меню избранное"
+  }, {
+    "name" : "testMethod",
+    "value" : "Горизонтальное положение, проверка свитчера и компактный режим "
+  }, {
+    "name" : "package",
+    "value" : "Тесты фильтра меню избранное"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9e3e39810655a4ef.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,48 @@
+{
+  "uid" : "60cc034b17eefc4d",
+  "name" : "Проверка любимой ставки",
+  "fullName" : "Проверка настроек сайта.Проверка любимой ставки",
+  "historyId" : "f4448429202fa77e5834625aae89b04c",
+  "time" : {
+    "start" : 1633426045459,
+    "stop" : 1633426045461,
+    "duration" : 2
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "This test was ignored",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Проверка настроек сайта"
+  }, {
+    "name" : "testClass",
+    "value" : "Проверка настроек сайта"
+  }, {
+    "name" : "testMethod",
+    "value" : "Проверка любимой ставки"
+  }, {
+    "name" : "package",
+    "value" : "Проверка настроек сайта"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "60cc034b17eefc4d.json",
+  "parameterValues" : [ ]
+}
