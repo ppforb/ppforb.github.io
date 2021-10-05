@@ -1,0 +1,48 @@
+{
+  "uid" : "7a781f9cc77d730e",
+  "name" : "Проверка поиска в результатах",
+  "fullName" : "Проверка работы всего функицонала во вкладке \"Результат\".Проверка поиска в результатах",
+  "historyId" : "4f9739ce462148a58e4ad1edd5153207",
+  "time" : {
+    "start" : 1633435976980,
+    "stop" : 1633435976981,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "This test was ignored",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Проверка работы всего функицонала во вкладке \"Результат\""
+  }, {
+    "name" : "testClass",
+    "value" : "Проверка работы всего функицонала во вкладке \"Результат\""
+  }, {
+    "name" : "testMethod",
+    "value" : "Проверка поиска в результатах"
+  }, {
+    "name" : "package",
+    "value" : "Проверка работы всего функицонала во вкладке \"Результат\""
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7a781f9cc77d730e.json",
+  "parameterValues" : [ ]
+}

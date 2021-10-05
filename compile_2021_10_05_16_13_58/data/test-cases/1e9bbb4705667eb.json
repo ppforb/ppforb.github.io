@@ -1,0 +1,48 @@
+{
+  "uid" : "1e9bbb4705667eb",
+  "name" : "Проверка платежного фрейма карты банка",
+  "fullName" : "Проверка пополения и выплаты.Проверка платежного фрейма карты банка",
+  "historyId" : "492ff63e7d4c55ee33fa4a29b1810136",
+  "time" : {
+    "start" : 1633435976853,
+    "stop" : 1633435976854,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "This test was ignored",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Проверка пополения и выплаты"
+  }, {
+    "name" : "testClass",
+    "value" : "Проверка пополения и выплаты"
+  }, {
+    "name" : "testMethod",
+    "value" : "Проверка платежного фрейма карты банка"
+  }, {
+    "name" : "package",
+    "value" : "Проверка пополения и выплаты"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1e9bbb4705667eb.json",
+  "parameterValues" : [ ]
+}

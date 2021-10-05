@@ -1,0 +1,48 @@
+{
+  "uid" : "c59a1fa0d4787c5d",
+  "name" : "Проверка подстановки суммы предыдущей ставки",
+  "fullName" : "Проверка всего в ленте купонов.Проверка подстановки суммы предыдущей ставки",
+  "historyId" : "8e430621992b10854e5d98cee1b213d5",
+  "time" : {
+    "start" : 1633435976837,
+    "stop" : 1633435976837,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "This test was ignored",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Проверка всего в ленте купонов"
+  }, {
+    "name" : "testClass",
+    "value" : "Проверка всего в ленте купонов"
+  }, {
+    "name" : "testMethod",
+    "value" : "Проверка подстановки суммы предыдущей ставки"
+  }, {
+    "name" : "package",
+    "value" : "Проверка всего в ленте купонов"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c59a1fa0d4787c5d.json",
+  "parameterValues" : [ ]
+}

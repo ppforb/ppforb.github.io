@@ -1,0 +1,48 @@
+{
+  "uid" : "d30e4a799b0e1377",
+  "name" : "Открытие формы Регистрации из формы авторизации",
+  "fullName" : "Проверка авторизации.Открытие формы Регистрации из формы авторизации",
+  "historyId" : "2f53094945f6e430bdd77ca4785908d3",
+  "time" : {
+    "start" : 1633435976812,
+    "stop" : 1633435976814,
+    "duration" : 2
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "Temporarily disabled with xit",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Проверка авторизации"
+  }, {
+    "name" : "testClass",
+    "value" : "Проверка авторизации"
+  }, {
+    "name" : "testMethod",
+    "value" : "Открытие формы Регистрации из формы авторизации"
+  }, {
+    "name" : "package",
+    "value" : "Проверка авторизации"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d30e4a799b0e1377.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,48 @@
+{
+  "uid" : "91eb7de25d4d18cd",
+  "name" : "Тестовый сценарий лимитов на депозиты",
+  "fullName" : "Тесты на личный кабинет.Тестовый сценарий лимитов на депозиты",
+  "historyId" : "9c9e83dc16dba236278ccecb74b6bafd",
+  "time" : {
+    "start" : 1633435976967,
+    "stop" : 1633435976968,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "This test was ignored",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Тесты на личный кабинет"
+  }, {
+    "name" : "testClass",
+    "value" : "Тесты на личный кабинет"
+  }, {
+    "name" : "testMethod",
+    "value" : "Тестовый сценарий лимитов на депозиты"
+  }, {
+    "name" : "package",
+    "value" : "Тесты на личный кабинет"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "91eb7de25d4d18cd.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "a91931a824e05c8e",
+  "name" : "Авторизация клиента по email",
+  "fullName" : "Проверка авторизации.Авторизация клиента по email",
+  "historyId" : "4190c63db598588924ae4118104fd486",
+  "time" : {
+    "start" : 1633435932421,
+    "stop" : 1633435940674,
+    "duration" : 8253
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Проверка авторизации"
+  }, {
+    "name" : "testClass",
+    "value" : "Проверка авторизации"
+  }, {
+    "name" : "testMethod",
+    "value" : "Авторизация клиента по email"
+  }, {
+    "name" : "package",
+    "value" : "Проверка авторизации"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a91931a824e05c8e.json",
+  "parameterValues" : [ ]
+}

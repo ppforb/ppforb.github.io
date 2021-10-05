@@ -1,0 +1,48 @@
+{
+  "uid" : "bbda61e1b03e2c26",
+  "name" : "Восстановление пароля по тестовому сценарию через номер телефона",
+  "fullName" : "Проверка Восстановления пароля.Восстановление пароля по тестовому сценарию через номер телефона",
+  "historyId" : "1a241355fcea93f80240db41d5242b78",
+  "time" : {
+    "start" : 1633435976940,
+    "stop" : 1633435976941,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "This test was ignored",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Проверка Восстановления пароля"
+  }, {
+    "name" : "testClass",
+    "value" : "Проверка Восстановления пароля"
+  }, {
+    "name" : "testMethod",
+    "value" : "Восстановление пароля по тестовому сценарию через номер телефона"
+  }, {
+    "name" : "package",
+    "value" : "Проверка Восстановления пароля"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bbda61e1b03e2c26.json",
+  "parameterValues" : [ ]
+}

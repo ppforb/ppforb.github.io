@@ -1,0 +1,48 @@
+{
+  "uid" : "30f8d8cb6422a204",
+  "name" : "Проверка чекбокса Только текущие",
+  "fullName" : "Проверка работы всего функицонала во вкладке \"Результат\".Проверка чекбокса Только текущие",
+  "historyId" : "81faaf19c272b95f5db8d2dfaead4142",
+  "time" : {
+    "start" : 1633435976979,
+    "stop" : 1633435976980,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "This test was ignored",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Проверка работы всего функицонала во вкладке \"Результат\""
+  }, {
+    "name" : "testClass",
+    "value" : "Проверка работы всего функицонала во вкладке \"Результат\""
+  }, {
+    "name" : "testMethod",
+    "value" : "Проверка чекбокса Только текущие"
+  }, {
+    "name" : "package",
+    "value" : "Проверка работы всего функицонала во вкладке \"Результат\""
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "30f8d8cb6422a204.json",
+  "parameterValues" : [ ]
+}

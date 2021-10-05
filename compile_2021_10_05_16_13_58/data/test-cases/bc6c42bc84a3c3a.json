@@ -1,0 +1,48 @@
+{
+  "uid" : "bc6c42bc84a3c3a",
+  "name" : "Проверка Фрибета и БП",
+  "fullName" : "Проверка БС, min/max.Проверка Фрибета и БП",
+  "historyId" : "510f2d6dbb3d13360d05fbab6918507b",
+  "time" : {
+    "start" : 1633435976843,
+    "stop" : 1633435976844,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "This test was ignored",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Проверка БС, min/max"
+  }, {
+    "name" : "testClass",
+    "value" : "Проверка БС, min/max"
+  }, {
+    "name" : "testMethod",
+    "value" : "Проверка Фрибета и БП"
+  }, {
+    "name" : "package",
+    "value" : "Проверка БС, min/max"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bc6c42bc84a3c3a.json",
+  "parameterValues" : [ ]
+}

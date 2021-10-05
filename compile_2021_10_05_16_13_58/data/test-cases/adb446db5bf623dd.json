@@ -1,0 +1,48 @@
+{
+  "uid" : "adb446db5bf623dd",
+  "name" : "Проверка кол-ва трансляций в фильтре трансляций",
+  "fullName" : "Лайв трансляции и eventView.Проверка кол-ва трансляций в фильтре трансляций",
+  "historyId" : "769cf605be95e16b5f079182bbb53313",
+  "time" : {
+    "start" : 1633435976938,
+    "stop" : 1633435976939,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "This test was ignored",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Лайв трансляции и eventView"
+  }, {
+    "name" : "testClass",
+    "value" : "Лайв трансляции и eventView"
+  }, {
+    "name" : "testMethod",
+    "value" : "Проверка кол-ва трансляций в фильтре трансляций"
+  }, {
+    "name" : "package",
+    "value" : "Лайв трансляции и eventView"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "adb446db5bf623dd.json",
+  "parameterValues" : [ ]
+}

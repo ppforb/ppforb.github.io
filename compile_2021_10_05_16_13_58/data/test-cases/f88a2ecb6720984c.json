@@ -1,0 +1,46 @@
+{
+  "uid" : "f88a2ecb6720984c",
+  "name" : "Проверка протушей  сессии",
+  "fullName" : "Проверка авторизации.Проверка протушей  сессии",
+  "historyId" : "147a16525ae0755e77b9b04727bacd4c",
+  "time" : {
+    "start" : 1633435910645,
+    "stop" : 1633435924138,
+    "duration" : 13493
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Проверка авторизации"
+  }, {
+    "name" : "testClass",
+    "value" : "Проверка авторизации"
+  }, {
+    "name" : "testMethod",
+    "value" : "Проверка протушей  сессии"
+  }, {
+    "name" : "package",
+    "value" : "Проверка авторизации"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f88a2ecb6720984c.json",
+  "parameterValues" : [ ]
+}
