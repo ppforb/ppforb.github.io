@@ -1,0 +1,48 @@
+{
+  "uid" : "e99c2aed20fb5309",
+  "name" : "Проверка соответсвтия ставки в гриде и ставки в купоне",
+  "fullName" : "Провекра гридов с соревнованиями в линии/лайве.Проверка соответсвтия ставки в гриде и ставки в купоне",
+  "historyId" : "c58bd2c9c853b8c5543a2b96c800f5f8",
+  "time" : {
+    "start" : 1633953179814,
+    "stop" : 1633953179828,
+    "duration" : 14
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "This test was ignored",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Провекра гридов с соревнованиями в линии/лайве"
+  }, {
+    "name" : "testClass",
+    "value" : "Провекра гридов с соревнованиями в линии/лайве"
+  }, {
+    "name" : "testMethod",
+    "value" : "Проверка соответсвтия ставки в гриде и ставки в купоне"
+  }, {
+    "name" : "package",
+    "value" : "Провекра гридов с соревнованиями в линии/лайве"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e99c2aed20fb5309.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,161 @@
+{
+  "uid" : "f7b0242120d303c7",
+  "name" : "Проверка разворачивания/сворачивания всех дочерних событий и доп. пари",
+  "fullName" : "Тесты фильтра меню избранное.Проверка разворачивания/сворачивания всех дочерних событий и доп. пари",
+  "historyId" : "f25ffae9fa08432489c56d12ec237f5e",
+  "time" : {
+    "start" : 1633953149476,
+    "stop" : 1633953157626,
+    "duration" : 8150
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Установка дефолтных настроек",
+      "time" : {
+        "start" : 1633953154339,
+        "stop" : 1633953154339,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Установка дефолтных настроек",
+      "time" : {
+        "start" : 1633953154433,
+        "stop" : 1633953154433,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Переход в Спорт",
+      "time" : {
+        "start" : 1633953154512,
+        "stop" : 1633953154512,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Выбор событий в ближ 2 дня",
+      "time" : {
+        "start" : 1633953156315,
+        "stop" : 1633953156315,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Развернуть все дочерние эл-ты",
+      "time" : {
+        "start" : 1633953156503,
+        "stop" : 1633953156503,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Свернуть все дочерние эл-ты",
+      "time" : {
+        "start" : 1633953156759,
+        "stop" : 1633953156759,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Свернуть все доп пари",
+      "time" : {
+        "start" : 1633953157265,
+        "stop" : 1633953157265,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 7,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Тесты фильтра меню избранное"
+  }, {
+    "name" : "testClass",
+    "value" : "Тесты фильтра меню избранное"
+  }, {
+    "name" : "testMethod",
+    "value" : "Проверка разворачивания/сворачивания всех дочерних событий и доп. пари"
+  }, {
+    "name" : "package",
+    "value" : "Тесты фильтра меню избранное"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f7b0242120d303c7.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,79 @@
+{
+  "uid" : "7ee08acfc20cb11",
+  "name" : "Проверка Фрибета/Бп с нулевым балансом клиента",
+  "fullName" : "Проверка БС, min/max.Проверка Фрибета/Бп с нулевым балансом клиента",
+  "historyId" : "300a52097a2959db31c9378e578a7e5",
+  "time" : {
+    "start" : 1633952749493,
+    "stop" : 1633952767562,
+    "duration" : 18069
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Failed: \n                \tTimed out after 5000ms, while waiting for:\n                \tbrowser.element(By(xpath, //*[@class='header__login-head']/a[1])).click\n                Reason:\n                \telement click intercepted: Element <a class=\"header-btn _login-btn\" tabindex=\"0\" style=\"min-width: 70px;\">...</a> is not clickable at point (2051, 17). Other element would receive the click: <i class=\"authorization__overlay\"></i>\n                  (Session info: chrome=94.0.4606.71)\n                  (Driver info: chromedriver=94.0.4606.61 (418b78f5838ed0b1c69bb4e51ea0252171854915-refs/branch-heads/4606@{#1204}),platform=Mac OS X 11.4.0 x86_64)",
+  "statusTrace" : "Error: \n                \tTimed out after 5000ms, while waiting for:\n                \tbrowser.element(By(xpath, //*[@class='header__login-head']/a[1])).click\n                Reason:\n                \telement click intercepted: Element <a class=\"header-btn _login-btn\" tabindex=\"0\" style=\"min-width: 70px;\">...</a> is not clickable at point (2051, 17). Other element would receive the click: <i class=\"authorization__overlay\"></i>\n                  (Session info: chrome=94.0.4606.71)\n                  (Driver info: chromedriver=94.0.4606.61 (418b78f5838ed0b1c69bb4e51ea0252171854915-refs/branch-heads/4606@{#1204}),platform=Mac OS X 11.4.0 x86_64)\n                    at Wait.for (/Users/forb/Documents/js_web/node_modules/selenidejs/lib/wait.ts:231:37)\n                    at runMicrotasks (<anonymous>)\n                    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n                    at Element.click (/Users/forb/Documents/js_web/node_modules/selenidejs/lib/element.ts:111:9)\n                    at myClass.loginWebSite (/Users/forb/Documents/js_web/build/test/pages/appClass.js:28:9)\n                    at UserContext.<anonymous> (/Users/forb/Documents/js_web/build/base.js:58:5)\n                From asynchronous test: \n                Error\n                    at Object.<anonymous> (/Users/forb/Documents/js_web/build/base.js:45:1)\n                    at Module._compile (internal/modules/cjs/loader.js:1085:14)\n                    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)\n                    at Module.load (internal/modules/cjs/loader.js:950:32)\n                    at Function.Module._load (internal/modules/cjs/loader.js:790:14)\n                    at Module.require (internal/modules/cjs/loader.js:974:19)\n                    at require (internal/modules/cjs/helpers.js:92:18)\n                    at Object.<anonymous> (/Users/forb/Documents/js_web/build/test/authorization.spec.js:3:16)\n                    at Module._compile (internal/modules/cjs/loader.js:1085:14)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "Failed: \n                \tTimed out after 5000ms, while waiting for:\n                \tbrowser.element(By(xpath, //*[@class='header__login-head']/a[1])).click\n                Reason:\n                \telement click intercepted: Element <a class=\"header-btn _login-btn\" tabindex=\"0\" style=\"min-width: 70px;\">...</a> is not clickable at point (2051, 17). Other element would receive the click: <i class=\"authorization__overlay\"></i>\n                  (Session info: chrome=94.0.4606.71)\n                  (Driver info: chromedriver=94.0.4606.61 (418b78f5838ed0b1c69bb4e51ea0252171854915-refs/branch-heads/4606@{#1204}),platform=Mac OS X 11.4.0 x86_64)",
+    "statusTrace" : "Error: \n                \tTimed out after 5000ms, while waiting for:\n                \tbrowser.element(By(xpath, //*[@class='header__login-head']/a[1])).click\n                Reason:\n                \telement click intercepted: Element <a class=\"header-btn _login-btn\" tabindex=\"0\" style=\"min-width: 70px;\">...</a> is not clickable at point (2051, 17). Other element would receive the click: <i class=\"authorization__overlay\"></i>\n                  (Session info: chrome=94.0.4606.71)\n                  (Driver info: chromedriver=94.0.4606.61 (418b78f5838ed0b1c69bb4e51ea0252171854915-refs/branch-heads/4606@{#1204}),platform=Mac OS X 11.4.0 x86_64)\n                    at Wait.for (/Users/forb/Documents/js_web/node_modules/selenidejs/lib/wait.ts:231:37)\n                    at runMicrotasks (<anonymous>)\n                    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n                    at Element.click (/Users/forb/Documents/js_web/node_modules/selenidejs/lib/element.ts:111:9)\n                    at myClass.loginWebSite (/Users/forb/Documents/js_web/build/test/pages/appClass.js:28:9)\n                    at UserContext.<anonymous> (/Users/forb/Documents/js_web/build/base.js:58:5)\n                From asynchronous test: \n                Error\n                    at Object.<anonymous> (/Users/forb/Documents/js_web/build/base.js:45:1)\n                    at Module._compile (internal/modules/cjs/loader.js:1085:14)\n                    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)\n                    at Module.load (internal/modules/cjs/loader.js:950:32)\n                    at Function.Module._load (internal/modules/cjs/loader.js:790:14)\n                    at Module.require (internal/modules/cjs/loader.js:974:19)\n                    at require (internal/modules/cjs/helpers.js:92:18)\n                    at Object.<anonymous> (/Users/forb/Documents/js_web/build/test/authorization.spec.js:3:16)\n                    at Module._compile (internal/modules/cjs/loader.js:1085:14)",
+    "steps" : [ {
+      "name" : "Добавляю БС",
+      "time" : {
+        "start" : 1633952766522,
+        "stop" : 1633952766522,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Проверка БС, min/max"
+  }, {
+    "name" : "testClass",
+    "value" : "Проверка БС, min/max"
+  }, {
+    "name" : "testMethod",
+    "value" : "Проверка Фрибета/Бп с нулевым балансом клиента"
+  }, {
+    "name" : "package",
+    "value" : "Проверка БС, min/max"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "7ee08acfc20cb11.json",
+  "parameterValues" : [ ]
+}

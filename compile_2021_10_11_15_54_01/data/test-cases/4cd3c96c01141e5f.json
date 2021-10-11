@@ -1,0 +1,101 @@
+{
+  "uid" : "4cd3c96c01141e5f",
+  "name" : "Проверка любимой ставки и подстановки старой",
+  "fullName" : "Проверка всего в ленте купонов.Проверка любимой ставки и подстановки старой",
+  "historyId" : "6339e046a4155dba205d1c3eeba70eca",
+  "time" : {
+    "start" : 1633952614393,
+    "stop" : 1633952622419,
+    "duration" : 8026
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Установка дефолтных настроек",
+      "time" : {
+        "start" : 1633952619637,
+        "stop" : 1633952619637,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Переход в Спорт",
+      "time" : {
+        "start" : 1633952619737,
+        "stop" : 1633952619737,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Выбираю 1 событие с кэф из линии [2]",
+      "time" : {
+        "start" : 1633952621671,
+        "stop" : 1633952621671,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 3,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Проверка всего в ленте купонов"
+  }, {
+    "name" : "testClass",
+    "value" : "Проверка всего в ленте купонов"
+  }, {
+    "name" : "testMethod",
+    "value" : "Проверка любимой ставки и подстановки старой"
+  }, {
+    "name" : "package",
+    "value" : "Проверка всего в ленте купонов"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4cd3c96c01141e5f.json",
+  "parameterValues" : [ ]
+}

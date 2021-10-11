@@ -1,0 +1,48 @@
+{
+  "uid" : "e3d42f66cc27ad24",
+  "name" : "Проверка настроек Диалоги",
+  "fullName" : "Проверка настроек сайта.Проверка настроек Диалоги",
+  "historyId" : "61a8f78ca48ec92d3e7819d9d2b95798",
+  "time" : {
+    "start" : 1633953180627,
+    "stop" : 1633953180639,
+    "duration" : 12
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "This test was ignored",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Проверка настроек сайта"
+  }, {
+    "name" : "testClass",
+    "value" : "Проверка настроек сайта"
+  }, {
+    "name" : "testMethod",
+    "value" : "Проверка настроек Диалоги"
+  }, {
+    "name" : "package",
+    "value" : "Проверка настроек сайта"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e3d42f66cc27ad24.json",
+  "parameterValues" : [ ]
+}

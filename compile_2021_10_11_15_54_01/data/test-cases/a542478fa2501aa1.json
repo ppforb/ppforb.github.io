@@ -1,0 +1,131 @@
+{
+  "uid" : "a542478fa2501aa1",
+  "name" : "Проверка избранного в выплатах",
+  "fullName" : "Проверка пополения и выплаты.Проверка избранного в выплатах",
+  "historyId" : "e5468a844c65320741c7e885f43aaff2",
+  "time" : {
+    "start" : 1633952844442,
+    "stop" : 1633952864515,
+    "duration" : 20073
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Переход в пополнение и выплаты",
+      "time" : {
+        "start" : 1633952854618,
+        "stop" : 1633952854618,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Убираю звездочку, если есть",
+      "time" : {
+        "start" : 1633952855208,
+        "stop" : 1633952855208,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Избранное встает на 1ое место",
+      "time" : {
+        "start" : 1633952858225,
+        "stop" : 1633952858225,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Снимаю избранное",
+      "time" : {
+        "start" : 1633952861297,
+        "stop" : 1633952861297,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Проверка на 2 избранных",
+      "time" : {
+        "start" : 1633952862335,
+        "stop" : 1633952862335,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 5,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Проверка пополения и выплаты"
+  }, {
+    "name" : "testClass",
+    "value" : "Проверка пополения и выплаты"
+  }, {
+    "name" : "testMethod",
+    "value" : "Проверка избранного в выплатах"
+  }, {
+    "name" : "package",
+    "value" : "Проверка пополения и выплаты"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a542478fa2501aa1.json",
+  "parameterValues" : [ ]
+}

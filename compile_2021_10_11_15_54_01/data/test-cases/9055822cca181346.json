@@ -1,0 +1,48 @@
+{
+  "uid" : "9055822cca181346",
+  "name" : "Ставки из Ставки дня",
+  "fullName" : "Тесты на главной странице.Ставки из Ставки дня",
+  "historyId" : "c1ce4cac9722501347dad2b57d175fa1",
+  "time" : {
+    "start" : 1633953179895,
+    "stop" : 1633953179925,
+    "duration" : 30
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "This test was ignored",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Тесты на главной странице"
+  }, {
+    "name" : "testClass",
+    "value" : "Тесты на главной странице"
+  }, {
+    "name" : "testMethod",
+    "value" : "Ставки из Ставки дня"
+  }, {
+    "name" : "package",
+    "value" : "Тесты на главной странице"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9055822cca181346.json",
+  "parameterValues" : [ ]
+}

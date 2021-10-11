@@ -1,0 +1,79 @@
+{
+  "uid" : "78dc3b94f39acbdd",
+  "name" : "Проверка карточки заявки",
+  "fullName" : "Запросы на выплату.Проверка карточки заявки",
+  "historyId" : "96a8741eb148cb75985252a20cb42ef6",
+  "time" : {
+    "start" : 1633953105112,
+    "stop" : 1633953121695,
+    "duration" : 16583
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Failed: \n                \tTimed out after 5000ms, while waiting for:\n                \tbrowser.element(By(xpath, //*[@class='request-details__type'])).has text: Выигрыш\n                Reason:\n                \tactual text: Winnings",
+  "statusTrace" : "Error: \n                \tTimed out after 5000ms, while waiting for:\n                \tbrowser.element(By(xpath, //*[@class='request-details__type'])).has text: Выигрыш\n                Reason:\n                \tactual text: Winnings\n                    at Wait.for (/Users/forb/Documents/js_web/node_modules/selenidejs/lib/wait.ts:231:37)\n                    at runMicrotasks (<anonymous>)\n                    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n                    at Element.should (/Users/forb/Documents/js_web/node_modules/selenidejs/lib/entity.ts:78:9)\n                    at UserContext.<anonymous> (/Users/forb/Documents/js_web/build/test/deposit.spec.js:320:13)\n                From asynchronous test: \n                Error\n                    at Suite.<anonymous> (/Users/forb/Documents/js_web/build/test/deposit.spec.js:308:5)\n                    at addSpecsToSuite (/Users/forb/Documents/js_web/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:1107:25)\n                    at Env.fdescribe (/Users/forb/Documents/js_web/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:1095:7)\n                    at fdescribe (/Users/forb/Documents/js_web/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4428:18)\n                    at Object.<anonymous> (/Users/forb/Documents/js_web/build/test/deposit.spec.js:281:1)\n                    at Module._compile (internal/modules/cjs/loader.js:1085:14)\n                    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)\n                    at Module.load (internal/modules/cjs/loader.js:950:32)\n                    at Function.Module._load (internal/modules/cjs/loader.js:790:14)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "Failed: \n                \tTimed out after 5000ms, while waiting for:\n                \tbrowser.element(By(xpath, //*[@class='request-details__type'])).has text: Выигрыш\n                Reason:\n                \tactual text: Winnings",
+    "statusTrace" : "Error: \n                \tTimed out after 5000ms, while waiting for:\n                \tbrowser.element(By(xpath, //*[@class='request-details__type'])).has text: Выигрыш\n                Reason:\n                \tactual text: Winnings\n                    at Wait.for (/Users/forb/Documents/js_web/node_modules/selenidejs/lib/wait.ts:231:37)\n                    at runMicrotasks (<anonymous>)\n                    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n                    at Element.should (/Users/forb/Documents/js_web/node_modules/selenidejs/lib/entity.ts:78:9)\n                    at UserContext.<anonymous> (/Users/forb/Documents/js_web/build/test/deposit.spec.js:320:13)\n                From asynchronous test: \n                Error\n                    at Suite.<anonymous> (/Users/forb/Documents/js_web/build/test/deposit.spec.js:308:5)\n                    at addSpecsToSuite (/Users/forb/Documents/js_web/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:1107:25)\n                    at Env.fdescribe (/Users/forb/Documents/js_web/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:1095:7)\n                    at fdescribe (/Users/forb/Documents/js_web/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4428:18)\n                    at Object.<anonymous> (/Users/forb/Documents/js_web/build/test/deposit.spec.js:281:1)\n                    at Module._compile (internal/modules/cjs/loader.js:1085:14)\n                    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)\n                    at Module.load (internal/modules/cjs/loader.js:950:32)\n                    at Function.Module._load (internal/modules/cjs/loader.js:790:14)",
+    "steps" : [ {
+      "name" : "Переход в пополнение и выплаты",
+      "time" : {
+        "start" : 1633953115317,
+        "stop" : 1633953115317,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Запросы на выплату"
+  }, {
+    "name" : "testClass",
+    "value" : "Запросы на выплату"
+  }, {
+    "name" : "testMethod",
+    "value" : "Проверка карточки заявки"
+  }, {
+    "name" : "package",
+    "value" : "Запросы на выплату"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "78dc3b94f39acbdd.json",
+  "parameterValues" : [ ]
+}

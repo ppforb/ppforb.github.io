@@ -1,0 +1,46 @@
+{
+  "uid" : "1e0a63fd3ef9e7e0",
+  "name" : "Авторизация клиента с самоисключением навсегда",
+  "fullName" : "Проверка авторизации.Авторизация клиента с самоисключением навсегда",
+  "historyId" : "32c87af114ce3895459feadb18e183ec",
+  "time" : {
+    "start" : 1633952492327,
+    "stop" : 1633952501525,
+    "duration" : 9198
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Проверка авторизации"
+  }, {
+    "name" : "testClass",
+    "value" : "Проверка авторизации"
+  }, {
+    "name" : "testMethod",
+    "value" : "Авторизация клиента с самоисключением навсегда"
+  }, {
+    "name" : "package",
+    "value" : "Проверка авторизации"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1e0a63fd3ef9e7e0.json",
+  "parameterValues" : [ ]
+}

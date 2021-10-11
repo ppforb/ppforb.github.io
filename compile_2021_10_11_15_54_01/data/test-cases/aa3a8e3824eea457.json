@@ -1,0 +1,79 @@
+{
+  "uid" : "aa3a8e3824eea457",
+  "name" : "Проверка Максимальной суммы ставки",
+  "fullName" : "Проверка БС, min/max.Проверка Максимальной суммы ставки",
+  "historyId" : "d106758f15e0519c902d85106e5d0c2d",
+  "time" : {
+    "start" : 1633952786040,
+    "stop" : 1633952804619,
+    "duration" : 18579
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Failed: \n                \tTimed out after 5000ms, while waiting for:\n                \tbrowser.element(By(xpath, //*[@class='header__login-head']/a[1])).click\n                Reason:\n                \tno such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@class='header__login-head']/a[1]\"}\n                  (Session info: chrome=94.0.4606.71)\n                  (Driver info: chromedriver=94.0.4606.61 (418b78f5838ed0b1c69bb4e51ea0252171854915-refs/branch-heads/4606@{#1204}),platform=Mac OS X 11.4.0 x86_64)",
+  "statusTrace" : "Error: \n                \tTimed out after 5000ms, while waiting for:\n                \tbrowser.element(By(xpath, //*[@class='header__login-head']/a[1])).click\n                Reason:\n                \tno such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@class='header__login-head']/a[1]\"}\n                  (Session info: chrome=94.0.4606.71)\n                  (Driver info: chromedriver=94.0.4606.61 (418b78f5838ed0b1c69bb4e51ea0252171854915-refs/branch-heads/4606@{#1204}),platform=Mac OS X 11.4.0 x86_64)\n                    at Wait.for (/Users/forb/Documents/js_web/node_modules/selenidejs/lib/wait.ts:231:37)\n                    at runMicrotasks (<anonymous>)\n                    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n                    at Element.click (/Users/forb/Documents/js_web/node_modules/selenidejs/lib/element.ts:111:9)\n                    at myClass.switchToUrlAndLogin (/Users/forb/Documents/js_web/build/test/pages/appClass.js:71:9)\n                    at UserContext.<anonymous> (/Users/forb/Documents/js_web/build/test/couponGrid.spec.js:315:9)\n                From asynchronous test: \n                Error\n                    at Suite.<anonymous> (/Users/forb/Documents/js_web/build/test/couponGrid.spec.js:313:5)\n                    at addSpecsToSuite (/Users/forb/Documents/js_web/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:1107:25)\n                    at Env.fdescribe (/Users/forb/Documents/js_web/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:1095:7)\n                    at fdescribe (/Users/forb/Documents/js_web/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4428:18)\n                    at Object.<anonymous> (/Users/forb/Documents/js_web/build/test/couponGrid.spec.js:312:1)\n                    at Module._compile (internal/modules/cjs/loader.js:1085:14)\n                    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)\n                    at Module.load (internal/modules/cjs/loader.js:950:32)\n                    at Function.Module._load (internal/modules/cjs/loader.js:790:14)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "Failed: \n                \tTimed out after 5000ms, while waiting for:\n                \tbrowser.element(By(xpath, //*[@class='header__login-head']/a[1])).click\n                Reason:\n                \tno such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@class='header__login-head']/a[1]\"}\n                  (Session info: chrome=94.0.4606.71)\n                  (Driver info: chromedriver=94.0.4606.61 (418b78f5838ed0b1c69bb4e51ea0252171854915-refs/branch-heads/4606@{#1204}),platform=Mac OS X 11.4.0 x86_64)",
+    "statusTrace" : "Error: \n                \tTimed out after 5000ms, while waiting for:\n                \tbrowser.element(By(xpath, //*[@class='header__login-head']/a[1])).click\n                Reason:\n                \tno such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@class='header__login-head']/a[1]\"}\n                  (Session info: chrome=94.0.4606.71)\n                  (Driver info: chromedriver=94.0.4606.61 (418b78f5838ed0b1c69bb4e51ea0252171854915-refs/branch-heads/4606@{#1204}),platform=Mac OS X 11.4.0 x86_64)\n                    at Wait.for (/Users/forb/Documents/js_web/node_modules/selenidejs/lib/wait.ts:231:37)\n                    at runMicrotasks (<anonymous>)\n                    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n                    at Element.click (/Users/forb/Documents/js_web/node_modules/selenidejs/lib/element.ts:111:9)\n                    at myClass.switchToUrlAndLogin (/Users/forb/Documents/js_web/build/test/pages/appClass.js:71:9)\n                    at UserContext.<anonymous> (/Users/forb/Documents/js_web/build/test/couponGrid.spec.js:315:9)\n                From asynchronous test: \n                Error\n                    at Suite.<anonymous> (/Users/forb/Documents/js_web/build/test/couponGrid.spec.js:313:5)\n                    at addSpecsToSuite (/Users/forb/Documents/js_web/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:1107:25)\n                    at Env.fdescribe (/Users/forb/Documents/js_web/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:1095:7)\n                    at fdescribe (/Users/forb/Documents/js_web/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4428:18)\n                    at Object.<anonymous> (/Users/forb/Documents/js_web/build/test/couponGrid.spec.js:312:1)\n                    at Module._compile (internal/modules/cjs/loader.js:1085:14)\n                    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)\n                    at Module.load (internal/modules/cjs/loader.js:950:32)\n                    at Function.Module._load (internal/modules/cjs/loader.js:790:14)",
+    "steps" : [ {
+      "name" : "Убираю подставление предыдущей ставки",
+      "time" : {
+        "start" : 1633952799115,
+        "stop" : 1633952799115,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Проверка БС, min/max"
+  }, {
+    "name" : "testClass",
+    "value" : "Проверка БС, min/max"
+  }, {
+    "name" : "testMethod",
+    "value" : "Проверка Максимальной суммы ставки"
+  }, {
+    "name" : "package",
+    "value" : "Проверка БС, min/max"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "aa3a8e3824eea457.json",
+  "parameterValues" : [ ]
+}

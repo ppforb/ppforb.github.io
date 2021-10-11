@@ -1,0 +1,46 @@
+{
+  "uid" : "c5afec57e6b7e1b8",
+  "name" : "Открытие формы Регистрации из формы авторизации",
+  "fullName" : "Проверка авторизации.Открытие формы Регистрации из формы авторизации",
+  "historyId" : "2f53094945f6e430bdd77ca4785908d3",
+  "time" : {
+    "start" : 1633952532074,
+    "stop" : 1633952540377,
+    "duration" : 8303
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Проверка авторизации"
+  }, {
+    "name" : "testClass",
+    "value" : "Проверка авторизации"
+  }, {
+    "name" : "testMethod",
+    "value" : "Открытие формы Регистрации из формы авторизации"
+  }, {
+    "name" : "package",
+    "value" : "Проверка авторизации"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c5afec57e6b7e1b8.json",
+  "parameterValues" : [ ]
+}

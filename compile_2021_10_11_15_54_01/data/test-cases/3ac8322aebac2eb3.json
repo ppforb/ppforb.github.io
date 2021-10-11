@@ -1,0 +1,116 @@
+{
+  "uid" : "3ac8322aebac2eb3",
+  "name" : "Горизонтальное положение, проверка свитчера и компактный режим ",
+  "fullName" : "Тесты фильтра меню избранное.Горизонтальное положение, проверка свитчера и компактный режим ",
+  "historyId" : "b915300c07144f753e7b6e1358553e7d",
+  "time" : {
+    "start" : 1633953131411,
+    "stop" : 1633953139514,
+    "duration" : 8103
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Установка дефолтных настроек",
+      "time" : {
+        "start" : 1633953136457,
+        "stop" : 1633953136458,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Переход в Спорт",
+      "time" : {
+        "start" : 1633953136534,
+        "stop" : 1633953136534,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Проверяю свитчер",
+      "time" : {
+        "start" : 1633953138381,
+        "stop" : 1633953138381,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Проверяю компактный режим",
+      "time" : {
+        "start" : 1633953139242,
+        "stop" : 1633953139242,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 4,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Тесты фильтра меню избранное"
+  }, {
+    "name" : "testClass",
+    "value" : "Тесты фильтра меню избранное"
+  }, {
+    "name" : "testMethod",
+    "value" : "Горизонтальное положение, проверка свитчера и компактный режим "
+  }, {
+    "name" : "package",
+    "value" : "Тесты фильтра меню избранное"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3ac8322aebac2eb3.json",
+  "parameterValues" : [ ]
+}

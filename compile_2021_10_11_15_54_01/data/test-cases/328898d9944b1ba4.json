@@ -1,0 +1,48 @@
+{
+  "uid" : "328898d9944b1ba4",
+  "name" : "Проверка функции Поиск",
+  "fullName" : "Тесты на функциии из области шапки сайта.Проверка функции Поиск",
+  "historyId" : "391837c947d2f9108566a8b229def6b0",
+  "time" : {
+    "start" : 1633953179856,
+    "stop" : 1633953179871,
+    "duration" : 15
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "This test was ignored",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Тесты на функциии из области шапки сайта"
+  }, {
+    "name" : "testClass",
+    "value" : "Тесты на функциии из области шапки сайта"
+  }, {
+    "name" : "testMethod",
+    "value" : "Проверка функции Поиск"
+  }, {
+    "name" : "package",
+    "value" : "Тесты на функциии из области шапки сайта"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "328898d9944b1ba4.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,48 @@
+{
+  "uid" : "4ebb66fcfa13a1a0",
+  "name" : "Проверка сортировки по времени",
+  "fullName" : "Проверка работы всего функицонала во вкладке \"Результат\".Проверка сортировки по времени",
+  "historyId" : "cb3b72a8a12624d9680f9f092a4759cd",
+  "time" : {
+    "start" : 1633953180334,
+    "stop" : 1633953180347,
+    "duration" : 13
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "This test was ignored",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Проверка работы всего функицонала во вкладке \"Результат\""
+  }, {
+    "name" : "testClass",
+    "value" : "Проверка работы всего функицонала во вкладке \"Результат\""
+  }, {
+    "name" : "testMethod",
+    "value" : "Проверка сортировки по времени"
+  }, {
+    "name" : "package",
+    "value" : "Проверка работы всего функицонала во вкладке \"Результат\""
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4ebb66fcfa13a1a0.json",
+  "parameterValues" : [ ]
+}

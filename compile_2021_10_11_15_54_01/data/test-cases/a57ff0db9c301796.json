@@ -1,0 +1,48 @@
+{
+  "uid" : "a57ff0db9c301796",
+  "name" : "Проверка настроек Продажа пари",
+  "fullName" : "Проверка настроек сайта.Проверка настроек Продажа пари",
+  "historyId" : "33c06eaf48b677d3d3ef6fb627ee72d0",
+  "time" : {
+    "start" : 1633953180615,
+    "stop" : 1633953180627,
+    "duration" : 12
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "This test was ignored",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Проверка настроек сайта"
+  }, {
+    "name" : "testClass",
+    "value" : "Проверка настроек сайта"
+  }, {
+    "name" : "testMethod",
+    "value" : "Проверка настроек Продажа пари"
+  }, {
+    "name" : "package",
+    "value" : "Проверка настроек сайта"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a57ff0db9c301796.json",
+  "parameterValues" : [ ]
+}

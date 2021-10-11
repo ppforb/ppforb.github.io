@@ -1,0 +1,48 @@
+{
+  "uid" : "f1a7a835c21627c",
+  "name" : "Проверка запроса по input + textarea +file",
+  "fullName" : "Тесты на запросы из личного кабинета.Проверка запроса по input + textarea +file",
+  "historyId" : "4a52d67b395462185835f6d31c1b568b",
+  "time" : {
+    "start" : 1633953180445,
+    "stop" : 1633953180463,
+    "duration" : 18
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "This test was ignored",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Тесты на запросы из личного кабинета"
+  }, {
+    "name" : "testClass",
+    "value" : "Тесты на запросы из личного кабинета"
+  }, {
+    "name" : "testMethod",
+    "value" : "Проверка запроса по input + textarea +file"
+  }, {
+    "name" : "package",
+    "value" : "Тесты на запросы из личного кабинета"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f1a7a835c21627c.json",
+  "parameterValues" : [ ]
+}

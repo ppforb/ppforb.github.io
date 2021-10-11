@@ -1,0 +1,191 @@
+{
+  "uid" : "32e5b20fcbc9f9da",
+  "name" : "Проверка фильтра времени в меню событий",
+  "fullName" : "Тесты фильтра меню избранное.Проверка фильтра времени в меню событий",
+  "historyId" : "59d811189574146ba2fee21f46eaa5e6",
+  "time" : {
+    "start" : 1633953157626,
+    "stop" : 1633953166488,
+    "duration" : 8862
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Установка дефолтных настроек",
+      "time" : {
+        "start" : 1633953162596,
+        "stop" : 1633953162596,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Переход в Спорт",
+      "time" : {
+        "start" : 1633953162687,
+        "stop" : 1633953162687,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Проверка что фильтры по времени работают [\"60\",\"Ближайший час\"]",
+      "time" : {
+        "start" : 1633953164526,
+        "stop" : 1633953164526,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Проверка что фильтры по времени работают [\"120\",\"Ближайшие 2 ч\"]",
+      "time" : {
+        "start" : 1633953164977,
+        "stop" : 1633953164977,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Проверка что фильтры по времени работают [\"240\",\"Ближайшие 4 ч\"]",
+      "time" : {
+        "start" : 1633953165219,
+        "stop" : 1633953165219,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Проверка что фильтры по времени работают [\"360\",\"Ближайшие 6 ч\"]",
+      "time" : {
+        "start" : 1633953165428,
+        "stop" : 1633953165428,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Проверка что фильтры по времени работают [\"720\",\"Ближайшие 12 ч\"]",
+      "time" : {
+        "start" : 1633953165684,
+        "stop" : 1633953165684,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Проверка что фильтры по времени работают [\"1440\",\"Ближайший день\"]",
+      "time" : {
+        "start" : 1633953165958,
+        "stop" : 1633953165958,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Проверка что фильтры по времени работают [\"2880\",\"Ближайшие 2 дня\"]",
+      "time" : {
+        "start" : 1633953166243,
+        "stop" : 1633953166243,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 9,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Тесты фильтра меню избранное"
+  }, {
+    "name" : "testClass",
+    "value" : "Тесты фильтра меню избранное"
+  }, {
+    "name" : "testMethod",
+    "value" : "Проверка фильтра времени в меню событий"
+  }, {
+    "name" : "package",
+    "value" : "Тесты фильтра меню избранное"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "32e5b20fcbc9f9da.json",
+  "parameterValues" : [ ]
+}

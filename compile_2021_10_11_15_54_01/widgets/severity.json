@@ -1,0 +1,1121 @@
+[ {
+  "uid" : "9f309b6c3693db5a",
+  "name" : "Проверка открытия страницы  пополнения кошелек ЦУПИС",
+  "time" : {
+    "start" : 1633952903090,
+    "stop" : 1633952928193,
+    "duration" : 25103
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "321994579d26e902",
+  "name" : "Функционал EventView в Лайв событиях",
+  "time" : {
+    "start" : 1633953179945,
+    "stop" : 1633953179962,
+    "duration" : 17
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "893adacc5ec7dfba",
+  "name" : "Проверка переоткрытия заявки",
+  "time" : {
+    "start" : 1633953180526,
+    "stop" : 1633953180539,
+    "duration" : 13
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "c5644e8cdfe845a9",
+  "name" : "Ставки из приоритетных событий линии/лайва с главной страницы",
+  "time" : {
+    "start" : 1633953179882,
+    "stop" : 1633953179895,
+    "duration" : 13
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "a542478fa2501aa1",
+  "name" : "Проверка избранного в выплатах",
+  "time" : {
+    "start" : 1633952844442,
+    "stop" : 1633952864515,
+    "duration" : 20073
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "59230c18ab8b27db",
+  "name" : "Популярные события",
+  "time" : {
+    "start" : 1633952704044,
+    "stop" : 1633952724919,
+    "duration" : 20875
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "17efcbb2f2676fc8",
+  "name" : "Проверка на продажу",
+  "time" : {
+    "start" : 1633952604337,
+    "stop" : 1633952614393,
+    "duration" : 10056
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7fb7a103ea44db98",
+  "name" : "Проверка работы вкладки История в Личном кабинете пользователя",
+  "time" : {
+    "start" : 1633953180170,
+    "stop" : 1633953180191,
+    "duration" : 21
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "c5afec57e6b7e1b8",
+  "name" : "Открытие формы Регистрации из формы авторизации",
+  "time" : {
+    "start" : 1633952532074,
+    "stop" : 1633952540377,
+    "duration" : 8303
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "14232b0c783cbf4a",
+  "name" : "Проверка сортировки по номеру",
+  "time" : {
+    "start" : 1633953180348,
+    "stop" : 1633953180360,
+    "duration" : 12
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "ce9aa60df8876d1c",
+  "name" : "Восстановление пароля по тестовому сценарию через номер телефона",
+  "time" : {
+    "start" : 1633953179980,
+    "stop" : 1633953179990,
+    "duration" : 10
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "c53d7c15a878e561",
+  "name" : "Авторизация клиента по email",
+  "time" : {
+    "start" : 1633952483144,
+    "stop" : 1633952492327,
+    "duration" : 9183
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "48b7b771c2f1043c",
+  "name" : "Проверка ввода суммы больше чем баланс счета",
+  "time" : {
+    "start" : 1633952622419,
+    "stop" : 1633952630561,
+    "duration" : 8142
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ac669fa05688ee6e",
+  "name" : "Проверка открытия страницы пополнения через Мегафон",
+  "time" : {
+    "start" : 1633952989756,
+    "stop" : 1633953010114,
+    "duration" : 20358
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "bd3d594bd1357e18",
+  "name" : "Проверка Самоисключений",
+  "time" : {
+    "start" : 1633953180247,
+    "stop" : 1633953180260,
+    "duration" : 13
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "78dc3b94f39acbdd",
+  "name" : "Проверка карточки заявки",
+  "time" : {
+    "start" : 1633953105112,
+    "stop" : 1633953121695,
+    "duration" : 16583
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "aaa8b907f4854964",
+  "name" : "Проверка пакетной ставки во вкладке \"Суперэкспресс\"",
+  "time" : {
+    "start" : 1633953180410,
+    "stop" : 1633953180430,
+    "duration" : 20
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "b001288dbc5d4fcf",
+  "name" : "Проверка Минимальной суммы ставки",
+  "time" : {
+    "start" : 1633952767563,
+    "stop" : 1633952786039,
+    "duration" : 18476
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "da1c68f1ce821309",
+  "name" : "Проверка табов",
+  "time" : {
+    "start" : 1633953083518,
+    "stop" : 1633953094150,
+    "duration" : 10632
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6b7389fd064ce0a8",
+  "name" : "Нагрузка процессора",
+  "time" : {
+    "start" : 1633953180013,
+    "stop" : 1633953180024,
+    "duration" : 11
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "d4708e53ed00575b",
+  "name" : "Проверка приема без подтверждения",
+  "time" : {
+    "start" : 1633953180585,
+    "stop" : 1633953180600,
+    "duration" : 15
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "b20e27b7cd9da693",
+  "name" : "Тестовый сценарий лимитов на депозиты",
+  "time" : {
+    "start" : 1633953180260,
+    "stop" : 1633953180272,
+    "duration" : 12
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "824b8c86df60c19a",
+  "name" : "Авторизация клиента по clinetId",
+  "time" : {
+    "start" : 1633952450078,
+    "stop" : 1633952459256,
+    "duration" : 9178
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f7b0242120d303c7",
+  "name" : "Проверка разворачивания/сворачивания всех дочерних событий и доп. пари",
+  "time" : {
+    "start" : 1633953149476,
+    "stop" : 1633953157626,
+    "duration" : 8150
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "894c8638d33e5dd5",
+  "name" : "Выплата на Яндекс деньги",
+  "time" : {
+    "start" : 1633953083495,
+    "stop" : 1633953083505,
+    "duration" : 10
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "b9862b4ccdd672cb",
+  "name" : "Проверка избранного в депозитах",
+  "time" : {
+    "start" : 1633952823692,
+    "stop" : 1633952844442,
+    "duration" : 20750
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d4665b97037fccce",
+  "name" : "Проверка открытия страницы пополнения карты банка",
+  "time" : {
+    "start" : 1633952890508,
+    "stop" : 1633952903090,
+    "duration" : 12582
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "68de4d103622e7a4",
+  "name" : "Проверка для неидентифицированного клиента",
+  "time" : {
+    "start" : 1633952804627,
+    "stop" : 1633952823691,
+    "duration" : 19064
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "65a392382b8753fd",
+  "name" : "Проверка открытия страницы пополнения через TELE2",
+  "time" : {
+    "start" : 1633953057037,
+    "stop" : 1633953083475,
+    "duration" : 26438
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "e99c2aed20fb5309",
+  "name" : "Проверка соответсвтия ставки в гриде и ставки в купоне",
+  "time" : {
+    "start" : 1633953179814,
+    "stop" : 1633953179828,
+    "duration" : 14
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "42d744cce399b4c5",
+  "name" : "Проверка смены почты через реальную почту",
+  "time" : {
+    "start" : 1633953180211,
+    "stop" : 1633953180223,
+    "duration" : 12
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "2530ae092b8431ae",
+  "name" : "Проверка сохранения купона, набранного до авторизации",
+  "time" : {
+    "start" : 1633952548701,
+    "stop" : 1633952563254,
+    "duration" : 14553
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "4ebb66fcfa13a1a0",
+  "name" : "Проверка сортировки по времени",
+  "time" : {
+    "start" : 1633953180334,
+    "stop" : 1633953180347,
+    "duration" : 13
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "2f93c1d5a388e34a",
+  "name" : "Проверка всего функционала из модуля \"Вид\" в настройках сайта для  неавторизованного пользователя",
+  "time" : {
+    "start" : 1633953180650,
+    "stop" : 1633953180665,
+    "duration" : 15
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "c32740fbcf3d0605",
+  "name" : "Проверка Самоограничений",
+  "time" : {
+    "start" : 1633953180235,
+    "stop" : 1633953180247,
+    "duration" : 12
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "f1a7a835c21627c",
+  "name" : "Проверка запроса по input + textarea +file",
+  "time" : {
+    "start" : 1633953180445,
+    "stop" : 1633953180463,
+    "duration" : 18
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "ad54c3fcf50272ae",
+  "name" : "Проверка быстрой ставки",
+  "time" : {
+    "start" : 1633952587615,
+    "stop" : 1633952596414,
+    "duration" : 8799
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "328898d9944b1ba4",
+  "name" : "Проверка функции Поиск",
+  "time" : {
+    "start" : 1633953179856,
+    "stop" : 1633953179871,
+    "duration" : 15
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "4e38b6dbfb05dfeb",
+  "name" : "Сравнение фильтра времени у конкретного спорта в горизонтальном и вертикальном ",
+  "time" : {
+    "start" : 1633953166488,
+    "stop" : 1633953179777,
+    "duration" : 13289
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "9e5d57c4ee3c4ce1",
+  "name" : "Проверка открытия страницы пополнения через ЮMoney",
+  "time" : {
+    "start" : 1633952928193,
+    "stop" : 1633952948507,
+    "duration" : 20314
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "ddf3b3f34c507535",
+  "name" : "Проверка кол-ва трансляций в фильтре трансляций",
+  "time" : {
+    "start" : 1633953179962,
+    "stop" : 1633953179976,
+    "duration" : 14
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "529e51a0e9f7df79",
+  "name" : "Проверка открытия страницы пополнения через Webmoney",
+  "time" : {
+    "start" : 1633952969312,
+    "stop" : 1633952989755,
+    "duration" : 20443
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "aa3a8e3824eea457",
+  "name" : "Проверка Максимальной суммы ставки",
+  "time" : {
+    "start" : 1633952786040,
+    "stop" : 1633952804619,
+    "duration" : 18579
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "b286ec5dec0eb317",
+  "name" : "Проверка продажи и ее настройки",
+  "time" : {
+    "start" : 1633952676926,
+    "stop" : 1633952685847,
+    "duration" : 8921
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bef481f1b05d0c73",
+  "name" : "Проверка всего функционала из модуля \"Вид\" в настройках сайта",
+  "time" : {
+    "start" : 1633953180639,
+    "stop" : 1633953180650,
+    "duration" : 11
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "6cf2cf791719759e",
+  "name" : "Проверка открытия всех вкладок меню",
+  "time" : {
+    "start" : 1633953180158,
+    "stop" : 1633953180170,
+    "duration" : 12
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "f187fc5f36fb98eb",
+  "name" : "Проверка появления окна авторизации на пари без авторизации",
+  "time" : {
+    "start" : 1633952563255,
+    "stop" : 1633952576780,
+    "duration" : 13525
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "37ab240c40cd9c7b",
+  "name" : "Прикрепление и скачивание файла в созданном запросах",
+  "time" : {
+    "start" : 1633953180539,
+    "stop" : 1633953180552,
+    "duration" : 13
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "3ac8322aebac2eb3",
+  "name" : "Горизонтальное положение, проверка свитчера и компактный режим ",
+  "time" : {
+    "start" : 1633953131411,
+    "stop" : 1633953139514,
+    "duration" : 8103
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a57ff0db9c301796",
+  "name" : "Проверка настроек Продажа пари",
+  "time" : {
+    "start" : 1633953180615,
+    "stop" : 1633953180627,
+    "duration" : 12
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "697a3c28127bb0e7",
+  "name" : "Проверка работы процесса изменения номера телефона по тестовому сценарию",
+  "time" : {
+    "start" : 1633953180272,
+    "stop" : 1633953180284,
+    "duration" : 12
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "1a298a8ce15ddb7b",
+  "name" : "Проверка фильтров",
+  "time" : {
+    "start" : 1633953180514,
+    "stop" : 1633953180526,
+    "duration" : 12
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "b122d7a1f3fbdc00",
+  "name" : "Проверка смены языка",
+  "time" : {
+    "start" : 1633952864515,
+    "stop" : 1633952876679,
+    "duration" : 12164
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4d1bb5bedf1672c9",
+  "name" : "Проверка истории ставок у нового пользователя",
+  "time" : {
+    "start" : 1633952576780,
+    "stop" : 1633952587613,
+    "duration" : 10833
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f68a4ead02236ff5",
+  "name" : "Проверка Системы и калькулятора",
+  "time" : {
+    "start" : 1633952685848,
+    "stop" : 1633952704044,
+    "duration" : 18196
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "5d4c826515242e22",
+  "name" : "Проверка свитчеров",
+  "time" : {
+    "start" : 1633952596415,
+    "stop" : 1633952604337,
+    "duration" : 7922
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "96cc90816cf74ecb",
+  "name" : "Нагрузка процессора 3",
+  "time" : {
+    "start" : 1633953180043,
+    "stop" : 1633953180070,
+    "duration" : 27
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "6689970ad6bbca17",
+  "name" : "Проверка клонирования и закрытия",
+  "time" : {
+    "start" : 1633952666558,
+    "stop" : 1633952676926,
+    "duration" : 10368
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3e3251868359c3b4",
+  "name" : "Проверка суммы на граничные значения",
+  "time" : {
+    "start" : 1633952876679,
+    "stop" : 1633952890508,
+    "duration" : 13829
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5b7377ea6f13437b",
+  "name" : "Проверка разворачивания доп пари и доч событий",
+  "time" : {
+    "start" : 1633953179796,
+    "stop" : 1633953179813,
+    "duration" : 17
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "97156f821ec4e6d9",
+  "name" : "Проверка запроса по textarea + file",
+  "time" : {
+    "start" : 1633953180435,
+    "stop" : 1633953180445,
+    "duration" : 10
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "a1c832f0f0ab0fcb",
+  "name" : "Проверка открытия страницы пополнения через Qiwi",
+  "time" : {
+    "start" : 1633952948507,
+    "stop" : 1633952969311,
+    "duration" : 20804
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "355af5c0d7a47d85",
+  "name" : "Проверка шапки чемпионата",
+  "time" : {
+    "start" : 1633953179785,
+    "stop" : 1633953179796,
+    "duration" : 11
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "b50c8e88b37bac30",
+  "name" : "Проверка открытия страницы пополнения через Билайн",
+  "time" : {
+    "start" : 1633953010114,
+    "stop" : 1633953036254,
+    "duration" : 26140
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "5208359a8bab24ce",
+  "name" : "Проверка фильтра в горизонтальном положении на выбор события",
+  "time" : {
+    "start" : 1633953121699,
+    "stop" : 1633953131411,
+    "duration" : 9712
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9055822cca181346",
+  "name" : "Ставки из Ставки дня",
+  "time" : {
+    "start" : 1633953179895,
+    "stop" : 1633953179925,
+    "duration" : 30
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "7cc239b2c639860",
+  "name" : "Проверка смены пароля",
+  "time" : {
+    "start" : 1633953180284,
+    "stop" : 1633953180296,
+    "duration" : 12
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "c5edf4f17c937de",
+  "name" : "Проверка запроса по 3*input + textarea + data",
+  "time" : {
+    "start" : 1633953180463,
+    "stop" : 1633953180477,
+    "duration" : 14
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "84046ff38fa490ce",
+  "name" : "Проверка ввода промокода Бонусы",
+  "time" : {
+    "start" : 1633953180087,
+    "stop" : 1633953180097,
+    "duration" : 10
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "4ae107a213499283",
+  "name" : "Проверка запроса по input + textarea + data",
+  "time" : {
+    "start" : 1633953180489,
+    "stop" : 1633953180501,
+    "duration" : 12
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "f1a83474d42be8f6",
+  "name" : "Тест на слишком частый ввод пароля неправильный",
+  "time" : {
+    "start" : 1633952510670,
+    "stop" : 1633952522874,
+    "duration" : 12204
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5566ff988e363c39",
+  "name" : "Проверка отображения всех видов трансляций лайф событий ",
+  "time" : {
+    "start" : 1633953179933,
+    "stop" : 1633953179945,
+    "duration" : 12
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "1437f0350ee3d526",
+  "name" : "Авторизация клиента с неправильный паролем",
+  "time" : {
+    "start" : 1633952501525,
+    "stop" : 1633952510669,
+    "duration" : 9144
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9e76e1cd68e46b53",
+  "name" : "Проверка работы ставки пари с предыдущей ставки",
+  "time" : {
+    "start" : 1633953180556,
+    "stop" : 1633953180567,
+    "duration" : 11
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "49791c34dffb7be9",
+  "name" : "Проверка  включения расссылок и уведомлений",
+  "time" : {
+    "start" : 1633953180297,
+    "stop" : 1633953180310,
+    "duration" : 13
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "9834353b8eb3bc8",
+  "name" : "Проверка любимой ставки",
+  "time" : {
+    "start" : 1633953180600,
+    "stop" : 1633953180615,
+    "duration" : 15
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "a60a0f0f6afb4bd4",
+  "name" : "Выплата на телефон",
+  "time" : {
+    "start" : 1633953083475,
+    "stop" : 1633953083485,
+    "duration" : 10
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "c40f841bbdb8060f",
+  "name" : "Проверка фильтра",
+  "time" : {
+    "start" : 1633953094150,
+    "stop" : 1633953105112,
+    "duration" : 10962
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ea4e62dde6c645e1",
+  "name" : "Проверка всего функционала во вкладке \"Суперэкспресс\"",
+  "time" : {
+    "start" : 1633953180394,
+    "stop" : 1633953180409,
+    "duration" : 15
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "6ff0c11eddbce953",
+  "name" : "Проверка настроек в вкладке История",
+  "time" : {
+    "start" : 1633952630561,
+    "stop" : 1633952640553,
+    "duration" : 9992
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3a38891d813bfd65",
+  "name" : "Проверка поиска в результатах",
+  "time" : {
+    "start" : 1633953180372,
+    "stop" : 1633953180389,
+    "duration" : 17
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "cbbb46368b111dfa",
+  "name" : "Добавляю аккаунт в Акцию серия побед, ставлю ставку, продаю",
+  "time" : {
+    "start" : 1633953180315,
+    "stop" : 1633953180326,
+    "duration" : 11
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "541cadeddfae0594",
+  "name" : "Проверка баннеров акций",
+  "time" : {
+    "start" : 1633953180129,
+    "stop" : 1633953180141,
+    "duration" : 12
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "3861ea0e8532e0a",
+  "name" : "Проверка быстрого пари",
+  "time" : {
+    "start" : 1633953180567,
+    "stop" : 1633953180585,
+    "duration" : 18
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "1e0a63fd3ef9e7e0",
+  "name" : "Авторизация клиента с самоисключением навсегда",
+  "time" : {
+    "start" : 1633952492327,
+    "stop" : 1633952501525,
+    "duration" : 9198
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9935aa963b596966",
+  "name" : "Восстановление пароля по тестовому сценарию через email",
+  "time" : {
+    "start" : 1633953179990,
+    "stop" : 1633953180008,
+    "duration" : 18
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "e6850837bf8610ca",
+  "name" : "Открытие формы Забыли пароль из формы авторизации",
+  "time" : {
+    "start" : 1633952540377,
+    "stop" : 1633952548693,
+    "duration" : 8316
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b33451e73235cb06",
+  "name" : "Проверка суммы бонусов",
+  "time" : {
+    "start" : 1633953180097,
+    "stop" : 1633953180115,
+    "duration" : 18
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "fbdbdf75b47e4e88",
+  "name" : "Проверка открытия страницы пополнения через МТС",
+  "time" : {
+    "start" : 1633953036255,
+    "stop" : 1633953057037,
+    "duration" : 20782
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "d493e43b5002c303",
+  "name" : "Выплата на карту",
+  "time" : {
+    "start" : 1633953083485,
+    "stop" : 1633953083495,
+    "duration" : 10
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "f22aa50c195a42bf",
+  "name" : "Авторизация клиента по phoneNumber",
+  "time" : {
+    "start" : 1633952473742,
+    "stop" : 1633952483144,
+    "duration" : 9402
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fb560c9e449d45d1",
+  "name" : "Проверка работы вкладки Операции в Личном кабинете пользователя",
+  "time" : {
+    "start" : 1633953180191,
+    "stop" : 1633953180211,
+    "duration" : 20
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "1ef5f05f53c09021",
+  "name" : "Потребление памяти",
+  "time" : {
+    "start" : 1633953180070,
+    "stop" : 1633953180083,
+    "duration" : 13
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "e3d42f66cc27ad24",
+  "name" : "Проверка настроек Диалоги",
+  "time" : {
+    "start" : 1633953180627,
+    "stop" : 1633953180639,
+    "duration" : 12
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "372e177e3506e9b",
+  "name" : "Клиент с  опцией \"Авторизация запрещена",
+  "time" : {
+    "start" : 1633952522874,
+    "stop" : 1633952532074,
+    "duration" : 9200
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "da2567bf3824ef80",
+  "name" : "Проверка работы плейсхолдера всех трех типов авторизации(номер счета, номер телефона, почта)",
+  "time" : {
+    "start" : 1633952442148,
+    "stop" : 1633952450077,
+    "duration" : 7929
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c815d05cc9637e9a",
+  "name" : "Проверка чекбокса Только текущие",
+  "time" : {
+    "start" : 1633953180360,
+    "stop" : 1633953180372,
+    "duration" : 12
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "32e5b20fcbc9f9da",
+  "name" : "Проверка фильтра времени в меню событий",
+  "time" : {
+    "start" : 1633953157626,
+    "stop" : 1633953166488,
+    "duration" : 8862
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5a2a9e294b4d02fa",
+  "name" : "Проверка протушей  сессии",
+  "time" : {
+    "start" : 1633952459256,
+    "stop" : 1633952473742,
+    "duration" : 14486
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7ee08acfc20cb11",
+  "name" : "Проверка Фрибета/Бп с нулевым балансом клиента",
+  "time" : {
+    "start" : 1633952749493,
+    "stop" : 1633952767562,
+    "duration" : 18069
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "eebc524fc7ee9ee",
+  "name" : "Проверка запроса по dropdown + input + textarea + file",
+  "time" : {
+    "start" : 1633953180477,
+    "stop" : 1633953180489,
+    "duration" : 12
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "ee5fa36b18eba7b7",
+  "name" : "Нагрузка процессора 2",
+  "time" : {
+    "start" : 1633953180024,
+    "stop" : 1633953180043,
+    "duration" : 19
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "d93363cbb5cae5e5",
+  "name" : "Проверка запроса по  textarea + data",
+  "time" : {
+    "start" : 1633953180501,
+    "stop" : 1633953180514,
+    "duration" : 13
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "a6fc48a373bbb9f2",
+  "name" : "Проверка открытия всех вкладок",
+  "time" : {
+    "start" : 1633953179832,
+    "stop" : 1633953179856,
+    "duration" : 24
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "6a439bcf4048745f",
+  "name" : "Проверка подстановки суммы предыдущей ставки",
+  "time" : {
+    "start" : 1633952654188,
+    "stop" : 1633952666558,
+    "duration" : 12370
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "917a1ccffb26ba64",
+  "name" : "Проверка скрытия баланса",
+  "time" : {
+    "start" : 1633953180223,
+    "stop" : 1633953180235,
+    "duration" : 12
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "9face6c5b176c1",
+  "name" : "Тест фильтра в вертикальном положении",
+  "time" : {
+    "start" : 1633953139514,
+    "stop" : 1633953149476,
+    "duration" : 9962
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cd5bb97d218b211e",
+  "name" : "Проверка сворачивания ставки из ленты купонов",
+  "time" : {
+    "start" : 1633952640553,
+    "stop" : 1633952654188,
+    "duration" : 13635
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4cd3c96c01141e5f",
+  "name" : "Проверка любимой ставки и подстановки старой",
+  "time" : {
+    "start" : 1633952614393,
+    "stop" : 1633952622419,
+    "duration" : 8026
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "eb4e3951646a7305",
+  "name" : "Проверка фильтров бонусов",
+  "time" : {
+    "start" : 1633953180115,
+    "stop" : 1633953180129,
+    "duration" : 14
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "6571e45dd9d136f8",
+  "name" : "Проверка Фрибета и БП",
+  "time" : {
+    "start" : 1633952724926,
+    "stop" : 1633952749492,
+    "duration" : 24566
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "e6da7afdd6640ce2",
+  "name" : "Проверка сортировки по времени",
+  "time" : {
+    "start" : 1633953180141,
+    "stop" : 1633953180154,
+    "duration" : 13
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+} ]

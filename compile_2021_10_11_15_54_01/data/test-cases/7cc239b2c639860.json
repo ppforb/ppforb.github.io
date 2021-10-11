@@ -1,0 +1,48 @@
+{
+  "uid" : "7cc239b2c639860",
+  "name" : "Проверка смены пароля",
+  "fullName" : "Тесты на личный кабинет.Проверка смены пароля",
+  "historyId" : "632b079e12e29ae48ad93b8fb76d1435",
+  "time" : {
+    "start" : 1633953180284,
+    "stop" : 1633953180296,
+    "duration" : 12
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "This test was ignored",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Тесты на личный кабинет"
+  }, {
+    "name" : "testClass",
+    "value" : "Тесты на личный кабинет"
+  }, {
+    "name" : "testMethod",
+    "value" : "Проверка смены пароля"
+  }, {
+    "name" : "package",
+    "value" : "Тесты на личный кабинет"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7cc239b2c639860.json",
+  "parameterValues" : [ ]
+}
