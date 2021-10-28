@@ -1,0 +1,48 @@
+{
+  "uid" : "a0bfe0d57832d682",
+  "name" : "Проверка фильтра времени в меню событий",
+  "fullName" : "Тесты фильтра меню избранное.Проверка фильтра времени в меню событий",
+  "historyId" : "59d811189574146ba2fee21f46eaa5e6",
+  "time" : {
+    "start" : 1635426632433,
+    "stop" : 1635426632434,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "This test was ignored",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Тесты фильтра меню избранное"
+  }, {
+    "name" : "testClass",
+    "value" : "Тесты фильтра меню избранное"
+  }, {
+    "name" : "testMethod",
+    "value" : "Проверка фильтра времени в меню событий"
+  }, {
+    "name" : "package",
+    "value" : "Тесты фильтра меню избранное"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a0bfe0d57832d682.json",
+  "parameterValues" : [ ]
+}

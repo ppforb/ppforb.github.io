@@ -1,0 +1,48 @@
+{
+  "uid" : "e5a35bdc4da9159",
+  "name" : "Потребление памяти",
+  "fullName" : "Тесты на производительность.Потребление памяти",
+  "historyId" : "8001140adc12ca90e6a53fe3f1c2839d",
+  "time" : {
+    "start" : 1635426632457,
+    "stop" : 1635426632458,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "This test was ignored",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Тесты на производительность"
+  }, {
+    "name" : "testClass",
+    "value" : "Тесты на производительность"
+  }, {
+    "name" : "testMethod",
+    "value" : "Потребление памяти"
+  }, {
+    "name" : "package",
+    "value" : "Тесты на производительность"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e5a35bdc4da9159.json",
+  "parameterValues" : [ ]
+}

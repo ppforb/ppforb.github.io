@@ -1,0 +1,48 @@
+{
+  "uid" : "f426fd0e2d4f05be",
+  "name" : "Проверка сортировки по номеру",
+  "fullName" : "Проверка работы всего функицонала во вкладке \"Результат\".Проверка сортировки по номеру",
+  "historyId" : "2884b9d6b4baafc129b6d8979dfbd749",
+  "time" : {
+    "start" : 1635426632488,
+    "stop" : 1635426632490,
+    "duration" : 2
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "This test was ignored",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Проверка работы всего функицонала во вкладке \"Результат\""
+  }, {
+    "name" : "testClass",
+    "value" : "Проверка работы всего функицонала во вкладке \"Результат\""
+  }, {
+    "name" : "testMethod",
+    "value" : "Проверка сортировки по номеру"
+  }, {
+    "name" : "package",
+    "value" : "Проверка работы всего функицонала во вкладке \"Результат\""
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f426fd0e2d4f05be.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,48 @@
+{
+  "uid" : "e27f27433c6b10ee",
+  "name" : "Проверка баннеров акций",
+  "fullName" : "Тесты на вкладку Бонусы.Проверка баннеров акций",
+  "historyId" : "2a886fedb4fd4763401e54bdac173e6",
+  "time" : {
+    "start" : 1635426632463,
+    "stop" : 1635426632464,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "This test was ignored",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Тесты на вкладку Бонусы"
+  }, {
+    "name" : "testClass",
+    "value" : "Тесты на вкладку Бонусы"
+  }, {
+    "name" : "testMethod",
+    "value" : "Проверка баннеров акций"
+  }, {
+    "name" : "package",
+    "value" : "Тесты на вкладку Бонусы"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e27f27433c6b10ee.json",
+  "parameterValues" : [ ]
+}

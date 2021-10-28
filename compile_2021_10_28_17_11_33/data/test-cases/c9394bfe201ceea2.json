@@ -1,0 +1,48 @@
+{
+  "uid" : "c9394bfe201ceea2",
+  "name" : "Тест фильтра в вертикальном положении",
+  "fullName" : "Тесты фильтра меню избранное.Тест фильтра в вертикальном положении",
+  "historyId" : "204c36786e0fdbe6fbac95f3db5ecc33",
+  "time" : {
+    "start" : 1635426632429,
+    "stop" : 1635426632431,
+    "duration" : 2
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "This test was ignored",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Тесты фильтра меню избранное"
+  }, {
+    "name" : "testClass",
+    "value" : "Тесты фильтра меню избранное"
+  }, {
+    "name" : "testMethod",
+    "value" : "Тест фильтра в вертикальном положении"
+  }, {
+    "name" : "package",
+    "value" : "Тесты фильтра меню избранное"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c9394bfe201ceea2.json",
+  "parameterValues" : [ ]
+}

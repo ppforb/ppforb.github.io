@@ -1,0 +1,48 @@
+{
+  "uid" : "fb37e66f703ba280",
+  "name" : "Проверка шапки чемпионата",
+  "fullName" : "Провекра гридов с соревнованиями в линии/лайве.Проверка шапки чемпионата",
+  "historyId" : "ca08ed4e5aae07a67c89651cdfe773a1",
+  "time" : {
+    "start" : 1635426632438,
+    "stop" : 1635426632439,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "This test was ignored",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Провекра гридов с соревнованиями в линии/лайве"
+  }, {
+    "name" : "testClass",
+    "value" : "Провекра гридов с соревнованиями в линии/лайве"
+  }, {
+    "name" : "testMethod",
+    "value" : "Проверка шапки чемпионата"
+  }, {
+    "name" : "package",
+    "value" : "Провекра гридов с соревнованиями в линии/лайве"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fb37e66f703ba280.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,48 @@
+{
+  "uid" : "be43f4cdae29b979",
+  "name" : "Проверка открытия страницы пополнения через Мегафон",
+  "fullName" : "Проверка пополения и выплаты.Проверка открытия страницы пополнения через Мегафон",
+  "historyId" : "c343994a67c7c524dbda66d7270fa42e",
+  "time" : {
+    "start" : 1635426632410,
+    "stop" : 1635426632412,
+    "duration" : 2
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "This test was ignored",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Проверка пополения и выплаты"
+  }, {
+    "name" : "testClass",
+    "value" : "Проверка пополения и выплаты"
+  }, {
+    "name" : "testMethod",
+    "value" : "Проверка открытия страницы пополнения через Мегафон"
+  }, {
+    "name" : "package",
+    "value" : "Проверка пополения и выплаты"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "be43f4cdae29b979.json",
+  "parameterValues" : [ ]
+}

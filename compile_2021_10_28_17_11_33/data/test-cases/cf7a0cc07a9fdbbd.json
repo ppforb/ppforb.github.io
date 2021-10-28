@@ -1,0 +1,48 @@
+{
+  "uid" : "cf7a0cc07a9fdbbd",
+  "name" : "Проверка продажи и ее настройки",
+  "fullName" : "Проверка всего в ленте купонов.Проверка продажи и ее настройки",
+  "historyId" : "fe49efa8899a513685c4ceae5ba92296",
+  "time" : {
+    "start" : 1635426632387,
+    "stop" : 1635426632389,
+    "duration" : 2
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "This test was ignored",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Проверка всего в ленте купонов"
+  }, {
+    "name" : "testClass",
+    "value" : "Проверка всего в ленте купонов"
+  }, {
+    "name" : "testMethod",
+    "value" : "Проверка продажи и ее настройки"
+  }, {
+    "name" : "package",
+    "value" : "Проверка всего в ленте купонов"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cf7a0cc07a9fdbbd.json",
+  "parameterValues" : [ ]
+}

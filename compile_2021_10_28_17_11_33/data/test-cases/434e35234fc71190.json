@@ -1,0 +1,48 @@
+{
+  "uid" : "434e35234fc71190",
+  "name" : "Ставки из приоритетных событий линии/лайва с главной страницы",
+  "fullName" : "Тесты на главной странице.Ставки из приоритетных событий линии/лайва с главной страницы",
+  "historyId" : "2c32a6bec25b6cbfd81d81c8763c06f9",
+  "time" : {
+    "start" : 1635426632447,
+    "stop" : 1635426632448,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "This test was ignored",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Тесты на главной странице"
+  }, {
+    "name" : "testClass",
+    "value" : "Тесты на главной странице"
+  }, {
+    "name" : "testMethod",
+    "value" : "Ставки из приоритетных событий линии/лайва с главной страницы"
+  }, {
+    "name" : "package",
+    "value" : "Тесты на главной странице"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "434e35234fc71190.json",
+  "parameterValues" : [ ]
+}

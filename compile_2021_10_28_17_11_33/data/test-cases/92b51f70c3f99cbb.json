@@ -1,0 +1,48 @@
+{
+  "uid" : "92b51f70c3f99cbb",
+  "name" : "Проверка настроек в вкладке История",
+  "fullName" : "Проверка всего в ленте купонов.Проверка настроек в вкладке История",
+  "historyId" : "59f4b6e44fc21a02d872072d19b82640",
+  "time" : {
+    "start" : 1635426632384,
+    "stop" : 1635426632385,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "This test was ignored",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Проверка всего в ленте купонов"
+  }, {
+    "name" : "testClass",
+    "value" : "Проверка всего в ленте купонов"
+  }, {
+    "name" : "testMethod",
+    "value" : "Проверка настроек в вкладке История"
+  }, {
+    "name" : "package",
+    "value" : "Проверка всего в ленте купонов"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "92b51f70c3f99cbb.json",
+  "parameterValues" : [ ]
+}

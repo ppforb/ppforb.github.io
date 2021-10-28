@@ -1,0 +1,48 @@
+{
+  "uid" : "e5562ebc93d9c0af",
+  "name" : "Проверка суммы на граничные значения",
+  "fullName" : "Проверка пополения и выплаты.Проверка суммы на граничные значения",
+  "historyId" : "d746a0fc0c636411b577da4d5973590e",
+  "time" : {
+    "start" : 1635426632402,
+    "stop" : 1635426632403,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "This test was ignored",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Проверка пополения и выплаты"
+  }, {
+    "name" : "testClass",
+    "value" : "Проверка пополения и выплаты"
+  }, {
+    "name" : "testMethod",
+    "value" : "Проверка суммы на граничные значения"
+  }, {
+    "name" : "package",
+    "value" : "Проверка пополения и выплаты"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e5562ebc93d9c0af.json",
+  "parameterValues" : [ ]
+}

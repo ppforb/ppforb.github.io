@@ -1,0 +1,48 @@
+{
+  "uid" : "11e894a2681ea74b",
+  "name" : "Проверка работы ставки пари с предыдущей ставки",
+  "fullName" : "Проверка настроек сайта.Проверка работы ставки пари с предыдущей ставки",
+  "historyId" : "eb05415eae1e09f7fab5da5cefc4b387",
+  "time" : {
+    "start" : 1635426632519,
+    "stop" : 1635426632521,
+    "duration" : 2
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "This test was ignored",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Проверка настроек сайта"
+  }, {
+    "name" : "testClass",
+    "value" : "Проверка настроек сайта"
+  }, {
+    "name" : "testMethod",
+    "value" : "Проверка работы ставки пари с предыдущей ставки"
+  }, {
+    "name" : "package",
+    "value" : "Проверка настроек сайта"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "11e894a2681ea74b.json",
+  "parameterValues" : [ ]
+}

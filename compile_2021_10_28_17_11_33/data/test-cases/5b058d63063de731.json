@@ -1,0 +1,146 @@
+{
+  "uid" : "5b058d63063de731",
+  "name" : "Проверка отображения всех видов трансляций лайф событий ",
+  "fullName" : "Лайв трансляции и eventView.Проверка отображения всех видов трансляций лайф событий ",
+  "historyId" : "edfa817ca61c09f9a4f8d879776c28d2",
+  "time" : {
+    "start" : 1635426607214,
+    "stop" : 1635426632356,
+    "duration" : 25142
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Переход в Лайв",
+      "time" : {
+        "start" : 1635426618021,
+        "stop" : 1635426618021,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Выбор внешней трансляции",
+      "time" : {
+        "start" : 1635426623746,
+        "stop" : 1635426623746,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Проверка что трансляция открывается в новом окне",
+      "time" : {
+        "start" : 1635426626997,
+        "stop" : 1635426626997,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Проверка встроенной трансляции",
+      "time" : {
+        "start" : 1635426627109,
+        "stop" : 1635426627109,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Проверка клика на заблокированное событие",
+      "time" : {
+        "start" : 1635426627274,
+        "stop" : 1635426627274,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Проверка трансляции неавторизованным пользователем",
+      "time" : {
+        "start" : 1635426627290,
+        "stop" : 1635426627290,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 6,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Лайв трансляции и eventView"
+  }, {
+    "name" : "testClass",
+    "value" : "Лайв трансляции и eventView"
+  }, {
+    "name" : "testMethod",
+    "value" : "Проверка отображения всех видов трансляций лайф событий "
+  }, {
+    "name" : "package",
+    "value" : "Лайв трансляции и eventView"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5b058d63063de731.json",
+  "parameterValues" : [ ]
+}

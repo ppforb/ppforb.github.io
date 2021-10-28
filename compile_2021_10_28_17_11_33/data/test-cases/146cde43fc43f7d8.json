@@ -1,0 +1,48 @@
+{
+  "uid" : "146cde43fc43f7d8",
+  "name" : "Проверка открытия всех вкладок",
+  "fullName" : "Тесты на функциии из области шапки сайта.Проверка открытия всех вкладок",
+  "historyId" : "246e9cea4d241305d0b21b2686afc349",
+  "time" : {
+    "start" : 1635426632443,
+    "stop" : 1635426632444,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "This test was ignored",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Тесты на функциии из области шапки сайта"
+  }, {
+    "name" : "testClass",
+    "value" : "Тесты на функциии из области шапки сайта"
+  }, {
+    "name" : "testMethod",
+    "value" : "Проверка открытия всех вкладок"
+  }, {
+    "name" : "package",
+    "value" : "Тесты на функциии из области шапки сайта"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "146cde43fc43f7d8.json",
+  "parameterValues" : [ ]
+}
