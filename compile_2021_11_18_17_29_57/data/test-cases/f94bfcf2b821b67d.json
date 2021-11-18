@@ -1,0 +1,48 @@
+{
+  "uid" : "f94bfcf2b821b67d",
+  "name" : "Добавляю аккаунт в Акцию серия побед, ставлю ставку, продаю",
+  "fullName" : "Проверка авторизации.Добавляю аккаунт в Акцию серия побед, ставлю ставку, продаю",
+  "historyId" : "1379fcd905e015abbdbd9d525507afc4",
+  "time" : {
+    "start" : 1637241887673,
+    "stop" : 1637241887700,
+    "duration" : 27
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "Temporarily disabled with xit",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Проверка авторизации"
+  }, {
+    "name" : "testClass",
+    "value" : "Проверка авторизации"
+  }, {
+    "name" : "testMethod",
+    "value" : "Добавляю аккаунт в Акцию серия побед, ставлю ставку, продаю"
+  }, {
+    "name" : "package",
+    "value" : "Проверка авторизации"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f94bfcf2b821b67d.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,2190 @@
+{
+  "99dcca8625b7ef46290c70cb1968e0d3" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "39b1c3c3320c7976",
+      "status" : "failed",
+      "statusDetails" : "Failed: \n                \tTimed out after 5000ms, while waiting for:\n                \tbrowser.element(By(xpath, //*[@class='header__login-head']/a[1])).click\n                Reason:\n                \tno such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@class='header__login-head']/a[1]\"}\n                  (Session info: chrome=96.0.4664.45)\n                  (Driver info: chromedriver=95.0.4638.69 (6a1600ed572fedecd573b6c2b90a22fe6392a410-refs/branch-heads/4638@{#984}),platform=Mac OS X 11.6.0 x86_64)",
+      "time" : {
+        "start" : 1637241141227,
+        "stop" : 1637241163289,
+        "duration" : 22062
+      }
+    } ]
+  },
+  "32c87af114ce3895459feadb18e183ec" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e13d280c3941307e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637240475922,
+        "stop" : 1637240485180,
+        "duration" : 9258
+      }
+    } ]
+  },
+  "38ca26c18aaf437a790239f6d2360852" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4beb007d661a3c99",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637240602244,
+        "stop" : 1637240610359,
+        "duration" : 8115
+      }
+    } ]
+  },
+  "eaf3a4382edd28bb443c683a9e92912b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "43ac53afde3b6027",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637240575843,
+        "stop" : 1637240587856,
+        "duration" : 12013
+      }
+    } ]
+  },
+  "ba3bb0afb8a691ed98d61a2a7c3df574" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a7ce46acff3d197c",
+      "status" : "failed",
+      "statusDetails" : "Failed: \n                \tTimed out after 5000ms, while waiting for:\n                \tbrowser.element(By(xpath, //*[@class='header__login-head _type_account']/div[1])).click\n                Reason:\n                \tno such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@class='header__login-head _type_account']/div[1]\"}\n                  (Session info: chrome=96.0.4664.45)\n                  (Driver info: chromedriver=95.0.4638.69 (6a1600ed572fedecd573b6c2b90a22fe6392a410-refs/branch-heads/4638@{#984}),platform=Mac OS X 11.6.0 x86_64)",
+      "time" : {
+        "start" : 1637241868863,
+        "stop" : 1637241887657,
+        "duration" : 18794
+      }
+    } ]
+  },
+  "b4673ec574940356593d6e42d98f2ce3" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "97e98c8e027010b5",
+      "status" : "skipped",
+      "statusDetails" : "Temporarily disabled with xit",
+      "time" : {
+        "start" : 1637241163315,
+        "stop" : 1637241163329,
+        "duration" : 14
+      }
+    } ]
+  },
+  "fe49efa8899a513685c4ceae5ba92296" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "12c7d31f901c94d9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637240700033,
+        "stop" : 1637240711892,
+        "duration" : 11859
+      }
+    } ]
+  },
+  "49a3bb3f4f82b38274823371a76ae211" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "335eb6ada1a9752e",
+      "status" : "failed",
+      "statusDetails" : "Failed: \n                \tTimed out after 5000ms, while waiting for:\n                \tbrowser.element(By(xpath, //*[@class='settings__section'][1]/div/div[3]//input)).click\n                Reason:\n                \tno such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@class='settings__section'][1]/div/div[3]//input\"}\n                  (Session info: chrome=96.0.4664.45)\n                  (Driver info: chromedriver=95.0.4638.69 (6a1600ed572fedecd573b6c2b90a22fe6392a410-refs/branch-heads/4638@{#984}),platform=Mac OS X 11.6.0 x86_64)",
+      "time" : {
+        "start" : 1637242064051,
+        "stop" : 1637242075515,
+        "duration" : 11464
+      }
+    } ]
+  },
+  "f5068a8741726eebf6b0dfd842c7f4a9" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9002bd9567d254e4",
+      "status" : "failed",
+      "statusDetails" : "Failed: \n                \tTimed out after 5000ms, while waiting for:\n                \tbrowser.element(By(xpath, //*[@href='/account/restore-password/'])).click\n                Reason:\n                \tno such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@href='/account/restore-password/']\"}\n                  (Session info: chrome=96.0.4664.45)\n                  (Driver info: chromedriver=95.0.4638.69 (6a1600ed572fedecd573b6c2b90a22fe6392a410-refs/branch-heads/4638@{#984}),platform=Mac OS X 11.6.0 x86_64)",
+      "time" : {
+        "start" : 1637241511806,
+        "stop" : 1637241523941,
+        "duration" : 12135
+      }
+    } ]
+  },
+  "6339e046a4155dba205d1c3eeba70eca" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ac1e71289dc069c3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637240620147,
+        "stop" : 1637240628031,
+        "duration" : 7884
+      }
+    } ]
+  },
+  "81faaf19c272b95f5db8d2dfaead4142" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1e4502de3cba9986",
+      "status" : "failed",
+      "statusDetails" : "Failed: \n                \tTimed out after 5000ms, while waiting for:\n                \tbrowser.element(By(xpath, //*[@href='/results/'])).click\n                Reason:\n                \tno such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@href='/results/']\"}\n                  (Session info: chrome=96.0.4664.45)\n                  (Driver info: chromedriver=95.0.4638.69 (6a1600ed572fedecd573b6c2b90a22fe6392a410-refs/branch-heads/4638@{#984}),platform=Mac OS X 11.6.0 x86_64)",
+      "time" : {
+        "start" : 1637241920348,
+        "stop" : 1637241931559,
+        "duration" : 11211
+      }
+    } ]
+  },
+  "6b0b4a64e36c83c1a3244af80f612283" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "62320ef425d2afea",
+      "status" : "failed",
+      "statusDetails" : "Failed: \n                \tTimed out after 5000ms, while waiting for:\n                \tbrowser.element(By(xpath, //*[@id='popup']/li[1])).click\n                Reason:\n                \tno such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@id='popup']/li[1]\"}\n                  (Session info: chrome=96.0.4664.45)\n                  (Driver info: chromedriver=95.0.4638.69 (6a1600ed572fedecd573b6c2b90a22fe6392a410-refs/branch-heads/4638@{#984}),platform=Mac OS X 11.6.0 x86_64)",
+      "time" : {
+        "start" : 1637241682517,
+        "stop" : 1637241697964,
+        "duration" : 15447
+      }
+    } ]
+  },
+  "fc005e3104110cf68a20c2553d7aab6d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2e9eb9c2ead32c80",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637240508127,
+        "stop" : 1637240517871,
+        "duration" : 9744
+      }
+    } ]
+  },
+  "eb05415eae1e09f7fab5da5cefc4b387" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8391ea4193337c4d",
+      "status" : "failed",
+      "statusDetails" : "Failed: \n                \tTimed out after 5000ms, while waiting for:\n                \tbrowser.element(By(xpath, //*[@href='/bets/'])).click\n                Reason:\n                \tno such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@href='/bets/']\"}\n                  (Session info: chrome=96.0.4664.45)\n                  (Driver info: chromedriver=95.0.4638.69 (6a1600ed572fedecd573b6c2b90a22fe6392a410-refs/branch-heads/4638@{#984}),platform=Mac OS X 11.6.0 x86_64)",
+      "time" : {
+        "start" : 1637242040948,
+        "stop" : 1637242052194,
+        "duration" : 11246
+      }
+    } ]
+  },
+  "c1d2294707a6bd96afa434b66440eca0" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "dc505c636761580e",
+      "status" : "failed",
+      "statusDetails" : "Failed: \n                \tTimed out after 5000ms, while waiting for:\n                \tbrowser.element(By(xpath, //*[@id='popup']/li[1])).click\n                Reason:\n                \tno such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@id='popup']/li[1]\"}\n                  (Session info: chrome=96.0.4664.45)\n                  (Driver info: chromedriver=95.0.4638.69 (6a1600ed572fedecd573b6c2b90a22fe6392a410-refs/branch-heads/4638@{#984}),platform=Mac OS X 11.6.0 x86_64)",
+      "time" : {
+        "start" : 1637241983738,
+        "stop" : 1637241994857,
+        "duration" : 11119
+      }
+    } ]
+  },
+  "82bc083fb471c5e3f4b3638437661585" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "40fddb6122f59160",
+      "status" : "failed",
+      "statusDetails" : "Failed: \n                \tTimed out after 5000ms, while waiting for:\n                \tbrowser.element(By(xpath, //*[@id='popup']/li[1])).click\n                Reason:\n                \tno such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@id='popup']/li[1]\"}\n                  (Session info: chrome=96.0.4664.45)\n                  (Driver info: chromedriver=95.0.4638.69 (6a1600ed572fedecd573b6c2b90a22fe6392a410-refs/branch-heads/4638@{#984}),platform=Mac OS X 11.6.0 x86_64)",
+      "time" : {
+        "start" : 1637242029927,
+        "stop" : 1637242040934,
+        "duration" : 11007
+      }
+    } ]
+  },
+  "77db40941bfd4e9eba775cd3aa3c3b68" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fbca2e4610dc88e7",
+      "status" : "failed",
+      "statusDetails" : "Failed: \n                \tTimed out after 5000ms, while waiting for:\n                \tbrowser.element(By(xpath, //*[@class='settings__rows']/div[1]//input)).click\n                Reason:\n                \tno such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@class='settings__rows']/div[1]//input\"}\n                  (Session info: chrome=96.0.4664.45)\n                  (Driver info: chromedriver=95.0.4638.69 (6a1600ed572fedecd573b6c2b90a22fe6392a410-refs/branch-heads/4638@{#984}),platform=Mac OS X 11.6.0 x86_64)",
+      "time" : {
+        "start" : 1637242124140,
+        "stop" : 1637242136761,
+        "duration" : 12621
+      }
+    } ]
+  },
+  "1860835e796e9ff2bf9a898a86c445d5" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4d69713344d91d42",
+      "status" : "failed",
+      "statusDetails" : "Failed: \n                \tTimed out after 5000ms, while waiting for:\n                \tbrowser.element(By(xpath, //*[@id='popup']/li[1])).click\n                Reason:\n                \tno such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@id='popup']/li[1]\"}\n                  (Session info: chrome=96.0.4664.45)\n                  (Driver info: chromedriver=95.0.4638.69 (6a1600ed572fedecd573b6c2b90a22fe6392a410-refs/branch-heads/4638@{#984}),platform=Mac OS X 11.6.0 x86_64)",
+      "time" : {
+        "start" : 1637241779124,
+        "stop" : 1637241801899,
+        "duration" : 22775
+      }
+    } ]
+  },
+  "4190c63db598588924ae4118104fd486" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7721face50598f00",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637240466672,
+        "stop" : 1637240475922,
+        "duration" : 9250
+      }
+    } ]
+  },
+  "89398dca497cc127a1b673c15e0802b4" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "51861e36acbd077f",
+      "status" : "failed",
+      "statusDetails" : "Failed: \n                \tTimed out after 5000ms, while waiting for:\n                \tbrowser.element(By(xpath, //*[@href='/bets/'])).click\n                Reason:\n                \tno such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@href='/bets/']\"}\n                  (Session info: chrome=96.0.4664.45)\n                  (Driver info: chromedriver=95.0.4638.69 (6a1600ed572fedecd573b6c2b90a22fe6392a410-refs/branch-heads/4638@{#984}),platform=Mac OS X 11.6.0 x86_64)",
+      "time" : {
+        "start" : 1637241523949,
+        "stop" : 1637241536132,
+        "duration" : 12183
+      }
+    } ]
+  },
+  "ab3fac752ed9e20279545db4036dbad9" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5d76a524e025325b",
+      "status" : "failed",
+      "statusDetails" : "Failed: \n                \tTimed out after 5000ms, while waiting for:\n                \tbrowser.all(By(css selector, \"//*[contains(@class,'banner__item--3yiQQ _active-')]//a)).size\n                Reason:\n                \tinvalid selector: An invalid or illegal selector was specified\n                  (Session info: chrome=96.0.4664.45)\n                  (Driver info: chromedriver=95.0.4638.69 (6a1600ed572fedecd573b6c2b90a22fe6392a410-refs/branch-heads/4638@{#984}),platform=Mac OS X 11.6.0 x86_64)",
+      "time" : {
+        "start" : 1637241408929,
+        "stop" : 1637241425779,
+        "duration" : 16850
+      }
+    } ]
+  },
+  "436d4cb4ed30800f335ac2090100ec3d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8a50155ecfa0b412",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637241163343,
+        "stop" : 1637241175699,
+        "duration" : 12356
+      }
+    } ]
+  },
+  "2c32a6bec25b6cbfd81d81c8763c06f9" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2db08329ee95651",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637241354040,
+        "stop" : 1637241408929,
+        "duration" : 54889
+      }
+    } ]
+  },
+  "9d7968cf324e00f178fd09f1045f9546" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "36bb1d760780ffc3",
+      "status" : "failed",
+      "statusDetails" : "Failed: \n                \tTimed out after 5000ms, while waiting for:\n                \tbrowser.element(By(xpath, //*[@id='popup']/li[1])).click\n                Reason:\n                \tno such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@id='popup']/li[1]\"}\n                  (Session info: chrome=96.0.4664.45)\n                  (Driver info: chromedriver=95.0.4638.69 (6a1600ed572fedecd573b6c2b90a22fe6392a410-refs/branch-heads/4638@{#984}),platform=Mac OS X 11.6.0 x86_64)",
+      "time" : {
+        "start" : 1637241660124,
+        "stop" : 1637241682504,
+        "duration" : 22380
+      }
+    } ]
+  },
+  "1ef30270d9627e852c9363a59355c10a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "397a994fa0e33dc8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637240566920,
+        "stop" : 1637240575842,
+        "duration" : 8922
+      }
+    } ]
+  },
+  "1a241355fcea93f80240db41d5242b78" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1d78f7666a219c2e",
+      "status" : "failed",
+      "statusDetails" : "Failed: \n                \tTimed out after 5000ms, while waiting for:\n                \tbrowser.element(By(xpath, //*[@href='/account/restore-password/'])).click\n                Reason:\n                \tno such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@href='/account/restore-password/']\"}\n                  (Session info: chrome=96.0.4664.45)\n                  (Driver info: chromedriver=95.0.4638.69 (6a1600ed572fedecd573b6c2b90a22fe6392a410-refs/branch-heads/4638@{#984}),platform=Mac OS X 11.6.0 x86_64)",
+      "time" : {
+        "start" : 1637241497398,
+        "stop" : 1637241511805,
+        "duration" : 14407
+      }
+    } ]
+  },
+  "d746a0fc0c636411b577da4d5973590e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d315747e149c325c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637240946954,
+        "stop" : 1637240961745,
+        "duration" : 14791
+      }
+    } ]
+  },
+  "8e430621992b10854e5d98cee1b213d5" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4759b8f26cebfd1f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637240673682,
+        "stop" : 1637240688934,
+        "duration" : 15252
+      }
+    } ]
+  },
+  "ea374c5900dfcbca4f45bf8754107b06" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2b75eb2dc2c9d7a",
+      "status" : "failed",
+      "statusDetails" : "Failed: \n                \tTimed out after 5000ms, while waiting for:\n                \tbrowser.element(By(xpath, //*[@href='/bets/'])).click\n                Reason:\n                \tno such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@href='/bets/']\"}\n                  (Session info: chrome=96.0.4664.45)\n                  (Driver info: chromedriver=95.0.4638.69 (6a1600ed572fedecd573b6c2b90a22fe6392a410-refs/branch-heads/4638@{#984}),platform=Mac OS X 11.6.0 x86_64)",
+      "time" : {
+        "start" : 1637241536140,
+        "stop" : 1637241551068,
+        "duration" : 14928
+      }
+    } ]
+  },
+  "f4448429202fa77e5834625aae89b04c" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "62973f4d7956e20c",
+      "status" : "failed",
+      "statusDetails" : "Failed: \n                \tTimed out after 5000ms, while waiting for:\n                \tbrowser.element(By(xpath, //*[@class='settings__row _type_normal _type_columns']//*[@class='settings__fields-action _type_add']/i)).click\n                Reason:\n                \tno such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@class='settings__row _type_normal _type_columns']//*[@class='settings__fields-action _type_add']/i\"}\n                  (Session info: chrome=96.0.4664.45)\n                  (Driver info: chromedriver=95.0.4638.69 (6a1600ed572fedecd573b6c2b90a22fe6392a410-refs/branch-heads/4638@{#984}),platform=Mac OS X 11.6.0 x86_64)",
+      "time" : {
+        "start" : 1637242075516,
+        "stop" : 1637242087418,
+        "duration" : 11902
+      }
+    } ]
+  },
+  "e5468a844c65320741c7e885f43aaff2" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7a86f01f8ecc2396",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637240911312,
+        "stop" : 1637240933213,
+        "duration" : 21901
+      }
+    } ]
+  },
+  "246e9cea4d241305d0b21b2686afc349" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "11fbf3fef4707e1a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637241307790,
+        "stop" : 1637241324966,
+        "duration" : 17176
+      }
+    } ]
+  },
+  "d50288f11b79182bf5c76f9cff9defaf" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "45d484f72c5bf734",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637240610359,
+        "stop" : 1637240620147,
+        "duration" : 9788
+      }
+    } ]
+  },
+  "6b8225662e12aeb6db3f5d52067439b2" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "89af04292b34abdf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637240494628,
+        "stop" : 1637240508126,
+        "duration" : 13498
+      }
+    } ]
+  },
+  "1e82e31324df5e9f800be71747743a96" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1a943c860afeabd6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637240867761,
+        "stop" : 1637240887275,
+        "duration" : 19514
+      }
+    } ]
+  },
+  "2251ac52869eed9fa2b7c231c2679499" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8783547e0f7dd6d4",
+      "status" : "failed",
+      "statusDetails" : "Failed: \n                \tTimed out after 5000ms, while waiting for:\n                \tbrowser.element(By(xpath, //*[@id='popup']/li[1])).click\n                Reason:\n                \tno such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@id='popup']/li[1]\"}\n                  (Session info: chrome=96.0.4664.45)\n                  (Driver info: chromedriver=95.0.4638.69 (6a1600ed572fedecd573b6c2b90a22fe6392a410-refs/branch-heads/4638@{#984}),platform=Mac OS X 11.6.0 x86_64)",
+      "time" : {
+        "start" : 1637241589941,
+        "stop" : 1637241616489,
+        "duration" : 26548
+      }
+    } ]
+  },
+  "f25ffae9fa08432489c56d12ec237f5e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ab93d9a0a2b8888e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637241237243,
+        "stop" : 1637241245445,
+        "duration" : 8202
+      }
+    } ]
+  },
+  "59d811189574146ba2fee21f46eaa5e6" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "536398906d4abeb1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637241245446,
+        "stop" : 1637241254182,
+        "duration" : 8736
+      }
+    } ]
+  },
+  "8cb1c6cb0748406071ad52dd04034948" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8e87af1159f41d77",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637240933214,
+        "stop" : 1637240946954,
+        "duration" : 13740
+      }
+    } ]
+  },
+  "b7b9e95211f9f59ad0cea8c7eeb7125d" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4a3182f20c29cf2d",
+      "status" : "failed",
+      "statusDetails" : "Failed: \n                \tTimed out after 5000ms, while waiting for:\n                \tbrowser.element(By(xpath, //*[@class='header__login-head']/a[1])).click\n                Reason:\n                \tno such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@class='header__login-head']/a[1]\"}\n                  (Session info: chrome=96.0.4664.45)\n                  (Driver info: chromedriver=95.0.4638.69 (6a1600ed572fedecd573b6c2b90a22fe6392a410-refs/branch-heads/4638@{#984}),platform=Mac OS X 11.6.0 x86_64)",
+      "time" : {
+        "start" : 1637241052252,
+        "stop" : 1637241075536,
+        "duration" : 23284
+      }
+    } ]
+  },
+  "4a52d67b395462185835f6d31c1b568b" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e59f6a3649a18349",
+      "status" : "failed",
+      "statusDetails" : "Failed: \n                \tTimed out after 5000ms, while waiting for:\n                \tbrowser.element(By(xpath, //*[@id='popup']/li[1])).click\n                Reason:\n                \tno such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@id='popup']/li[1]\"}\n                  (Session info: chrome=96.0.4664.45)\n                  (Driver info: chromedriver=95.0.4638.69 (6a1600ed572fedecd573b6c2b90a22fe6392a410-refs/branch-heads/4638@{#984}),platform=Mac OS X 11.6.0 x86_64)",
+      "time" : {
+        "start" : 1637241950135,
+        "stop" : 1637241961472,
+        "duration" : 11337
+      }
+    } ]
+  },
+  "300a52097a2959db31c9378e578a7e5" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8b776efec9b2d3de",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637240785906,
+        "stop" : 1637240807699,
+        "duration" : 21793
+      }
+    } ]
+  },
+  "fa0745f6f516db4133e6b5a25f469909" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8f9fdcde6f7b159e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637241206475,
+        "stop" : 1637241217159,
+        "duration" : 10684
+      }
+    } ]
+  },
+  "ca08ed4e5aae07a67c89651cdfe773a1" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "daa6e2981dd51bad",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637241267683,
+        "stop" : 1637241279799,
+        "duration" : 12116
+      }
+    } ]
+  },
+  "247d618b9ee268bbb1a9e6c4a73fcb12" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f42bf6fb9a54bd18",
+      "status" : "failed",
+      "statusDetails" : "Failed: \n                \tTimed out after 5000ms, while waiting for:\n                \tbrowser.element(By(xpath, //*[@id='popup']/li[1])).click\n                Reason:\n                \tno such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@id='popup']/li[1]\"}\n                  (Session info: chrome=96.0.4664.45)\n                  (Driver info: chromedriver=95.0.4638.69 (6a1600ed572fedecd573b6c2b90a22fe6392a410-refs/branch-heads/4638@{#984}),platform=Mac OS X 11.6.0 x86_64)",
+      "time" : {
+        "start" : 1637241994859,
+        "stop" : 1637242006005,
+        "duration" : 11146
+      }
+    } ]
+  },
+  "cb3b72a8a12624d9680f9f092a4759cd" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "481e6e5e7e82c721",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637241887708,
+        "stop" : 1637241908274,
+        "duration" : 20566
+      }
+    } ]
+  },
+  "7d53c8983b34e928a6b8c434bf5d0d3a" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1bfe62b4a98f7789",
+      "status" : "failed",
+      "statusDetails" : "Failed: \n                \tTimed out after 5000ms, while waiting for:\n                \tbrowser.element(By(xpath, //div[contains(@class,'horizontal-panel--')]/div/div[6])).click\n                Reason:\n                \telement not interactable\n                  (Session info: chrome=96.0.4664.45)\n                  (Driver info: chromedriver=95.0.4638.69 (6a1600ed572fedecd573b6c2b90a22fe6392a410-refs/branch-heads/4638@{#984}),platform=Mac OS X 11.6.0 x86_64)",
+      "time" : {
+        "start" : 1637241254182,
+        "stop" : 1637241267674,
+        "duration" : 13492
+      }
+    } ]
+  },
+  "a4b837391d24f2e6028bb068d03ea8b9" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ca138d44534bc760",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637240736906,
+        "stop" : 1637240761755,
+        "duration" : 24849
+      }
+    } ]
+  },
+  "c343994a67c7c524dbda66d7270fa42e" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5a6c9f469537669c",
+      "status" : "failed",
+      "statusDetails" : "Failed: \n                \tTimed out after 5000ms, while waiting for:\n                \tbrowser.element(By(xpath, //*[@class='header__login-head']/a[1])).click\n                Reason:\n                \tno such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@class='header__login-head']/a[1]\"}\n                  (Session info: chrome=96.0.4664.45)\n                  (Driver info: chromedriver=95.0.4638.69 (6a1600ed572fedecd573b6c2b90a22fe6392a410-refs/branch-heads/4638@{#984}),platform=Mac OS X 11.6.0 x86_64)",
+      "time" : {
+        "start" : 1637241075537,
+        "stop" : 1637241096645,
+        "duration" : 21108
+      }
+    } ]
+  },
+  "147a16525ae0755e77b9b04727bacd4c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a81a0b1cbd66cfef",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637240442229,
+        "stop" : 1637240457239,
+        "duration" : 15010
+      }
+    } ]
+  },
+  "4f9739ce462148a58e4ad1edd5153207" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f3840303474b7ada",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637241931560,
+        "stop" : 1637241938907,
+        "duration" : 7347
+      }
+    } ]
+  },
+  "28c17179b37451fe5a27371243785c05" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f06e6aeb89a0f1cf",
+      "status" : "failed",
+      "statusDetails" : "Failed: \n                \tTimed out after 5000ms, while waiting for:\n                \tbrowser.element(By(xpath, //*[@id='popup']/li[1])).click\n                Reason:\n                \tno such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@id='popup']/li[1]\"}\n                  (Session info: chrome=96.0.4664.45)\n                  (Driver info: chromedriver=95.0.4638.69 (6a1600ed572fedecd573b6c2b90a22fe6392a410-refs/branch-heads/4638@{#984}),platform=Mac OS X 11.6.0 x86_64)",
+      "time" : {
+        "start" : 1637241616490,
+        "stop" : 1637241638781,
+        "duration" : 22291
+      }
+    } ]
+  },
+  "b50e86d0466f1261b6b5f0ee07e0d9b0" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a36d7cd390de9ec7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637240534855,
+        "stop" : 1637240566920,
+        "duration" : 32065
+      }
+    } ]
+  },
+  "769cf605be95e16b5f079182bbb53313" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "65a84eb06230ce6b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637241474880,
+        "stop" : 1637241497389,
+        "duration" : 22509
+      }
+    } ]
+  },
+  "6cd95be3a3f18ea896745615bf39dbe" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "92a32228ce6847ac",
+      "status" : "failed",
+      "statusDetails" : "Failed: \n                \tTimed out after 5000ms, while waiting for:\n                \tbrowser.element(By(xpath, //*[@id='popup']/li[1])).click\n                Reason:\n                \tno such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@id='popup']/li[1]\"}\n                  (Session info: chrome=96.0.4664.45)\n                  (Driver info: chromedriver=95.0.4638.69 (6a1600ed572fedecd573b6c2b90a22fe6392a410-refs/branch-heads/4638@{#984}),platform=Mac OS X 11.6.0 x86_64)",
+      "time" : {
+        "start" : 1637241744894,
+        "stop" : 1637241760338,
+        "duration" : 15444
+      }
+    } ]
+  },
+  "9ea742bf420ca51547e744ad10c4e089" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "bfcc1e75e002eff6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637240688934,
+        "stop" : 1637240700033,
+        "duration" : 11099
+      }
+    } ]
+  },
+  "204c36786e0fdbe6fbac95f3db5ecc33" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a3258060bf01e6dd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637241225585,
+        "stop" : 1637241237242,
+        "duration" : 11657
+      }
+    } ]
+  },
+  "f966302aee5cedd1dd9f88dafb6c3647" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "45961d6bc38f531c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637240961745,
+        "stop" : 1637240975818,
+        "duration" : 14073
+      }
+    } ]
+  },
+  "1712624880d259b6a4d90a18c44b7202" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "35ccad1a313169db",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637240422813,
+        "stop" : 1637240432901,
+        "duration" : 10088
+      }
+    } ]
+  },
+  "7fd1caa1823c79584ea48f8f1cfd6138" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "66374a7529b04d1",
+      "status" : "failed",
+      "statusDetails" : "Failed: \n                \tTimed out after 5000ms, while waiting for:\n                \tbrowser.element(By(xpath, //*[@class='settings__content']/div[5]/div/div[1]//input)).click\n                Reason:\n                \tno such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@class='settings__content']/div[5]/div/div[1]//input\"}\n                  (Session info: chrome=96.0.4664.45)\n                  (Driver info: chromedriver=95.0.4638.69 (6a1600ed572fedecd573b6c2b90a22fe6392a410-refs/branch-heads/4638@{#984}),platform=Mac OS X 11.6.0 x86_64)",
+      "time" : {
+        "start" : 1637242111853,
+        "stop" : 1637242124139,
+        "duration" : 12286
+      }
+    } ]
+  },
+  "c65fac2048c77592701bbd92214b40de" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "35ae39b1a82b73ef",
+      "status" : "failed",
+      "statusDetails" : "Failed: \n                \tTimed out after 5000ms, while waiting for:\n                \tbrowser.element(By(xpath, //*[@class='settings__section'][1]/div/div[1]//*[@class='header-ui__checkbox-label']/input)).click\n                Reason:\n                \tno such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@class='settings__section'][1]/div/div[1]//*[@class='header-ui__checkbox-label']/input\"}\n                  (Session info: chrome=96.0.4664.45)\n                  (Driver info: chromedriver=95.0.4638.69 (6a1600ed572fedecd573b6c2b90a22fe6392a410-refs/branch-heads/4638@{#984}),platform=Mac OS X 11.6.0 x86_64)",
+      "time" : {
+        "start" : 1637242052195,
+        "stop" : 1637242064051,
+        "duration" : 11856
+      }
+    } ]
+  },
+  "854c145f70330f5fb92cd7e11226347" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c73303a740394bc6",
+      "status" : "skipped",
+      "statusDetails" : "This test was ignored",
+      "time" : {
+        "start" : 1637241938919,
+        "stop" : 1637241938947,
+        "duration" : 28
+      }
+    } ]
+  },
+  "8473ab17b0150f49154a1986b3392c7a" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "61166c91828234e3",
+      "status" : "failed",
+      "statusDetails" : "Failed: \n                \tTimed out after 5000ms, while waiting for:\n                \tbrowser.element(By(xpath, //*[@class='header__login-head']/a[1])).click\n                Reason:\n                \tno such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@class='header__login-head']/a[1]\"}\n                  (Session info: chrome=96.0.4664.45)\n                  (Driver info: chromedriver=95.0.4638.69 (6a1600ed572fedecd573b6c2b90a22fe6392a410-refs/branch-heads/4638@{#984}),platform=Mac OS X 11.6.0 x86_64)",
+      "time" : {
+        "start" : 1637241029899,
+        "stop" : 1637241052252,
+        "duration" : 22353
+      }
+    } ]
+  },
+  "5a41c3167c3d2b200720fd84a9f03e84" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2467f3fcaaf7c96e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637240526334,
+        "stop" : 1637240534847,
+        "duration" : 8513
+      }
+    } ]
+  },
+  "98bcc32d95821facd0fec32c9891ae7d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3647829474a7e7c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637240432902,
+        "stop" : 1637240442228,
+        "duration" : 9326
+      }
+    } ]
+  },
+  "59f4b6e44fc21a02d872072d19b82640" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f69e8a3a4bc4926b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637240636265,
+        "stop" : 1637240652860,
+        "duration" : 16595
+      }
+    } ]
+  },
+  "bdc152c482a8213188ce52373d07aa81" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a5d8fb0d735019cf",
+      "status" : "failed",
+      "statusDetails" : "Failed: \n                \tTimed out after 5000ms, while waiting for:\n                \tbrowser.element(By(xpath, //*[@id='popup']/li[1])).click\n                Reason:\n                \tno such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@id='popup']/li[1]\"}\n                  (Session info: chrome=96.0.4664.45)\n                  (Driver info: chromedriver=95.0.4638.69 (6a1600ed572fedecd573b6c2b90a22fe6392a410-refs/branch-heads/4638@{#984}),platform=Mac OS X 11.6.0 x86_64)",
+      "time" : {
+        "start" : 1637242017220,
+        "stop" : 1637242029926,
+        "duration" : 12706
+      }
+    } ]
+  },
+  "dbf20de782e63438c690ed2951e2f5ca" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "dac24fb8723b1156",
+      "status" : "failed",
+      "statusDetails" : "Failed: \n                \tTimed out after 5000ms, while waiting for:\n                \tbrowser.element(By(xpath, //*[@id='popup']/li[1])).click\n                Reason:\n                \tno such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@id='popup']/li[1]\"}\n                  (Session info: chrome=96.0.4664.45)\n                  (Driver info: chromedriver=95.0.4638.69 (6a1600ed572fedecd573b6c2b90a22fe6392a410-refs/branch-heads/4638@{#984}),platform=Mac OS X 11.6.0 x86_64)",
+      "time" : {
+        "start" : 1637241938987,
+        "stop" : 1637241950133,
+        "duration" : 11146
+      }
+    } ]
+  },
+  "4160e62a59b502b6fc03c683c5f8632" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8e9fd5dd2088c8a4",
+      "status" : "failed",
+      "statusDetails" : "Failed: \n                \tTimed out after 5000ms, while waiting for:\n                \tbrowser.all(By(xpath, //div[contains(@class,'coupon-list--')]/article)).has size 2\n                Reason:\n                \tactual size: 1",
+      "time" : {
+        "start" : 1637240807699,
+        "stop" : 1637240842580,
+        "duration" : 34881
+      }
+    } ]
+  },
+  "c2016506114fdcb1191518ac78970fe6" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8434bca8c23dd824",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637241175700,
+        "stop" : 1637241187813,
+        "duration" : 12113
+      }
+    } ]
+  },
+  "d091d6b91c7fa8827e7995876724bb86" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8540ce6299d8f7d1",
+      "status" : "skipped",
+      "statusDetails" : "This test was ignored",
+      "time" : {
+        "start" : 1637241938947,
+        "stop" : 1637241938980,
+        "duration" : 33
+      }
+    } ]
+  },
+  "db9d52d17be416717b85322d76afd118" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a0641a5ce7ad62ab",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637240887275,
+        "stop" : 1637240911312,
+        "duration" : 24037
+      }
+    } ]
+  },
+  "b915300c07144f753e7b6e1358553e7d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ac0648f0f76b9126",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637241217160,
+        "stop" : 1637241225585,
+        "duration" : 8425
+      }
+    } ]
+  },
+  "8001140adc12ca90e6a53fe3f1c2839d" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8364531ea6b7c3e6",
+      "status" : "failed",
+      "statusDetails" : "Failed: \n                \tTimed out after 5000ms, while waiting for:\n                \tbrowser.element(By(xpath, //*[@href='/bets/'])).click\n                Reason:\n                \tno such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@href='/bets/']\"}\n                  (Session info: chrome=96.0.4664.45)\n                  (Driver info: chromedriver=95.0.4638.69 (6a1600ed572fedecd573b6c2b90a22fe6392a410-refs/branch-heads/4638@{#984}),platform=Mac OS X 11.6.0 x86_64)",
+      "time" : {
+        "start" : 1637241556735,
+        "stop" : 1637241568018,
+        "duration" : 11283
+      }
+    } ]
+  },
+  "edfa817ca61c09f9a4f8d879776c28d2" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d0b023cbf6596b3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637241425786,
+        "stop" : 1637241451333,
+        "duration" : 25547
+      }
+    } ]
+  },
+  "76c2cdd8a466c122dd7f6740d56b1d91" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6e94a33768b306ff",
+      "status" : "failed",
+      "statusDetails" : "Failed: \n                \tTimed out after 5000ms, while waiting for:\n                \tbrowser.element(By(xpath, //*[@id='popup']/li[1])).click\n                Reason:\n                \tno such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@id='popup']/li[1]\"}\n                  (Session info: chrome=96.0.4664.45)\n                  (Driver info: chromedriver=95.0.4638.69 (6a1600ed572fedecd573b6c2b90a22fe6392a410-refs/branch-heads/4638@{#984}),platform=Mac OS X 11.6.0 x86_64)",
+      "time" : {
+        "start" : 1637241961474,
+        "stop" : 1637241972697,
+        "duration" : 11223
+      }
+    } ]
+  },
+  "7c2f0b2b2dd30133f38c0dcf920e8ae9" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "bef17a95d1f0f703",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637240485180,
+        "stop" : 1637240494628,
+        "duration" : 9448
+      }
+    } ]
+  },
+  "ba8ebdd09c520cf9300140aed0dbbc9d" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3e8327afa6f8a48f",
+      "status" : "failed",
+      "statusDetails" : "Failed: \n                \tTimed out after 5000ms, while waiting for:\n                \tbrowser.element(By(xpath, //*[@class='modal-window']//a[1])).click\n                Reason:\n                \tno such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@class='modal-window']//a[1]\"}\n                  (Session info: chrome=96.0.4664.45)\n                  (Driver info: chromedriver=95.0.4638.69 (6a1600ed572fedecd573b6c2b90a22fe6392a410-refs/branch-heads/4638@{#984}),platform=Mac OS X 11.6.0 x86_64)",
+      "time" : {
+        "start" : 1637240587857,
+        "stop" : 1637240602243,
+        "duration" : 14386
+      }
+    } ]
+  },
+  "4f5c425b1533f3212492249a63512916" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "edd2a094914b8b29",
+      "status" : "failed",
+      "statusDetails" : "Failed: \n                \tTimed out after 5000ms, while waiting for:\n                \tbrowser.element(By(xpath, //*[@id='popup']/li[1])).click\n                Reason:\n                \tno such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@id='popup']/li[1]\"}\n                  (Session info: chrome=96.0.4664.45)\n                  (Driver info: chromedriver=95.0.4638.69 (6a1600ed572fedecd573b6c2b90a22fe6392a410-refs/branch-heads/4638@{#984}),platform=Mac OS X 11.6.0 x86_64)",
+      "time" : {
+        "start" : 1637241713371,
+        "stop" : 1637241729275,
+        "duration" : 15904
+      }
+    } ]
+  },
+  "8f9240eb02ee14b3c7a8a74254413743" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "19fc2341e1b8b57f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637240457239,
+        "stop" : 1637240466672,
+        "duration" : 9433
+      }
+    } ]
+  },
+  "4295fb854889b2bf140ad60fb1726bbc" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5c0a7e6cecee6a4a",
+      "status" : "failed",
+      "statusDetails" : "Failed: \n                \tTimed out after 5000ms, while waiting for:\n                \tbrowser.element(By(xpath, //*[@class='header__login-head']/a[1])).click\n                Reason:\n                \tno such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@class='header__login-head']/a[1]\"}\n                  (Session info: chrome=96.0.4664.45)\n                  (Driver info: chromedriver=95.0.4638.69 (6a1600ed572fedecd573b6c2b90a22fe6392a410-refs/branch-heads/4638@{#984}),platform=Mac OS X 11.6.0 x86_64)",
+      "time" : {
+        "start" : 1637241096646,
+        "stop" : 1637241118282,
+        "duration" : 21636
+      }
+    } ]
+  },
+  "ffb3c140daf44ff7aa0b030104ef7fef" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f796f34602e3ca05",
+      "status" : "failed",
+      "statusDetails" : "Failed: \n                \tTimed out after 5000ms, while waiting for:\n                \tbrowser.element(By(xpath, //*[@class='header__login-head']/a[1])).click\n                Reason:\n                \tno such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@class='header__login-head']/a[1]\"}\n                  (Session info: chrome=96.0.4664.45)\n                  (Driver info: chromedriver=95.0.4638.69 (6a1600ed572fedecd573b6c2b90a22fe6392a410-refs/branch-heads/4638@{#984}),platform=Mac OS X 11.6.0 x86_64)",
+      "time" : {
+        "start" : 1637240975818,
+        "stop" : 1637241008194,
+        "duration" : 32376
+      }
+    } ]
+  },
+  "8518b6b14a122a7f72e551f9a40bf411" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "142c7abe9d37fa7d",
+      "status" : "failed",
+      "statusDetails" : "Failed: \n                \tTimed out after 5000ms, while waiting for:\n                \tbrowser.element(By(xpath, //div[contains(@class,'calculator__amount--')])).has text: 503\n                Reason:\n                \tactual text: 500\n                ₽\n                504\n                ₽",
+      "time" : {
+        "start" : 1637240711892,
+        "stop" : 1637240736905,
+        "duration" : 25013
+      }
+    } ]
+  },
+  "9c9e83dc16dba236278ccecb74b6bafd" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "928ca3f478f32275",
+      "status" : "failed",
+      "statusDetails" : "Failed: \n                \tTimed out after 5000ms, while waiting for:\n                \tbrowser.element(By(xpath, //*[@class='account-profile__block']//a)).click\n                Reason:\n                \tno such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@class='account-profile__block']//a\"}\n                  (Session info: chrome=96.0.4664.45)\n                  (Driver info: chromedriver=95.0.4638.69 (6a1600ed572fedecd573b6c2b90a22fe6392a410-refs/branch-heads/4638@{#984}),platform=Mac OS X 11.6.0 x86_64)",
+      "time" : {
+        "start" : 1637241801900,
+        "stop" : 1637241829107,
+        "duration" : 27207
+      }
+    } ]
+  },
+  "c7161a767f34555cdc3e554d851ff038" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2e7590fcd6a93f38",
+      "status" : "failed",
+      "statusDetails" : "Failed: \n                \tTimed out after 5000ms, while waiting for:\n                \tbrowser.element(By(xpath, //*[@id='popup']/li[1])).click\n                Reason:\n                \tno such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@id='popup']/li[1]\"}\n                  (Session info: chrome=96.0.4664.45)\n                  (Driver info: chromedriver=95.0.4638.69 (6a1600ed572fedecd573b6c2b90a22fe6392a410-refs/branch-heads/4638@{#984}),platform=Mac OS X 11.6.0 x86_64)",
+      "time" : {
+        "start" : 1637241972698,
+        "stop" : 1637241983738,
+        "duration" : 11040
+      }
+    } ]
+  },
+  "7de11ffb361811e700b7f89fb63268f3" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d5557d5c3cf891b5",
+      "status" : "failed",
+      "statusDetails" : "Failed: \n                \tTimed out after 5000ms, while waiting for:\n                \tbrowser.element(By(xpath, //*[@id='popup']/li[1])).click\n                Reason:\n                \tno such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@id='popup']/li[1]\"}\n                  (Session info: chrome=96.0.4664.45)\n                  (Driver info: chromedriver=95.0.4638.69 (6a1600ed572fedecd573b6c2b90a22fe6392a410-refs/branch-heads/4638@{#984}),platform=Mac OS X 11.6.0 x86_64)",
+      "time" : {
+        "start" : 1637241697965,
+        "stop" : 1637241713370,
+        "duration" : 15405
+      }
+    } ]
+  },
+  "998a3a62b99638afc6fe5c823f933f90" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "be9eb17b40991845",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637241551070,
+        "stop" : 1637241556735,
+        "duration" : 5665
+      }
+    } ]
+  },
+  "abaa5518e645d720a45ddf77dbe455f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4de49847d5019df0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637241451334,
+        "stop" : 1637241474879,
+        "duration" : 23545
+      }
+    } ]
+  },
+  "21d91646e1b2bc8a752f3d754ec531a6" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ad33c7789e4d3362",
+      "status" : "skipped",
+      "statusDetails" : "Temporarily disabled with xit",
+      "time" : {
+        "start" : 1637241163302,
+        "stop" : 1637241163315,
+        "duration" : 13
+      }
+    } ]
+  },
+  "2884b9d6b4baafc129b6d8979dfbd749" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "603abebe1ae63563",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637241908274,
+        "stop" : 1637241920348,
+        "duration" : 12074
+      }
+    } ]
+  },
+  "295971f2c475e39755210a0572959907" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "31721e80ba61d696",
+      "status" : "failed",
+      "statusDetails" : "Failed: \n                \tTimed out after 5000ms, while waiting for:\n                \tbrowser.element(By(xpath, //div[contains(@class,'stake-clear--')])).click\n                Reason:\n                \tno such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//div[contains(@class,'stake-clear--')]\"}\n                  (Session info: chrome=96.0.4664.45)\n                  (Driver info: chromedriver=95.0.4638.69 (6a1600ed572fedecd573b6c2b90a22fe6392a410-refs/branch-heads/4638@{#984}),platform=Mac OS X 11.6.0 x86_64)",
+      "time" : {
+        "start" : 1637240652860,
+        "stop" : 1637240673681,
+        "duration" : 20821
+      }
+    } ]
+  },
+  "e876bcf1ad17522eebf805fba6002074" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "52d2e6f0834ec393",
+      "status" : "failed",
+      "statusDetails" : "Failed: \n                \tTimed out after 5000ms, while waiting for:\n                \tbrowser.element(By(xpath, //*[@class='header__login-head']/a[1])).click\n                Reason:\n                \tno such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@class='header__login-head']/a[1]\"}\n                  (Session info: chrome=96.0.4664.45)\n                  (Driver info: chromedriver=95.0.4638.69 (6a1600ed572fedecd573b6c2b90a22fe6392a410-refs/branch-heads/4638@{#984}),platform=Mac OS X 11.6.0 x86_64)",
+      "time" : {
+        "start" : 1637241008194,
+        "stop" : 1637241029898,
+        "duration" : 21704
+      }
+    } ]
+  },
+  "c58bd2c9c853b8c5543a2b96c800f5f8" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6c6cb17f8074c77",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637241292937,
+        "stop" : 1637241307783,
+        "duration" : 14846
+      }
+    } ]
+  },
+  "27fe227dcf3152e88982d8f8368c99eb" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6749b2cf5b0fadde",
+      "status" : "failed",
+      "statusDetails" : "Failed: \n                \tTimed out after 5000ms, while waiting for:\n                \tbrowser.element(By(xpath, //*[@id='popup']/li[1])).click\n                Reason:\n                \tno such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@id='popup']/li[1]\"}\n                  (Session info: chrome=96.0.4664.45)\n                  (Driver info: chromedriver=95.0.4638.69 (6a1600ed572fedecd573b6c2b90a22fe6392a410-refs/branch-heads/4638@{#984}),platform=Mac OS X 11.6.0 x86_64)",
+      "time" : {
+        "start" : 1637241568033,
+        "stop" : 1637241589940,
+        "duration" : 21907
+      }
+    } ]
+  },
+  "62699becc1fdb99cbd0930e3a1f1db5b" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "da7251bf1d6b33a0",
+      "status" : "failed",
+      "statusDetails" : "Failed: \n                \tTimed out after 5000ms, while waiting for:\n                \tbrowser.element(By(xpath, //*[@id='popup']/li[1])).click\n                Reason:\n                \tno such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@id='popup']/li[1]\"}\n                  (Session info: chrome=96.0.4664.45)\n                  (Driver info: chromedriver=95.0.4638.69 (6a1600ed572fedecd573b6c2b90a22fe6392a410-refs/branch-heads/4638@{#984}),platform=Mac OS X 11.6.0 x86_64)",
+      "time" : {
+        "start" : 1637241829108,
+        "stop" : 1637241846106,
+        "duration" : 16998
+      }
+    } ]
+  },
+  "510f2d6dbb3d13360d05fbab6918507b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7dc6c899e84dc0ef",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637240761771,
+        "stop" : 1637240785906,
+        "duration" : 24135
+      }
+    } ]
+  },
+  "f8918c0d544a23d28d3939ffa3fdec1" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3386fb242921535f",
+      "status" : "failed",
+      "statusDetails" : "Failed: \n                \tTimed out after 5000ms, while waiting for:\n                \tbrowser.element(By(xpath, //*[@id='popup']/li[1])).click\n                Reason:\n                \tno such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@id='popup']/li[1]\"}\n                  (Session info: chrome=96.0.4664.45)\n                  (Driver info: chromedriver=95.0.4638.69 (6a1600ed572fedecd573b6c2b90a22fe6392a410-refs/branch-heads/4638@{#984}),platform=Mac OS X 11.6.0 x86_64)",
+      "time" : {
+        "start" : 1637241760339,
+        "stop" : 1637241779123,
+        "duration" : 18784
+      }
+    } ]
+  },
+  "d0aace0381907a7419644e74fe6f6820" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3db1138f6b9ef8d5",
+      "status" : "failed",
+      "statusDetails" : "Failed: \n                \tTimed out after 5000ms, while waiting for:\n                \tbrowser.element(By(xpath, //*[@id='popup']/li[1])).click\n                Reason:\n                \tno such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@id='popup']/li[1]\"}\n                  (Session info: chrome=96.0.4664.45)\n                  (Driver info: chromedriver=95.0.4638.69 (6a1600ed572fedecd573b6c2b90a22fe6392a410-refs/branch-heads/4638@{#984}),platform=Mac OS X 11.6.0 x86_64)",
+      "time" : {
+        "start" : 1637241729276,
+        "stop" : 1637241744892,
+        "duration" : 15616
+      }
+    } ]
+  },
+  "55021518d9f03bdad4af8ce28d8bf124" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7670f235c7f21c50",
+      "status" : "skipped",
+      "statusDetails" : "Temporarily disabled with xit",
+      "time" : {
+        "start" : 1637241163290,
+        "stop" : 1637241163302,
+        "duration" : 12
+      }
+    } ]
+  },
+  "8326a575dd34e7f665f0e27f5e458995" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "76c7f3f4aa9a885",
+      "status" : "failed",
+      "statusDetails" : "Failed: \n                \tTimed out after 5000ms, while waiting for:\n                \tbrowser.element(By(xpath, //*[@class='header__login-head']/a[1])).click\n                Reason:\n                \tno such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@class='header__login-head']/a[1]\"}\n                  (Session info: chrome=96.0.4664.45)\n                  (Driver info: chromedriver=95.0.4638.69 (6a1600ed572fedecd573b6c2b90a22fe6392a410-refs/branch-heads/4638@{#984}),platform=Mac OS X 11.6.0 x86_64)",
+      "time" : {
+        "start" : 1637241118282,
+        "stop" : 1637241141227,
+        "duration" : 22945
+      }
+    } ]
+  },
+  "889454e61cec05e9b94ef175be54599f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f12d9bbbc4136821",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637240628031,
+        "stop" : 1637240636265,
+        "duration" : 8234
+      }
+    } ]
+  },
+  "33c06eaf48b677d3d3ef6fb627ee72d0" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f471b779cdc675ec",
+      "status" : "failed",
+      "statusDetails" : "Failed: \n                \tTimed out after 5000ms, while waiting for:\n                \tbrowser.element(By(xpath, //*[@class='settings__section'][2]/div[3]//input)).click\n                Reason:\n                \tno such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@class='settings__section'][2]/div[3]//input\"}\n                  (Session info: chrome=96.0.4664.45)\n                  (Driver info: chromedriver=95.0.4638.69 (6a1600ed572fedecd573b6c2b90a22fe6392a410-refs/branch-heads/4638@{#984}),platform=Mac OS X 11.6.0 x86_64)",
+      "time" : {
+        "start" : 1637242087419,
+        "stop" : 1637242099364,
+        "duration" : 11945
+      }
+    } ]
+  },
+  "61a8f78ca48ec92d3e7819d9d2b95798" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ef425203336d74f4",
+      "status" : "failed",
+      "statusDetails" : "Failed: \n                \tTimed out after 5000ms, while waiting for:\n                \tbrowser.element(By(xpath, //*[@class='settings__section'][4]/div[2]//input)).click\n                Reason:\n                \tno such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@class='settings__section'][4]/div[2]//input\"}\n                  (Session info: chrome=96.0.4664.45)\n                  (Driver info: chromedriver=95.0.4638.69 (6a1600ed572fedecd573b6c2b90a22fe6392a410-refs/branch-heads/4638@{#984}),platform=Mac OS X 11.6.0 x86_64)",
+      "time" : {
+        "start" : 1637242099366,
+        "stop" : 1637242111852,
+        "duration" : 12486
+      }
+    } ]
+  },
+  "391837c947d2f9108566a8b229def6b0" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e6105cebcedc82e5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637241324966,
+        "stop" : 1637241354034,
+        "duration" : 29068
+      }
+    } ]
+  },
+  "d106758f15e0519c902d85106e5d0c2d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b825adcd7a3632b6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637240842581,
+        "stop" : 1637240867742,
+        "duration" : 25161
+      }
+    } ]
+  },
+  "2f53094945f6e430bdd77ca4785908d3" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f9fd2d88f42b6bfc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637240517871,
+        "stop" : 1637240526334,
+        "duration" : 8463
+      }
+    } ]
+  },
+  "1379fcd905e015abbdbd9d525507afc4" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f94bfcf2b821b67d",
+      "status" : "skipped",
+      "statusDetails" : "Temporarily disabled with xit",
+      "time" : {
+        "start" : 1637241887673,
+        "stop" : 1637241887700,
+        "duration" : 27
+      }
+    } ]
+  },
+  "2a886fedb4fd4763401e54bdac173e6" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6cd5f48ee0829971",
+      "status" : "failed",
+      "statusDetails" : "Failed: \n                \tTimed out after 5000ms, while waiting for:\n                \tbrowser.element(By(xpath, //*[@id='popup']/li[1])).click\n                Reason:\n                \tno such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@id='popup']/li[1]\"}\n                  (Session info: chrome=96.0.4664.45)\n                  (Driver info: chromedriver=95.0.4638.69 (6a1600ed572fedecd573b6c2b90a22fe6392a410-refs/branch-heads/4638@{#984}),platform=Mac OS X 11.6.0 x86_64)",
+      "time" : {
+        "start" : 1637241638782,
+        "stop" : 1637241660123,
+        "duration" : 21341
+      }
+    } ]
+  },
+  "632b079e12e29ae48ad93b8fb76d1435" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8d73afb25ba3d2ac",
+      "status" : "failed",
+      "statusDetails" : "Failed: \n                \tTimed out after 5000ms, while waiting for:\n                \tbrowser.element(By(xpath, //*[@id='popup']/li[1])).click\n                Reason:\n                \tno such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@id='popup']/li[1]\"}\n                  (Session info: chrome=96.0.4664.45)\n                  (Driver info: chromedriver=95.0.4638.69 (6a1600ed572fedecd573b6c2b90a22fe6392a410-refs/branch-heads/4638@{#984}),platform=Mac OS X 11.6.0 x86_64)",
+      "time" : {
+        "start" : 1637241846107,
+        "stop" : 1637241868861,
+        "duration" : 22754
+      }
+    } ]
+  },
+  "c73a4e3d63b7f704e33d4124368263f1" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "632164f37059bcd1",
+      "status" : "failed",
+      "statusDetails" : "Failed: \n                \tTimed out after 5000ms, while waiting for:\n                \tbrowser.element(By(xpath, //*[@id='popup']/li[1])).click\n                Reason:\n                \tno such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@id='popup']/li[1]\"}\n                  (Session info: chrome=96.0.4664.45)\n                  (Driver info: chromedriver=95.0.4638.69 (6a1600ed572fedecd573b6c2b90a22fe6392a410-refs/branch-heads/4638@{#984}),platform=Mac OS X 11.6.0 x86_64)",
+      "time" : {
+        "start" : 1637242006007,
+        "stop" : 1637242017220,
+        "duration" : 11213
+      }
+    } ]
+  },
+  "96a8741eb148cb75985252a20cb42ef6" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6f91d7dc4c7e6af7",
+      "status" : "failed",
+      "statusDetails" : "Failed: \n                \tTimed out after 5000ms, while waiting for:\n                \tbrowser.element(By(xpath, //*[@class='request-details__type'])).has text: Выигрыш\n                Reason:\n                \tactual text: Winnings",
+      "time" : {
+        "start" : 1637241187813,
+        "stop" : 1637241206469,
+        "duration" : 18656
+      }
+    } ]
+  },
+  "ef26ea67211499bb105e8e3ab4af5574" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "78cd7a4d1adbc479",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637241279800,
+        "stop" : 1637241292936,
+        "duration" : 13136
+      }
+    } ]
+  }
+}

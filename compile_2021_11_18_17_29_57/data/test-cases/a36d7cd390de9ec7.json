@@ -1,0 +1,86 @@
+{
+  "uid" : "a36d7cd390de9ec7",
+  "name" : "Проверка сохранения купона, набранного до авторизации",
+  "fullName" : "Проверка ленты без авторизации.Проверка сохранения купона, набранного до авторизации",
+  "historyId" : "b50e86d0466f1261b6b5f0ee07e0d9b0",
+  "time" : {
+    "start" : 1637240534855,
+    "stop" : 1637240566920,
+    "duration" : 32065
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Переход в Спорт",
+      "time" : {
+        "start" : 1637240540438,
+        "stop" : 1637240540438,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Ставлю купон и логирую ошибку, если есть",
+      "time" : {
+        "start" : 1637240558608,
+        "stop" : 1637240558608,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 2,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Проверка ленты без авторизации"
+  }, {
+    "name" : "testClass",
+    "value" : "Проверка ленты без авторизации"
+  }, {
+    "name" : "testMethod",
+    "value" : "Проверка сохранения купона, набранного до авторизации"
+  }, {
+    "name" : "package",
+    "value" : "Проверка ленты без авторизации"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a36d7cd390de9ec7.json",
+  "parameterValues" : [ ]
+}

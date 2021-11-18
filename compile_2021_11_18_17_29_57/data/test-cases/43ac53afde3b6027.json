@@ -1,0 +1,46 @@
+{
+  "uid" : "43ac53afde3b6027",
+  "name" : "Проверка истории ставок у нового пользователя",
+  "fullName" : "Проверка ленты без авторизации.Проверка истории ставок у нового пользователя",
+  "historyId" : "eaf3a4382edd28bb443c683a9e92912b",
+  "time" : {
+    "start" : 1637240575843,
+    "stop" : 1637240587856,
+    "duration" : 12013
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Проверка ленты без авторизации"
+  }, {
+    "name" : "testClass",
+    "value" : "Проверка ленты без авторизации"
+  }, {
+    "name" : "testMethod",
+    "value" : "Проверка истории ставок у нового пользователя"
+  }, {
+    "name" : "package",
+    "value" : "Проверка ленты без авторизации"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "43ac53afde3b6027.json",
+  "parameterValues" : [ ]
+}

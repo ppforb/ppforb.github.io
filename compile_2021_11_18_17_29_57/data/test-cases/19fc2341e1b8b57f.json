@@ -1,0 +1,46 @@
+{
+  "uid" : "19fc2341e1b8b57f",
+  "name" : "Авторизация клиента по phoneNumber",
+  "fullName" : "Проверка авторизации.Авторизация клиента по phoneNumber",
+  "historyId" : "8f9240eb02ee14b3c7a8a74254413743",
+  "time" : {
+    "start" : 1637240457239,
+    "stop" : 1637240466672,
+    "duration" : 9433
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Проверка авторизации"
+  }, {
+    "name" : "testClass",
+    "value" : "Проверка авторизации"
+  }, {
+    "name" : "testMethod",
+    "value" : "Авторизация клиента по phoneNumber"
+  }, {
+    "name" : "package",
+    "value" : "Проверка авторизации"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "19fc2341e1b8b57f.json",
+  "parameterValues" : [ ]
+}
