@@ -1,0 +1,48 @@
+{
+  "uid" : "fd7ffd3db768ae2b",
+  "name" : "Проверка приема без подтверждения",
+  "fullName" : "Проверка настроек сайта.Проверка приема без подтверждения",
+  "historyId" : "49a3bb3f4f82b38274823371a76ae211",
+  "time" : {
+    "start" : 1637247696406,
+    "stop" : 1637247696429,
+    "duration" : 23
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "This test was ignored",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Проверка настроек сайта"
+  }, {
+    "name" : "testClass",
+    "value" : "Проверка настроек сайта"
+  }, {
+    "name" : "testMethod",
+    "value" : "Проверка приема без подтверждения"
+  }, {
+    "name" : "package",
+    "value" : "Проверка настроек сайта"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fd7ffd3db768ae2b.json",
+  "parameterValues" : [ ]
+}

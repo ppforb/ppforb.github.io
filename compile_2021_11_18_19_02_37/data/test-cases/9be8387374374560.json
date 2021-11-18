@@ -1,0 +1,46 @@
+{
+  "uid" : "9be8387374374560",
+  "name" : "Проверка приветственного слайдера",
+  "fullName" : "Тесты на главной странице.Проверка приветственного слайдера",
+  "historyId" : "ab3fac752ed9e20279545db4036dbad9",
+  "time" : {
+    "start" : 1637247433043,
+    "stop" : 1637247446124,
+    "duration" : 13081
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Тесты на главной странице"
+  }, {
+    "name" : "testClass",
+    "value" : "Тесты на главной странице"
+  }, {
+    "name" : "testMethod",
+    "value" : "Проверка приветственного слайдера"
+  }, {
+    "name" : "package",
+    "value" : "Тесты на главной странице"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9be8387374374560.json",
+  "parameterValues" : [ ]
+}

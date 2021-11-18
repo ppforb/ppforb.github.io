@@ -1,0 +1,48 @@
+{
+  "uid" : "6af9a921bac6b665",
+  "name" : "Нагрузка процессора 3",
+  "fullName" : "Тесты на производительность.Нагрузка процессора 3",
+  "historyId" : "998a3a62b99638afc6fe5c823f933f90",
+  "time" : {
+    "start" : 1637247526270,
+    "stop" : 1637247526297,
+    "duration" : 27
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "Temporarily disabled with xit",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Тесты на производительность"
+  }, {
+    "name" : "testClass",
+    "value" : "Тесты на производительность"
+  }, {
+    "name" : "testMethod",
+    "value" : "Нагрузка процессора 3"
+  }, {
+    "name" : "package",
+    "value" : "Тесты на производительность"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6af9a921bac6b665.json",
+  "parameterValues" : [ ]
+}

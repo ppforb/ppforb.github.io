@@ -1,0 +1,2149 @@
+{
+  "99dcca8625b7ef46290c70cb1968e0d3" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8e5a8f3f570b028c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637247157925,
+        "stop" : 1637247171397,
+        "duration" : 13472
+      }
+    } ]
+  },
+  "32c87af114ce3895459feadb18e183ec" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "99b3f4e5d55f4cbc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637246538635,
+        "stop" : 1637246548020,
+        "duration" : 9385
+      }
+    } ]
+  },
+  "38ca26c18aaf437a790239f6d2360852" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c0e775a9f8a8b6ca",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637246662094,
+        "stop" : 1637246669692,
+        "duration" : 7598
+      }
+    } ]
+  },
+  "ba3bb0afb8a691ed98d61a2a7c3df574" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "21c98f3bc2ebe93b",
+      "status" : "skipped",
+      "statusDetails" : "This test was ignored",
+      "time" : {
+        "start" : 1637247644205,
+        "stop" : 1637247644244,
+        "duration" : 39
+      }
+    } ]
+  },
+  "eaf3a4382edd28bb443c683a9e92912b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "97ea8e357ec7157d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637246640762,
+        "stop" : 1637246652426,
+        "duration" : 11664
+      }
+    } ]
+  },
+  "fe49efa8899a513685c4ceae5ba92296" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3fe244c4ce65e177",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637246774926,
+        "stop" : 1637246784249,
+        "duration" : 9323
+      }
+    } ]
+  },
+  "b4673ec574940356593d6e42d98f2ce3" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b2b28d8b85d68c9f",
+      "status" : "skipped",
+      "statusDetails" : "Temporarily disabled with xit",
+      "time" : {
+        "start" : 1637247171449,
+        "stop" : 1637247171504,
+        "duration" : 55
+      }
+    } ]
+  },
+  "49a3bb3f4f82b38274823371a76ae211" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fd7ffd3db768ae2b",
+      "status" : "skipped",
+      "statusDetails" : "This test was ignored",
+      "time" : {
+        "start" : 1637247696406,
+        "stop" : 1637247696429,
+        "duration" : 23
+      }
+    } ]
+  },
+  "f5068a8741726eebf6b0dfd842c7f4a9" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e74b0b95d8ab6dca",
+      "status" : "skipped",
+      "statusDetails" : "This test was ignored",
+      "time" : {
+        "start" : 1637247526201,
+        "stop" : 1637247526219,
+        "duration" : 18
+      }
+    } ]
+  },
+  "6339e046a4155dba205d1c3eeba70eca" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a1e9d528a31c9b1f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637246679500,
+        "stop" : 1637246687138,
+        "duration" : 7638
+      }
+    } ]
+  },
+  "81faaf19c272b95f5db8d2dfaead4142" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a7a47facb3957928",
+      "status" : "failed",
+      "statusDetails" : "Failed: \n                \tTimed out after 5000ms, while waiting for:\n                \tbrowser.element(By(xpath, //*[@href='/results/'])).click\n                Reason:\n                \tno such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@href='/results/']\"}\n                  (Session info: chrome=96.0.4664.45)\n                  (Driver info: chromedriver=95.0.4638.69 (6a1600ed572fedecd573b6c2b90a22fe6392a410-refs/branch-heads/4638@{#984}),platform=Mac OS X 11.6.0 x86_64)",
+      "time" : {
+        "start" : 1637247668228,
+        "stop" : 1637247684173,
+        "duration" : 15945
+      }
+    } ]
+  },
+  "6b0b4a64e36c83c1a3244af80f612283" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c3f76f67552e85f3",
+      "status" : "skipped",
+      "statusDetails" : "This test was ignored",
+      "time" : {
+        "start" : 1637247643770,
+        "stop" : 1637247643798,
+        "duration" : 28
+      }
+    } ]
+  },
+  "fc005e3104110cf68a20c2553d7aab6d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "351819256855ed71",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637246569048,
+        "stop" : 1637246578914,
+        "duration" : 9866
+      }
+    } ]
+  },
+  "eb05415eae1e09f7fab5da5cefc4b387" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3447deeb78d4747b",
+      "status" : "skipped",
+      "statusDetails" : "This test was ignored",
+      "time" : {
+        "start" : 1637247696359,
+        "stop" : 1637247696375,
+        "duration" : 16
+      }
+    } ]
+  },
+  "c1d2294707a6bd96afa434b66440eca0" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "99392a60faa9fb5d",
+      "status" : "skipped",
+      "statusDetails" : "This test was ignored",
+      "time" : {
+        "start" : 1637247696223,
+        "stop" : 1637247696256,
+        "duration" : 33
+      }
+    } ]
+  },
+  "82bc083fb471c5e3f4b3638437661585" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5554517d068217ea",
+      "status" : "skipped",
+      "statusDetails" : "This test was ignored",
+      "time" : {
+        "start" : 1637247696335,
+        "stop" : 1637247696354,
+        "duration" : 19
+      }
+    } ]
+  },
+  "77db40941bfd4e9eba775cd3aa3c3b68" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a698e6cec83343bc",
+      "status" : "skipped",
+      "statusDetails" : "This test was ignored",
+      "time" : {
+        "start" : 1637247696522,
+        "stop" : 1637247696541,
+        "duration" : 19
+      }
+    } ]
+  },
+  "1860835e796e9ff2bf9a898a86c445d5" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "bc94e3d1b7a28e08",
+      "status" : "skipped",
+      "statusDetails" : "This test was ignored",
+      "time" : {
+        "start" : 1637247644013,
+        "stop" : 1637247644097,
+        "duration" : 84
+      }
+    } ]
+  },
+  "4190c63db598588924ae4118104fd486" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "61860fa67480a6d3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637246529292,
+        "stop" : 1637246538635,
+        "duration" : 9343
+      }
+    } ]
+  },
+  "89398dca497cc127a1b673c15e0802b4" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "44569e75663362cc",
+      "status" : "skipped",
+      "statusDetails" : "Temporarily disabled with xit",
+      "time" : {
+        "start" : 1637247526224,
+        "stop" : 1637247526241,
+        "duration" : 17
+      }
+    } ]
+  },
+  "ab3fac752ed9e20279545db4036dbad9" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9be8387374374560",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637247433043,
+        "stop" : 1637247446124,
+        "duration" : 13081
+      }
+    } ]
+  },
+  "436d4cb4ed30800f335ac2090100ec3d" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5b2e63e21724f5cc",
+      "status" : "failed",
+      "statusDetails" : "Failed: \n                \tTimed out after 5000ms, while waiting for:\n                \tbrowser.element(By(xpath, //*[@class='login-form _new_design']//form/div[1]//input)).set value: 3774095\n                Reason:\n                \tno such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@class='login-form _new_design']//form/div[1]//input\"}\n                  (Session info: chrome=96.0.4664.45)\n                  (Driver info: chromedriver=95.0.4638.69 (6a1600ed572fedecd573b6c2b90a22fe6392a410-refs/branch-heads/4638@{#984}),platform=Mac OS X 11.6.0 x86_64)",
+      "time" : {
+        "start" : 1637247171532,
+        "stop" : 1637247188127,
+        "duration" : 16595
+      }
+    } ]
+  },
+  "2c32a6bec25b6cbfd81d81c8763c06f9" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a9732d7fd4a4c5cd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637247381296,
+        "stop" : 1637247433043,
+        "duration" : 51747
+      }
+    } ]
+  },
+  "9d7968cf324e00f178fd09f1045f9546" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "15cc74aca31fd94e",
+      "status" : "failed",
+      "statusDetails" : "Failed: \n                \tTimed out after 5000ms, while waiting for:\n                \tbrowser.element(By(xpath, //*[@id='popup']/li[1])).click\n                Reason:\n                \tno such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@id='popup']/li[1]\"}\n                  (Session info: chrome=96.0.4664.45)\n                  (Driver info: chromedriver=95.0.4638.69 (6a1600ed572fedecd573b6c2b90a22fe6392a410-refs/branch-heads/4638@{#984}),platform=Mac OS X 11.6.0 x86_64)",
+      "time" : {
+        "start" : 1637247620996,
+        "stop" : 1637247643740,
+        "duration" : 22744
+      }
+    } ]
+  },
+  "1ef30270d9627e852c9363a59355c10a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e802b4d074a9e7fd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637246627308,
+        "stop" : 1637246640762,
+        "duration" : 13454
+      }
+    } ]
+  },
+  "1a241355fcea93f80240db41d5242b78" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b5d2a39ed32de2f",
+      "status" : "skipped",
+      "statusDetails" : "This test was ignored",
+      "time" : {
+        "start" : 1637247526189,
+        "stop" : 1637247526201,
+        "duration" : 12
+      }
+    } ]
+  },
+  "d746a0fc0c636411b577da4d5973590e" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "cfd9c4b602565c47",
+      "status" : "failed",
+      "statusDetails" : "Failed: \n                \tTimed out after 5000ms, while waiting for:\n                \tbrowser.element(By(xpath, //*[@class='login-form _new_design']//form/div[1]//input)).set value: 3774095\n                Reason:\n                \tno such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@class='login-form _new_design']//form/div[1]//input\"}\n                  (Session info: chrome=96.0.4664.45)\n                  (Driver info: chromedriver=95.0.4638.69 (6a1600ed572fedecd573b6c2b90a22fe6392a410-refs/branch-heads/4638@{#984}),platform=Mac OS X 11.6.0 x86_64)",
+      "time" : {
+        "start" : 1637247012856,
+        "stop" : 1637247030714,
+        "duration" : 17858
+      }
+    } ]
+  },
+  "8e430621992b10854e5d98cee1b213d5" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6273bf577147287a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637246721630,
+        "stop" : 1637246751845,
+        "duration" : 30215
+      }
+    } ]
+  },
+  "ea374c5900dfcbca4f45bf8754107b06" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6da5467ff24cd5f9",
+      "status" : "skipped",
+      "statusDetails" : "Temporarily disabled with xit",
+      "time" : {
+        "start" : 1637247526241,
+        "stop" : 1637247526270,
+        "duration" : 29
+      }
+    } ]
+  },
+  "f4448429202fa77e5834625aae89b04c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1045252f9368b61c",
+      "status" : "skipped",
+      "statusDetails" : "This test was ignored",
+      "time" : {
+        "start" : 1637247696429,
+        "stop" : 1637247696448,
+        "duration" : 19
+      }
+    } ]
+  },
+  "e5468a844c65320741c7e885f43aaff2" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "bdea9329f33def0e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637246971352,
+        "stop" : 1637246992429,
+        "duration" : 21077
+      }
+    } ]
+  },
+  "246e9cea4d241305d0b21b2686afc349" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3308caf19ba4808a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637247328908,
+        "stop" : 1637247349613,
+        "duration" : 20705
+      }
+    } ]
+  },
+  "d50288f11b79182bf5c76f9cff9defaf" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4ef545807a189f80",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637246669692,
+        "stop" : 1637246679500,
+        "duration" : 9808
+      }
+    } ]
+  },
+  "6b8225662e12aeb6db3f5d52067439b2" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "39ce52144740f760",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637246557327,
+        "stop" : 1637246569048,
+        "duration" : 11721
+      }
+    } ]
+  },
+  "1e82e31324df5e9f800be71747743a96" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "707c08f6727a695c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637246928546,
+        "stop" : 1637246949431,
+        "duration" : 20885
+      }
+    } ]
+  },
+  "2251ac52869eed9fa2b7c231c2679499" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "130d0b9a956d8bea",
+      "status" : "failed",
+      "statusDetails" : "Failed: \n                \tTimed out after 5000ms, while waiting for:\n                \tbrowser.element(By(xpath, //*[@id='popup']/li[1])).click\n                Reason:\n                \tno such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@id='popup']/li[1]\"}\n                  (Session info: chrome=96.0.4664.45)\n                  (Driver info: chromedriver=95.0.4638.69 (6a1600ed572fedecd573b6c2b90a22fe6392a410-refs/branch-heads/4638@{#984}),platform=Mac OS X 11.6.0 x86_64)",
+      "time" : {
+        "start" : 1637247550636,
+        "stop" : 1637247577633,
+        "duration" : 26997
+      }
+    } ]
+  },
+  "f25ffae9fa08432489c56d12ec237f5e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2e0071b099c8c20e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637247254871,
+        "stop" : 1637247262686,
+        "duration" : 7815
+      }
+    } ]
+  },
+  "59d811189574146ba2fee21f46eaa5e6" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8603442be378229f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637247262686,
+        "stop" : 1637247271546,
+        "duration" : 8860
+      }
+    } ]
+  },
+  "8cb1c6cb0748406071ad52dd04034948" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "cf970508baa20156",
+      "status" : "failed",
+      "statusDetails" : "Failed: \n                \tTimed out after 5000ms, while waiting for:\n                \tbrowser.element(By(xpath, //*[@class='header__login-head']/a[1])).click\n                Reason:\n                \tno such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@class='header__login-head']/a[1]\"}\n                  (Session info: chrome=96.0.4664.45)\n                  (Driver info: chromedriver=95.0.4638.69 (6a1600ed572fedecd573b6c2b90a22fe6392a410-refs/branch-heads/4638@{#984}),platform=Mac OS X 11.6.0 x86_64)",
+      "time" : {
+        "start" : 1637246992429,
+        "stop" : 1637247012856,
+        "duration" : 20427
+      }
+    } ]
+  },
+  "4a52d67b395462185835f6d31c1b568b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "14c668d8fd5da9b2",
+      "status" : "skipped",
+      "statusDetails" : "This test was ignored",
+      "time" : {
+        "start" : 1637247696157,
+        "stop" : 1637247696182,
+        "duration" : 25
+      }
+    } ]
+  },
+  "b7b9e95211f9f59ad0cea8c7eeb7125d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "195ed5b7e0096cf2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637247104169,
+        "stop" : 1637247118160,
+        "duration" : 13991
+      }
+    } ]
+  },
+  "300a52097a2959db31c9378e578a7e5" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "28eb9d30b0759788",
+      "status" : "failed",
+      "statusDetails" : "Failed: \n                \tTimed out after 5000ms, while waiting for:\n                \tbrowser.element(By(xpath, //*[@class='header__login-head']/a[1])).click\n                Reason:\n                \telement click intercepted: Element <a class=\"header-btn _login-btn\" tabindex=\"0\" style=\"min-width: 70px;\">...</a> is not clickable at point (2051, 17). Other element would receive the click: <i class=\"authorization__overlay\"></i>\n                  (Session info: chrome=96.0.4664.45)\n                  (Driver info: chromedriver=95.0.4638.69 (6a1600ed572fedecd573b6c2b90a22fe6392a410-refs/branch-heads/4638@{#984}),platform=Mac OS X 11.6.0 x86_64)",
+      "time" : {
+        "start" : 1637246852780,
+        "stop" : 1637246873273,
+        "duration" : 20493
+      }
+    } ]
+  },
+  "ca08ed4e5aae07a67c89651cdfe773a1" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d58c86640eca3990",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637247286190,
+        "stop" : 1637247301270,
+        "duration" : 15080
+      }
+    } ]
+  },
+  "fa0745f6f516db4133e6b5a25f469909" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "64591c3b55365675",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637247223118,
+        "stop" : 1637247237189,
+        "duration" : 14071
+      }
+    } ]
+  },
+  "247d618b9ee268bbb1a9e6c4a73fcb12" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "59f9f543bdab2854",
+      "status" : "skipped",
+      "statusDetails" : "This test was ignored",
+      "time" : {
+        "start" : 1637247696256,
+        "stop" : 1637247696279,
+        "duration" : 23
+      }
+    } ]
+  },
+  "cb3b72a8a12624d9680f9f092a4759cd" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9aeb055904496c1e",
+      "status" : "failed",
+      "statusDetails" : "Failed: \n                \tTimed out after 5000ms, while waiting for:\n                \tbrowser.element(By(xpath, //*[@href='/results/'])).click\n                Reason:\n                \telement click intercepted: Element <a href=\"/results/\" class=\"menu__link\">...</a> is not clickable at point (979, 17). Other element would receive the click: <i class=\"authorization__overlay\"></i>\n                  (Session info: chrome=96.0.4664.45)\n                  (Driver info: chromedriver=95.0.4638.69 (6a1600ed572fedecd573b6c2b90a22fe6392a410-refs/branch-heads/4638@{#984}),platform=Mac OS X 11.6.0 x86_64)",
+      "time" : {
+        "start" : 1637247644287,
+        "stop" : 1637247656511,
+        "duration" : 12224
+      }
+    } ]
+  },
+  "7d53c8983b34e928a6b8c434bf5d0d3a" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "63cee00e6f9fafa0",
+      "status" : "failed",
+      "statusDetails" : "Failed: \n                \tTimed out after 5000ms, while waiting for:\n                \tbrowser.all(By(xpath, //div[contains(@class,'sport-base-event-')])).has size 2\n                Reason:\n                \tactual size: 4",
+      "time" : {
+        "start" : 1637247271546,
+        "stop" : 1637247286180,
+        "duration" : 14634
+      }
+    } ]
+  },
+  "a4b837391d24f2e6028bb068d03ea8b9" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6162838ddd611770",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637246806791,
+        "stop" : 1637246831242,
+        "duration" : 24451
+      }
+    } ]
+  },
+  "c343994a67c7c524dbda66d7270fa42e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "469cf39a80afe216",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637247118160,
+        "stop" : 1637247131440,
+        "duration" : 13280
+      }
+    } ]
+  },
+  "147a16525ae0755e77b9b04727bacd4c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "56e87d496a4aa418",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637246504481,
+        "stop" : 1637246519709,
+        "duration" : 15228
+      }
+    } ]
+  },
+  "4f9739ce462148a58e4ad1edd5153207" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c35d579427571be5",
+      "status" : "failed",
+      "statusDetails" : "Failed: \n                \tTimed out after 5000ms, while waiting for:\n                \tbrowser.element(By(xpath, //*[@href='/results/'])).click\n                Reason:\n                \telement click intercepted: Element <a href=\"/results/\" class=\"menu__link\">...</a> is not clickable at point (979, 17). Other element would receive the click: <i class=\"authorization__overlay\"></i>\n                  (Session info: chrome=96.0.4664.45)\n                  (Driver info: chromedriver=95.0.4638.69 (6a1600ed572fedecd573b6c2b90a22fe6392a410-refs/branch-heads/4638@{#984}),platform=Mac OS X 11.6.0 x86_64)",
+      "time" : {
+        "start" : 1637247684173,
+        "stop" : 1637247696128,
+        "duration" : 11955
+      }
+    } ]
+  },
+  "28c17179b37451fe5a27371243785c05" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2004b74ad5fecbe5",
+      "status" : "failed",
+      "statusDetails" : "Failed: \n                \tTimed out after 5000ms, while waiting for:\n                \tbrowser.element(By(xpath, //*[@id='popup']/li[1])).click\n                Reason:\n                \tno such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@id='popup']/li[1]\"}\n                  (Session info: chrome=96.0.4664.45)\n                  (Driver info: chromedriver=95.0.4638.69 (6a1600ed572fedecd573b6c2b90a22fe6392a410-refs/branch-heads/4638@{#984}),platform=Mac OS X 11.6.0 x86_64)",
+      "time" : {
+        "start" : 1637247577634,
+        "stop" : 1637247599707,
+        "duration" : 22073
+      }
+    } ]
+  },
+  "6cd95be3a3f18ea896745615bf39dbe" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "284a240bf58af43c",
+      "status" : "skipped",
+      "statusDetails" : "This test was ignored",
+      "time" : {
+        "start" : 1637247643897,
+        "stop" : 1637247643971,
+        "duration" : 74
+      }
+    } ]
+  },
+  "b50e86d0466f1261b6b5f0ee07e0d9b0" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "461eff47e029a839",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637246595578,
+        "stop" : 1637246627308,
+        "duration" : 31730
+      }
+    } ]
+  },
+  "769cf605be95e16b5f079182bbb53313" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4cdbce392adda8be",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637247503758,
+        "stop" : 1637247526180,
+        "duration" : 22422
+      }
+    } ]
+  },
+  "9ea742bf420ca51547e744ad10c4e089" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "676d20079915ecb9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637246751845,
+        "stop" : 1637246774926,
+        "duration" : 23081
+      }
+    } ]
+  },
+  "204c36786e0fdbe6fbac95f3db5ecc33" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a69105f9b60451cf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637247244963,
+        "stop" : 1637247254871,
+        "duration" : 9908
+      }
+    } ]
+  },
+  "f966302aee5cedd1dd9f88dafb6c3647" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9d8c46b0e7bb832b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637247030714,
+        "stop" : 1637247045425,
+        "duration" : 14711
+      }
+    } ]
+  },
+  "1712624880d259b6a4d90a18c44b7202" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b89fbedccef06c47",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637246487041,
+        "stop" : 1637246495206,
+        "duration" : 8165
+      }
+    } ]
+  },
+  "7fd1caa1823c79584ea48f8f1cfd6138" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c0bc9fac9e8bb305",
+      "status" : "skipped",
+      "statusDetails" : "This test was ignored",
+      "time" : {
+        "start" : 1637247696500,
+        "stop" : 1637247696522,
+        "duration" : 22
+      }
+    } ]
+  },
+  "c65fac2048c77592701bbd92214b40de" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5d000bc79b1b0803",
+      "status" : "skipped",
+      "statusDetails" : "This test was ignored",
+      "time" : {
+        "start" : 1637247696375,
+        "stop" : 1637247696405,
+        "duration" : 30
+      }
+    } ]
+  },
+  "5a41c3167c3d2b200720fd84a9f03e84" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4df87f010050ab7b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637246587255,
+        "stop" : 1637246595567,
+        "duration" : 8312
+      }
+    } ]
+  },
+  "8473ab17b0150f49154a1986b3392c7a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5f5e6cc8901ff8c7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637247090333,
+        "stop" : 1637247104168,
+        "duration" : 13835
+      }
+    } ]
+  },
+  "98bcc32d95821facd0fec32c9891ae7d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ffab8fb837be00b7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637246495207,
+        "stop" : 1637246504481,
+        "duration" : 9274
+      }
+    } ]
+  },
+  "59f4b6e44fc21a02d872072d19b82640" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1808f2bd8394fe38",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637246695617,
+        "stop" : 1637246706474,
+        "duration" : 10857
+      }
+    } ]
+  },
+  "bdc152c482a8213188ce52373d07aa81" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "abf44a23b13778d3",
+      "status" : "skipped",
+      "statusDetails" : "This test was ignored",
+      "time" : {
+        "start" : 1637247696312,
+        "stop" : 1637247696335,
+        "duration" : 23
+      }
+    } ]
+  },
+  "dbf20de782e63438c690ed2951e2f5ca" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "da9d62505d336881",
+      "status" : "skipped",
+      "statusDetails" : "This test was ignored",
+      "time" : {
+        "start" : 1637247696134,
+        "stop" : 1637247696157,
+        "duration" : 23
+      }
+    } ]
+  },
+  "4160e62a59b502b6fc03c683c5f8632" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fbe6ea0f9624a76f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637246873274,
+        "stop" : 1637246899087,
+        "duration" : 25813
+      }
+    } ]
+  },
+  "c2016506114fdcb1191518ac78970fe6" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ddb8887e76d87a21",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637247188128,
+        "stop" : 1637247199264,
+        "duration" : 11136
+      }
+    } ]
+  },
+  "db9d52d17be416717b85322d76afd118" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "32306a84c9a9e52d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637246949431,
+        "stop" : 1637246971351,
+        "duration" : 21920
+      }
+    } ]
+  },
+  "8001140adc12ca90e6a53fe3f1c2839d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6bc6772d7e5837be",
+      "status" : "skipped",
+      "statusDetails" : "Temporarily disabled with xit",
+      "time" : {
+        "start" : 1637247526297,
+        "stop" : 1637247526319,
+        "duration" : 22
+      }
+    } ]
+  },
+  "b915300c07144f753e7b6e1358553e7d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a5ff7ba3177979c7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637247237189,
+        "stop" : 1637247244963,
+        "duration" : 7774
+      }
+    } ]
+  },
+  "edfa817ca61c09f9a4f8d879776c28d2" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5578e907be378e9f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637247446128,
+        "stop" : 1637247472439,
+        "duration" : 26311
+      }
+    } ]
+  },
+  "76c2cdd8a466c122dd7f6740d56b1d91" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b5fef1b7b027be0a",
+      "status" : "skipped",
+      "statusDetails" : "This test was ignored",
+      "time" : {
+        "start" : 1637247696182,
+        "stop" : 1637247696205,
+        "duration" : 23
+      }
+    } ]
+  },
+  "7c2f0b2b2dd30133f38c0dcf920e8ae9" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "33af8f05fc10312c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637246548020,
+        "stop" : 1637246557327,
+        "duration" : 9307
+      }
+    } ]
+  },
+  "ba8ebdd09c520cf9300140aed0dbbc9d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "92d00f5d5966916a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637246652428,
+        "stop" : 1637246662093,
+        "duration" : 9665
+      }
+    } ]
+  },
+  "4f5c425b1533f3212492249a63512916" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c1e6e508d4f7d1dc",
+      "status" : "skipped",
+      "statusDetails" : "This test was ignored",
+      "time" : {
+        "start" : 1637247643840,
+        "stop" : 1637247643871,
+        "duration" : 31
+      }
+    } ]
+  },
+  "8f9240eb02ee14b3c7a8a74254413743" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e709539e554d1f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637246519709,
+        "stop" : 1637246529292,
+        "duration" : 9583
+      }
+    } ]
+  },
+  "4295fb854889b2bf140ad60fb1726bbc" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b46f71658f9fbe25",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637247131440,
+        "stop" : 1637247144438,
+        "duration" : 12998
+      }
+    } ]
+  },
+  "ffb3c140daf44ff7aa0b030104ef7fef" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "65efad034668b0e2",
+      "status" : "failed",
+      "statusDetails" : "Failed: \n                \tTimed out after 5000ms, while waiting for:\n                \tbrowser.element(By(xpath, //*[@name='password'])).set value: uo3pjK1l\n                Reason:\n                \tno such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@name='password']\"}\n                  (Session info: chrome=96.0.4664.45)\n                  (Driver info: chromedriver=95.0.4638.69 (6a1600ed572fedecd573b6c2b90a22fe6392a410-refs/branch-heads/4638@{#984}),platform=Mac OS X 11.6.0 x86_64)",
+      "time" : {
+        "start" : 1637247045425,
+        "stop" : 1637247070297,
+        "duration" : 24872
+      }
+    } ]
+  },
+  "8518b6b14a122a7f72e551f9a40bf411" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "949378acad1e454f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637246784249,
+        "stop" : 1637246806791,
+        "duration" : 22542
+      }
+    } ]
+  },
+  "9c9e83dc16dba236278ccecb74b6bafd" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "66d0a4ff4def8ecf",
+      "status" : "skipped",
+      "statusDetails" : "This test was ignored",
+      "time" : {
+        "start" : 1637247644097,
+        "stop" : 1637247644148,
+        "duration" : 51
+      }
+    } ]
+  },
+  "c7161a767f34555cdc3e554d851ff038" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a514f4657d46ad33",
+      "status" : "skipped",
+      "statusDetails" : "This test was ignored",
+      "time" : {
+        "start" : 1637247696205,
+        "stop" : 1637247696223,
+        "duration" : 18
+      }
+    } ]
+  },
+  "998a3a62b99638afc6fe5c823f933f90" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6af9a921bac6b665",
+      "status" : "skipped",
+      "statusDetails" : "Temporarily disabled with xit",
+      "time" : {
+        "start" : 1637247526270,
+        "stop" : 1637247526297,
+        "duration" : 27
+      }
+    } ]
+  },
+  "7de11ffb361811e700b7f89fb63268f3" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "389ae20019c8b856",
+      "status" : "skipped",
+      "statusDetails" : "This test was ignored",
+      "time" : {
+        "start" : 1637247643798,
+        "stop" : 1637247643840,
+        "duration" : 42
+      }
+    } ]
+  },
+  "abaa5518e645d720a45ddf77dbe455f" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5af2e850fb3ea5a1",
+      "status" : "failed",
+      "statusDetails" : "Failed: \n                \tTimed out after 5000ms, while waiting for:\n                \tbrowser.all(By(xpath, //span[contains(@class,'ev-live-time__timer--')])).has size 1\n                Reason:\n                \tactual size: 0",
+      "time" : {
+        "start" : 1637247472441,
+        "stop" : 1637247503757,
+        "duration" : 31316
+      }
+    } ]
+  },
+  "21d91646e1b2bc8a752f3d754ec531a6" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5406ad527c26017",
+      "status" : "skipped",
+      "statusDetails" : "Temporarily disabled with xit",
+      "time" : {
+        "start" : 1637247171432,
+        "stop" : 1637247171449,
+        "duration" : 17
+      }
+    } ]
+  },
+  "2884b9d6b4baafc129b6d8979dfbd749" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4286950472165701",
+      "status" : "failed",
+      "statusDetails" : "Failed: \n                \tTimed out after 5000ms, while waiting for:\n                \tbrowser.element(By(xpath, //*[@href='/results/'])).click\n                Reason:\n                \telement click intercepted: Element <a href=\"/results/\" class=\"menu__link\">...</a> is not clickable at point (979, 17). Other element would receive the click: <i class=\"authorization__overlay\"></i>\n                  (Session info: chrome=96.0.4664.45)\n                  (Driver info: chromedriver=95.0.4638.69 (6a1600ed572fedecd573b6c2b90a22fe6392a410-refs/branch-heads/4638@{#984}),platform=Mac OS X 11.6.0 x86_64)",
+      "time" : {
+        "start" : 1637247656512,
+        "stop" : 1637247668228,
+        "duration" : 11716
+      }
+    } ]
+  },
+  "295971f2c475e39755210a0572959907" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "480f87cce8ce62a4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637246706474,
+        "stop" : 1637246721630,
+        "duration" : 15156
+      }
+    } ]
+  },
+  "e876bcf1ad17522eebf805fba6002074" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3a67de87f41c731b",
+      "status" : "failed",
+      "statusDetails" : "Failed: \n                \tTimed out after 5000ms, while waiting for:\n                \tbrowser.element(By(xpath, //*[@class='login-form _new_design']//form/div[1]//input)).set value: 4198614\n                Reason:\n                \tno such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@class='login-form _new_design']//form/div[1]//input\"}\n                  (Session info: chrome=96.0.4664.45)\n                  (Driver info: chromedriver=95.0.4638.69 (6a1600ed572fedecd573b6c2b90a22fe6392a410-refs/branch-heads/4638@{#984}),platform=Mac OS X 11.6.0 x86_64)",
+      "time" : {
+        "start" : 1637247070297,
+        "stop" : 1637247090333,
+        "duration" : 20036
+      }
+    } ]
+  },
+  "c58bd2c9c853b8c5543a2b96c800f5f8" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ee3e7e2b85286512",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637247313623,
+        "stop" : 1637247328904,
+        "duration" : 15281
+      }
+    } ]
+  },
+  "27fe227dcf3152e88982d8f8368c99eb" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "547d10fc4fe05fd1",
+      "status" : "failed",
+      "statusDetails" : "Failed: \n                \tTimed out after 5000ms, while waiting for:\n                \tbrowser.element(By(xpath, //*[@id='popup']/li[1])).click\n                Reason:\n                \tno such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@id='popup']/li[1]\"}\n                  (Session info: chrome=96.0.4664.45)\n                  (Driver info: chromedriver=95.0.4638.69 (6a1600ed572fedecd573b6c2b90a22fe6392a410-refs/branch-heads/4638@{#984}),platform=Mac OS X 11.6.0 x86_64)",
+      "time" : {
+        "start" : 1637247526324,
+        "stop" : 1637247550633,
+        "duration" : 24309
+      }
+    } ]
+  },
+  "62699becc1fdb99cbd0930e3a1f1db5b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4ca41a437fa9f22c",
+      "status" : "skipped",
+      "statusDetails" : "This test was ignored",
+      "time" : {
+        "start" : 1637247644149,
+        "stop" : 1637247644180,
+        "duration" : 31
+      }
+    } ]
+  },
+  "510f2d6dbb3d13360d05fbab6918507b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ebbda2be53ebb76e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637246831250,
+        "stop" : 1637246852780,
+        "duration" : 21530
+      }
+    } ]
+  },
+  "f8918c0d544a23d28d3939ffa3fdec1" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "727e6f14186f761a",
+      "status" : "skipped",
+      "statusDetails" : "This test was ignored",
+      "time" : {
+        "start" : 1637247643971,
+        "stop" : 1637247644012,
+        "duration" : 41
+      }
+    } ]
+  },
+  "d0aace0381907a7419644e74fe6f6820" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "64ef4ed43d3758f6",
+      "status" : "skipped",
+      "statusDetails" : "This test was ignored",
+      "time" : {
+        "start" : 1637247643871,
+        "stop" : 1637247643897,
+        "duration" : 26
+      }
+    } ]
+  },
+  "55021518d9f03bdad4af8ce28d8bf124" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b57f36259d95f4ce",
+      "status" : "skipped",
+      "statusDetails" : "Temporarily disabled with xit",
+      "time" : {
+        "start" : 1637247171397,
+        "stop" : 1637247171432,
+        "duration" : 35
+      }
+    } ]
+  },
+  "8326a575dd34e7f665f0e27f5e458995" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "eded6a8c99427e51",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637247144438,
+        "stop" : 1637247157924,
+        "duration" : 13486
+      }
+    } ]
+  },
+  "889454e61cec05e9b94ef175be54599f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3b6e9a766488",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637246687138,
+        "stop" : 1637246695617,
+        "duration" : 8479
+      }
+    } ]
+  },
+  "33c06eaf48b677d3d3ef6fb627ee72d0" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "79a4da261a1abbda",
+      "status" : "skipped",
+      "statusDetails" : "This test was ignored",
+      "time" : {
+        "start" : 1637247696449,
+        "stop" : 1637247696476,
+        "duration" : 27
+      }
+    } ]
+  },
+  "61a8f78ca48ec92d3e7819d9d2b95798" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b2f2d325f3a84231",
+      "status" : "skipped",
+      "statusDetails" : "This test was ignored",
+      "time" : {
+        "start" : 1637247696476,
+        "stop" : 1637247696500,
+        "duration" : 24
+      }
+    } ]
+  },
+  "391837c947d2f9108566a8b229def6b0" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "23450ea443110960",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637247349614,
+        "stop" : 1637247381289,
+        "duration" : 31675
+      }
+    } ]
+  },
+  "d106758f15e0519c902d85106e5d0c2d" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9599a14d6d1b20d4",
+      "status" : "failed",
+      "statusDetails" : "Failed: \n                \tTimed out after 5000ms, while waiting for:\n                \tbrowser.all(By(xpath, //div[contains(@class,'coupon-list--')]/article)).has size 2\n                Reason:\n                \tactual size: 1",
+      "time" : {
+        "start" : 1637246899087,
+        "stop" : 1637246928537,
+        "duration" : 29450
+      }
+    } ]
+  },
+  "2f53094945f6e430bdd77ca4785908d3" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "436321bcd56ade27",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637246578914,
+        "stop" : 1637246587255,
+        "duration" : 8341
+      }
+    } ]
+  },
+  "1379fcd905e015abbdbd9d525507afc4" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b49b9f25e0a42e4d",
+      "status" : "skipped",
+      "statusDetails" : "Temporarily disabled with xit",
+      "time" : {
+        "start" : 1637247644252,
+        "stop" : 1637247644272,
+        "duration" : 20
+      }
+    } ]
+  },
+  "2a886fedb4fd4763401e54bdac173e6" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1c94b340d42135d2",
+      "status" : "failed",
+      "statusDetails" : "Failed: \n                \tTimed out after 5000ms, while waiting for:\n                \tbrowser.element(By(xpath, //*[@id='popup']/li[1])).click\n                Reason:\n                \tno such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@id='popup']/li[1]\"}\n                  (Session info: chrome=96.0.4664.45)\n                  (Driver info: chromedriver=95.0.4638.69 (6a1600ed572fedecd573b6c2b90a22fe6392a410-refs/branch-heads/4638@{#984}),platform=Mac OS X 11.6.0 x86_64)",
+      "time" : {
+        "start" : 1637247599708,
+        "stop" : 1637247620993,
+        "duration" : 21285
+      }
+    } ]
+  },
+  "632b079e12e29ae48ad93b8fb76d1435" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e6e8ddf52668870",
+      "status" : "skipped",
+      "statusDetails" : "This test was ignored",
+      "time" : {
+        "start" : 1637247644180,
+        "stop" : 1637247644205,
+        "duration" : 25
+      }
+    } ]
+  },
+  "c73a4e3d63b7f704e33d4124368263f1" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5afe031b7c9d23df",
+      "status" : "skipped",
+      "statusDetails" : "This test was ignored",
+      "time" : {
+        "start" : 1637247696279,
+        "stop" : 1637247696312,
+        "duration" : 33
+      }
+    } ]
+  },
+  "96a8741eb148cb75985252a20cb42ef6" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c6f8939aefac40c9",
+      "status" : "failed",
+      "statusDetails" : "Failed: \n                \tTimed out after 5000ms, while waiting for:\n                \tbrowser.element(By(xpath, //*[@class='header__login-head']/a[1])).click\n                Reason:\n                \tno such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@class='header__login-head']/a[1]\"}\n                  (Session info: chrome=96.0.4664.45)\n                  (Driver info: chromedriver=95.0.4638.69 (6a1600ed572fedecd573b6c2b90a22fe6392a410-refs/branch-heads/4638@{#984}),platform=Mac OS X 11.6.0 x86_64)",
+      "time" : {
+        "start" : 1637247199264,
+        "stop" : 1637247223113,
+        "duration" : 23849
+      }
+    } ]
+  },
+  "ef26ea67211499bb105e8e3ab4af5574" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "75fd4b9a3c51274b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637247301271,
+        "stop" : 1637247313623,
+        "duration" : 12352
+      }
+    } ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "uid" : "abf44a23b13778d3",
+  "name" : "Проверка переоткрытия заявки",
+  "fullName" : "Тесты на запросы из личного кабинета.Проверка переоткрытия заявки",
+  "historyId" : "bdc152c482a8213188ce52373d07aa81",
+  "time" : {
+    "start" : 1637247696312,
+    "stop" : 1637247696335,
+    "duration" : 23
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "This test was ignored",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Тесты на запросы из личного кабинета"
+  }, {
+    "name" : "testClass",
+    "value" : "Тесты на запросы из личного кабинета"
+  }, {
+    "name" : "testMethod",
+    "value" : "Проверка переоткрытия заявки"
+  }, {
+    "name" : "package",
+    "value" : "Тесты на запросы из личного кабинета"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "abf44a23b13778d3.json",
+  "parameterValues" : [ ]
+}
