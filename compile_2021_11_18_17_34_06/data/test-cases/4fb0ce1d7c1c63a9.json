@@ -1,0 +1,48 @@
+{
+  "uid" : "4fb0ce1d7c1c63a9",
+  "name" : "Выплата на карту",
+  "fullName" : "Проверка пополения и выплаты.Выплата на карту",
+  "historyId" : "21d91646e1b2bc8a752f3d754ec531a6",
+  "time" : {
+    "start" : 1637242385658,
+    "stop" : 1637242385660,
+    "duration" : 2
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "This test was ignored",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Проверка пополения и выплаты"
+  }, {
+    "name" : "testClass",
+    "value" : "Проверка пополения и выплаты"
+  }, {
+    "name" : "testMethod",
+    "value" : "Выплата на карту"
+  }, {
+    "name" : "package",
+    "value" : "Проверка пополения и выплаты"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4fb0ce1d7c1c63a9.json",
+  "parameterValues" : [ ]
+}

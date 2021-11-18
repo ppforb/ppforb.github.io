@@ -1,0 +1,48 @@
+{
+  "uid" : "d953bb15a215aa28",
+  "name" : "Проверка открытия страницы  пополнения кошелек ЦУПИС",
+  "fullName" : "Проверка пополения и выплаты.Проверка открытия страницы  пополнения кошелек ЦУПИС",
+  "historyId" : "ffb3c140daf44ff7aa0b030104ef7fef",
+  "time" : {
+    "start" : 1637242385645,
+    "stop" : 1637242385646,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "This test was ignored",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Проверка пополения и выплаты"
+  }, {
+    "name" : "testClass",
+    "value" : "Проверка пополения и выплаты"
+  }, {
+    "name" : "testMethod",
+    "value" : "Проверка открытия страницы  пополнения кошелек ЦУПИС"
+  }, {
+    "name" : "package",
+    "value" : "Проверка пополения и выплаты"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d953bb15a215aa28.json",
+  "parameterValues" : [ ]
+}

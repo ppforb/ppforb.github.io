@@ -1,0 +1,48 @@
+{
+  "uid" : "8eb9d8c2a8f3b68",
+  "name" : "Открытие формы Забыли пароль из формы авторизации",
+  "fullName" : "Проверка авторизации.Открытие формы Забыли пароль из формы авторизации",
+  "historyId" : "5a41c3167c3d2b200720fd84a9f03e84",
+  "time" : {
+    "start" : 1637242385590,
+    "stop" : 1637242385591,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "This test was ignored",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Проверка авторизации"
+  }, {
+    "name" : "testClass",
+    "value" : "Проверка авторизации"
+  }, {
+    "name" : "testMethod",
+    "value" : "Открытие формы Забыли пароль из формы авторизации"
+  }, {
+    "name" : "package",
+    "value" : "Проверка авторизации"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8eb9d8c2a8f3b68.json",
+  "parameterValues" : [ ]
+}

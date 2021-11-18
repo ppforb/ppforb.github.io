@@ -1,0 +1,48 @@
+{
+  "uid" : "2abb1ba949c49a9a",
+  "name" : "Проверка открытия страницы пополнения через TELE2",
+  "fullName" : "Проверка пополения и выплаты.Проверка открытия страницы пополнения через TELE2",
+  "historyId" : "99dcca8625b7ef46290c70cb1968e0d3",
+  "time" : {
+    "start" : 1637242385655,
+    "stop" : 1637242385657,
+    "duration" : 2
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "This test was ignored",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Проверка пополения и выплаты"
+  }, {
+    "name" : "testClass",
+    "value" : "Проверка пополения и выплаты"
+  }, {
+    "name" : "testMethod",
+    "value" : "Проверка открытия страницы пополнения через TELE2"
+  }, {
+    "name" : "package",
+    "value" : "Проверка пополения и выплаты"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2abb1ba949c49a9a.json",
+  "parameterValues" : [ ]
+}

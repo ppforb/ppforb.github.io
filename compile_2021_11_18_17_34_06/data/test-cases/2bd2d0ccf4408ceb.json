@@ -1,0 +1,48 @@
+{
+  "uid" : "2bd2d0ccf4408ceb",
+  "name" : "Проверка любимой ставки и подстановки старой",
+  "fullName" : "Проверка всего в ленте купонов.Проверка любимой ставки и подстановки старой",
+  "historyId" : "6339e046a4155dba205d1c3eeba70eca",
+  "time" : {
+    "start" : 1637242385607,
+    "stop" : 1637242385608,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "This test was ignored",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Проверка всего в ленте купонов"
+  }, {
+    "name" : "testClass",
+    "value" : "Проверка всего в ленте купонов"
+  }, {
+    "name" : "testMethod",
+    "value" : "Проверка любимой ставки и подстановки старой"
+  }, {
+    "name" : "package",
+    "value" : "Проверка всего в ленте купонов"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2bd2d0ccf4408ceb.json",
+  "parameterValues" : [ ]
+}

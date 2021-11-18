@@ -1,0 +1,48 @@
+{
+  "uid" : "62462028c39343df",
+  "name" : "Проверка сворачивания ставки из ленты купонов",
+  "fullName" : "Проверка всего в ленте купонов.Проверка сворачивания ставки из ленты купонов",
+  "historyId" : "295971f2c475e39755210a0572959907",
+  "time" : {
+    "start" : 1637242385610,
+    "stop" : 1637242385611,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "This test was ignored",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Проверка всего в ленте купонов"
+  }, {
+    "name" : "testClass",
+    "value" : "Проверка всего в ленте купонов"
+  }, {
+    "name" : "testMethod",
+    "value" : "Проверка сворачивания ставки из ленты купонов"
+  }, {
+    "name" : "package",
+    "value" : "Проверка всего в ленте купонов"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "62462028c39343df.json",
+  "parameterValues" : [ ]
+}

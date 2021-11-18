@@ -1,0 +1,48 @@
+{
+  "uid" : "3972bbb427bf1c91",
+  "name" : "Проверка Фрибета/Бп с нулевым балансом клиента",
+  "fullName" : "Проверка БС, min/max.Проверка Фрибета/Бп с нулевым балансом клиента",
+  "historyId" : "300a52097a2959db31c9378e578a7e5",
+  "time" : {
+    "start" : 1637242385625,
+    "stop" : 1637242385628,
+    "duration" : 3
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "This test was ignored",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Проверка БС, min/max"
+  }, {
+    "name" : "testClass",
+    "value" : "Проверка БС, min/max"
+  }, {
+    "name" : "testMethod",
+    "value" : "Проверка Фрибета/Бп с нулевым балансом клиента"
+  }, {
+    "name" : "package",
+    "value" : "Проверка БС, min/max"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3972bbb427bf1c91.json",
+  "parameterValues" : [ ]
+}

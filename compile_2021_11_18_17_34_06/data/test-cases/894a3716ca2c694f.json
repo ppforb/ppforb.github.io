@@ -1,0 +1,48 @@
+{
+  "uid" : "894a3716ca2c694f",
+  "name" : "Проверка на продажу",
+  "fullName" : "Проверка всего в ленте купонов.Проверка на продажу",
+  "historyId" : "d50288f11b79182bf5c76f9cff9defaf",
+  "time" : {
+    "start" : 1637242385606,
+    "stop" : 1637242385606,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "This test was ignored",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Проверка всего в ленте купонов"
+  }, {
+    "name" : "testClass",
+    "value" : "Проверка всего в ленте купонов"
+  }, {
+    "name" : "testMethod",
+    "value" : "Проверка на продажу"
+  }, {
+    "name" : "package",
+    "value" : "Проверка всего в ленте купонов"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "894a3716ca2c694f.json",
+  "parameterValues" : [ ]
+}

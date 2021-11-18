@@ -1,0 +1,48 @@
+{
+  "uid" : "aa21b55d6b7d6e9e",
+  "name" : "Проверка фильтров бонусов",
+  "fullName" : "Тесты на вкладку Бонусы.Проверка фильтров бонусов",
+  "historyId" : "28c17179b37451fe5a27371243785c05",
+  "time" : {
+    "start" : 1637242385710,
+    "stop" : 1637242385711,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "This test was ignored",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Тесты на вкладку Бонусы"
+  }, {
+    "name" : "testClass",
+    "value" : "Тесты на вкладку Бонусы"
+  }, {
+    "name" : "testMethod",
+    "value" : "Проверка фильтров бонусов"
+  }, {
+    "name" : "package",
+    "value" : "Тесты на вкладку Бонусы"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "aa21b55d6b7d6e9e.json",
+  "parameterValues" : [ ]
+}

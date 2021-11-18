@@ -1,0 +1,48 @@
+{
+  "uid" : "b5c58c907e1acf7d",
+  "name" : "Проверка открытия страницы пополнения через Qiwi",
+  "fullName" : "Проверка пополения и выплаты.Проверка открытия страницы пополнения через Qiwi",
+  "historyId" : "8473ab17b0150f49154a1986b3392c7a",
+  "time" : {
+    "start" : 1637242385648,
+    "stop" : 1637242385649,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "This test was ignored",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Проверка пополения и выплаты"
+  }, {
+    "name" : "testClass",
+    "value" : "Проверка пополения и выплаты"
+  }, {
+    "name" : "testMethod",
+    "value" : "Проверка открытия страницы пополнения через Qiwi"
+  }, {
+    "name" : "package",
+    "value" : "Проверка пополения и выплаты"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b5c58c907e1acf7d.json",
+  "parameterValues" : [ ]
+}

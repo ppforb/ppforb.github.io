@@ -1,0 +1,48 @@
+{
+  "uid" : "561821171ccb37ef",
+  "name" : "Проверка Самоисключений",
+  "fullName" : "Тесты на личный кабинет.Проверка Самоисключений",
+  "historyId" : "1860835e796e9ff2bf9a898a86c445d5",
+  "time" : {
+    "start" : 1637242385724,
+    "stop" : 1637242385725,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "This test was ignored",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Тесты на личный кабинет"
+  }, {
+    "name" : "testClass",
+    "value" : "Тесты на личный кабинет"
+  }, {
+    "name" : "testMethod",
+    "value" : "Проверка Самоисключений"
+  }, {
+    "name" : "package",
+    "value" : "Тесты на личный кабинет"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "561821171ccb37ef.json",
+  "parameterValues" : [ ]
+}

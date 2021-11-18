@@ -1,0 +1,48 @@
+{
+  "uid" : "9278609e4d64b12",
+  "name" : "Проверка смены почты через реальную почту",
+  "fullName" : "Тесты на личный кабинет.Проверка смены почты через реальную почту",
+  "historyId" : "d0aace0381907a7419644e74fe6f6820",
+  "time" : {
+    "start" : 1637242385720,
+    "stop" : 1637242385721,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "This test was ignored",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Тесты на личный кабинет"
+  }, {
+    "name" : "testClass",
+    "value" : "Тесты на личный кабинет"
+  }, {
+    "name" : "testMethod",
+    "value" : "Проверка смены почты через реальную почту"
+  }, {
+    "name" : "package",
+    "value" : "Тесты на личный кабинет"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9278609e4d64b12.json",
+  "parameterValues" : [ ]
+}

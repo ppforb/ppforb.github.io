@@ -1,0 +1,48 @@
+{
+  "uid" : "a182cdf07bed8ac1",
+  "name" : "Проверка открытия страницы пополнения через МТС",
+  "fullName" : "Проверка пополения и выплаты.Проверка открытия страницы пополнения через МТС",
+  "historyId" : "8326a575dd34e7f665f0e27f5e458995",
+  "time" : {
+    "start" : 1637242385654,
+    "stop" : 1637242385655,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "This test was ignored",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Проверка пополения и выплаты"
+  }, {
+    "name" : "testClass",
+    "value" : "Проверка пополения и выплаты"
+  }, {
+    "name" : "testMethod",
+    "value" : "Проверка открытия страницы пополнения через МТС"
+  }, {
+    "name" : "package",
+    "value" : "Проверка пополения и выплаты"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a182cdf07bed8ac1.json",
+  "parameterValues" : [ ]
+}

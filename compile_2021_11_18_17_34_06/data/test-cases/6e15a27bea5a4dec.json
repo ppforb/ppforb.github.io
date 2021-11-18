@@ -1,0 +1,48 @@
+{
+  "uid" : "6e15a27bea5a4dec",
+  "name" : "Проверка работы плейсхолдера всех трех типов авторизации(номер счета, номер телефона, почта)",
+  "fullName" : "Проверка авторизации.Проверка работы плейсхолдера всех трех типов авторизации(номер счета, номер телефона, почта)",
+  "historyId" : "1712624880d259b6a4d90a18c44b7202",
+  "time" : {
+    "start" : 1637242385576,
+    "stop" : 1637242385577,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "This test was ignored",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Проверка авторизации"
+  }, {
+    "name" : "testClass",
+    "value" : "Проверка авторизации"
+  }, {
+    "name" : "testMethod",
+    "value" : "Проверка работы плейсхолдера всех трех типов авторизации(номер счета, номер телефона, почта)"
+  }, {
+    "name" : "package",
+    "value" : "Проверка авторизации"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6e15a27bea5a4dec.json",
+  "parameterValues" : [ ]
+}

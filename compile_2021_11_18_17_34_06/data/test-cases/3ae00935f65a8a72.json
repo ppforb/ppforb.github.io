@@ -1,0 +1,48 @@
+{
+  "uid" : "3ae00935f65a8a72",
+  "name" : "Проверка открытия страницы пополнения через ЮMoney",
+  "fullName" : "Проверка пополения и выплаты.Проверка открытия страницы пополнения через ЮMoney",
+  "historyId" : "e876bcf1ad17522eebf805fba6002074",
+  "time" : {
+    "start" : 1637242385646,
+    "stop" : 1637242385648,
+    "duration" : 2
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "This test was ignored",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Проверка пополения и выплаты"
+  }, {
+    "name" : "testClass",
+    "value" : "Проверка пополения и выплаты"
+  }, {
+    "name" : "testMethod",
+    "value" : "Проверка открытия страницы пополнения через ЮMoney"
+  }, {
+    "name" : "package",
+    "value" : "Проверка пополения и выплаты"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3ae00935f65a8a72.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,48 @@
+{
+  "uid" : "b92da4fe554962a9",
+  "name" : "Проверка открытия страницы пополнения через Билайн",
+  "fullName" : "Проверка пополения и выплаты.Проверка открытия страницы пополнения через Билайн",
+  "historyId" : "4295fb854889b2bf140ad60fb1726bbc",
+  "time" : {
+    "start" : 1637242385653,
+    "stop" : 1637242385654,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "This test was ignored",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Проверка пополения и выплаты"
+  }, {
+    "name" : "testClass",
+    "value" : "Проверка пополения и выплаты"
+  }, {
+    "name" : "testMethod",
+    "value" : "Проверка открытия страницы пополнения через Билайн"
+  }, {
+    "name" : "package",
+    "value" : "Проверка пополения и выплаты"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b92da4fe554962a9.json",
+  "parameterValues" : [ ]
+}

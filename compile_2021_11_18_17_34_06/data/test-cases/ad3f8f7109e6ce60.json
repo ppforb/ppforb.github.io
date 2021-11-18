@@ -1,0 +1,48 @@
+{
+  "uid" : "ad3f8f7109e6ce60",
+  "name" : "Прикрепление и скачивание файла в созданном запросах",
+  "fullName" : "Тесты на запросы из личного кабинета.Прикрепление и скачивание файла в созданном запросах",
+  "historyId" : "82bc083fb471c5e3f4b3638437661585",
+  "time" : {
+    "start" : 1637242385762,
+    "stop" : 1637242385764,
+    "duration" : 2
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "This test was ignored",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Тесты на запросы из личного кабинета"
+  }, {
+    "name" : "testClass",
+    "value" : "Тесты на запросы из личного кабинета"
+  }, {
+    "name" : "testMethod",
+    "value" : "Прикрепление и скачивание файла в созданном запросах"
+  }, {
+    "name" : "package",
+    "value" : "Тесты на запросы из личного кабинета"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ad3f8f7109e6ce60.json",
+  "parameterValues" : [ ]
+}

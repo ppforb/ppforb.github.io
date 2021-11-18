@@ -1,0 +1,48 @@
+{
+  "uid" : "c25c170b54134fb",
+  "name" : "Проверка сохранения купона, набранного до авторизации",
+  "fullName" : "Проверка ленты без авторизации.Проверка сохранения купона, набранного до авторизации",
+  "historyId" : "b50e86d0466f1261b6b5f0ee07e0d9b0",
+  "time" : {
+    "start" : 1637242385595,
+    "stop" : 1637242385597,
+    "duration" : 2
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "This test was ignored",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Проверка ленты без авторизации"
+  }, {
+    "name" : "testClass",
+    "value" : "Проверка ленты без авторизации"
+  }, {
+    "name" : "testMethod",
+    "value" : "Проверка сохранения купона, набранного до авторизации"
+  }, {
+    "name" : "package",
+    "value" : "Проверка ленты без авторизации"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c25c170b54134fb.json",
+  "parameterValues" : [ ]
+}

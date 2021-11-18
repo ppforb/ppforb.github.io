@@ -1,0 +1,48 @@
+{
+  "uid" : "7b12dce645a8e5e",
+  "name" : "Авторизация клиента по clinetId",
+  "fullName" : "Проверка авторизации.Авторизация клиента по clinetId",
+  "historyId" : "98bcc32d95821facd0fec32c9891ae7d",
+  "time" : {
+    "start" : 1637242385577,
+    "stop" : 1637242385579,
+    "duration" : 2
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "This test was ignored",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Проверка авторизации"
+  }, {
+    "name" : "testClass",
+    "value" : "Проверка авторизации"
+  }, {
+    "name" : "testMethod",
+    "value" : "Авторизация клиента по clinetId"
+  }, {
+    "name" : "package",
+    "value" : "Проверка авторизации"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7b12dce645a8e5e.json",
+  "parameterValues" : [ ]
+}

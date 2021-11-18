@@ -1,0 +1,48 @@
+{
+  "uid" : "f14a69c08b56f04a",
+  "name" : "Проверка  включения расссылок и уведомлений",
+  "fullName" : "Тесты на личный кабинет.Проверка  включения расссылок и уведомлений",
+  "historyId" : "ba3bb0afb8a691ed98d61a2a7c3df574",
+  "time" : {
+    "start" : 1637242385731,
+    "stop" : 1637242385732,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "This test was ignored",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Тесты на личный кабинет"
+  }, {
+    "name" : "testClass",
+    "value" : "Тесты на личный кабинет"
+  }, {
+    "name" : "testMethod",
+    "value" : "Проверка  включения расссылок и уведомлений"
+  }, {
+    "name" : "package",
+    "value" : "Тесты на личный кабинет"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f14a69c08b56f04a.json",
+  "parameterValues" : [ ]
+}

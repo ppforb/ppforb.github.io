@@ -1,0 +1,48 @@
+{
+  "uid" : "651df66aebb5ef66",
+  "name" : "Проверка быстрой ставки",
+  "fullName" : "Проверка всего в ленте купонов.Проверка быстрой ставки",
+  "historyId" : "ba8ebdd09c520cf9300140aed0dbbc9d",
+  "time" : {
+    "start" : 1637242385603,
+    "stop" : 1637242385604,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "This test was ignored",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Проверка всего в ленте купонов"
+  }, {
+    "name" : "testClass",
+    "value" : "Проверка всего в ленте купонов"
+  }, {
+    "name" : "testMethod",
+    "value" : "Проверка быстрой ставки"
+  }, {
+    "name" : "package",
+    "value" : "Проверка всего в ленте купонов"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "651df66aebb5ef66.json",
+  "parameterValues" : [ ]
+}

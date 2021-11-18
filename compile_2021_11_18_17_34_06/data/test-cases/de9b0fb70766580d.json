@@ -1,0 +1,48 @@
+{
+  "uid" : "de9b0fb70766580d",
+  "name" : "Проверка открытия страницы пополнения через Webmoney",
+  "fullName" : "Проверка пополения и выплаты.Проверка открытия страницы пополнения через Webmoney",
+  "historyId" : "b7b9e95211f9f59ad0cea8c7eeb7125d",
+  "time" : {
+    "start" : 1637242385650,
+    "stop" : 1637242385651,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "This test was ignored",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Проверка пополения и выплаты"
+  }, {
+    "name" : "testClass",
+    "value" : "Проверка пополения и выплаты"
+  }, {
+    "name" : "testMethod",
+    "value" : "Проверка открытия страницы пополнения через Webmoney"
+  }, {
+    "name" : "package",
+    "value" : "Проверка пополения и выплаты"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "de9b0fb70766580d.json",
+  "parameterValues" : [ ]
+}
