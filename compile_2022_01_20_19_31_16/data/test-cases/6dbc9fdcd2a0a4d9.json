@@ -1,0 +1,191 @@
+{
+  "uid" : "6dbc9fdcd2a0a4d9",
+  "name" : "Проверка функции Поиск",
+  "fullName" : "Тесты на функциии из области шапки сайта.Проверка функции Поиск",
+  "historyId" : "391837c947d2f9108566a8b229def6b0",
+  "time" : {
+    "start" : 1642692320262,
+    "stop" : 1642692350394,
+    "duration" : 30132
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Проверка фильтров команд",
+      "time" : {
+        "start" : 1642692329208,
+        "stop" : 1642692329208,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Убираем пробелы с названия команды, если они есть",
+      "time" : {
+        "start" : 1642692333195,
+        "stop" : 1642692333195,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Проверка удаления фильтров и закртытия поиска",
+      "time" : {
+        "start" : 1642692334299,
+        "stop" : 1642692334299,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Проверка на дублирование команд",
+      "time" : {
+        "start" : 1642692334734,
+        "stop" : 1642692334734,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Проверка на дублирование фильтров",
+      "time" : {
+        "start" : 1642692336488,
+        "stop" : 1642692336488,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Проверка отображение лайв события",
+      "time" : {
+        "start" : 1642692340649,
+        "stop" : 1642692340649,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Переход в Лайв",
+      "time" : {
+        "start" : 1642692340649,
+        "stop" : 1642692340649,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Проверка eventView",
+      "time" : {
+        "start" : 1642692346340,
+        "stop" : 1642692346340,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Проверка eng выдачи",
+      "time" : {
+        "start" : 1642692346788,
+        "stop" : 1642692346788,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 9,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Тесты на функциии из области шапки сайта"
+  }, {
+    "name" : "testClass",
+    "value" : "Тесты на функциии из области шапки сайта"
+  }, {
+    "name" : "testMethod",
+    "value" : "Проверка функции Поиск"
+  }, {
+    "name" : "package",
+    "value" : "Тесты на функциии из области шапки сайта"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6dbc9fdcd2a0a4d9.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,139 @@
+{
+  "uid" : "fec9807fe6c98823",
+  "name" : "Проверка ввода суммы больше чем баланс счета",
+  "fullName" : "Проверка всего в ленте купонов.Проверка ввода суммы больше чем баланс счета",
+  "historyId" : "889454e61cec05e9b94ef175be54599f",
+  "time" : {
+    "start" : 1642691664496,
+    "stop" : 1642691679327,
+    "duration" : 14831
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Failed: \n                \tTimed out after 5000ms, while waiting for:\n                \tbrowser.element(By(xpath, //*[@href='/'])).click\n                Reason:\n                \tno such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@href='/']\"}\n                  (Session info: chrome=97.0.4692.71)\n                  (Driver info: chromedriver=97.0.4692.71 (adefa7837d02a07a604c1e6eff0b3a09422ab88d-refs/branch-heads/4692@{#1247}),platform=Mac OS X 11.6.0 x86_64)",
+  "statusTrace" : "Error: \n                \tTimed out after 5000ms, while waiting for:\n                \tbrowser.element(By(xpath, //*[@href='/'])).click\n                Reason:\n                \tno such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@href='/']\"}\n                  (Session info: chrome=97.0.4692.71)\n                  (Driver info: chromedriver=97.0.4692.71 (adefa7837d02a07a604c1e6eff0b3a09422ab88d-refs/branch-heads/4692@{#1247}),platform=Mac OS X 11.6.0 x86_64)\n                    at Wait.for (/Users/forb/Documents/js_web/node_modules/selenidejs/lib/wait.ts:231:37)\n                    at runMicrotasks (<anonymous>)\n                    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n                    at Element.click (/Users/forb/Documents/js_web/node_modules/selenidejs/lib/element.ts:111:9)\n                    at UserContext.<anonymous> (/Users/forb/Documents/js_web/build/test/couponGrid.spec.js:131:13)\n                From asynchronous test: \n                Error\n                    at Suite.<anonymous> (/Users/forb/Documents/js_web/build/test/couponGrid.spec.js:107:5)\n                    at addSpecsToSuite (/Users/forb/Documents/js_web/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:1107:25)\n                    at Env.describe (/Users/forb/Documents/js_web/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:1074:7)\n                    at describe (/Users/forb/Documents/js_web/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4399:18)\n                    at Object.<anonymous> (/Users/forb/Documents/js_web/build/test/couponGrid.spec.js:54:1)\n                    at Module._compile (internal/modules/cjs/loader.js:1085:14)\n                    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)\n                    at Module.load (internal/modules/cjs/loader.js:950:32)\n                    at Function.Module._load (internal/modules/cjs/loader.js:790:14)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "Failed: \n                \tTimed out after 5000ms, while waiting for:\n                \tbrowser.element(By(xpath, //*[@href='/'])).click\n                Reason:\n                \tno such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@href='/']\"}\n                  (Session info: chrome=97.0.4692.71)\n                  (Driver info: chromedriver=97.0.4692.71 (adefa7837d02a07a604c1e6eff0b3a09422ab88d-refs/branch-heads/4692@{#1247}),platform=Mac OS X 11.6.0 x86_64)",
+    "statusTrace" : "Error: \n                \tTimed out after 5000ms, while waiting for:\n                \tbrowser.element(By(xpath, //*[@href='/'])).click\n                Reason:\n                \tno such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@href='/']\"}\n                  (Session info: chrome=97.0.4692.71)\n                  (Driver info: chromedriver=97.0.4692.71 (adefa7837d02a07a604c1e6eff0b3a09422ab88d-refs/branch-heads/4692@{#1247}),platform=Mac OS X 11.6.0 x86_64)\n                    at Wait.for (/Users/forb/Documents/js_web/node_modules/selenidejs/lib/wait.ts:231:37)\n                    at runMicrotasks (<anonymous>)\n                    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n                    at Element.click (/Users/forb/Documents/js_web/node_modules/selenidejs/lib/element.ts:111:9)\n                    at UserContext.<anonymous> (/Users/forb/Documents/js_web/build/test/couponGrid.spec.js:131:13)\n                From asynchronous test: \n                Error\n                    at Suite.<anonymous> (/Users/forb/Documents/js_web/build/test/couponGrid.spec.js:107:5)\n                    at addSpecsToSuite (/Users/forb/Documents/js_web/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:1107:25)\n                    at Env.describe (/Users/forb/Documents/js_web/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:1074:7)\n                    at describe (/Users/forb/Documents/js_web/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4399:18)\n                    at Object.<anonymous> (/Users/forb/Documents/js_web/build/test/couponGrid.spec.js:54:1)\n                    at Module._compile (internal/modules/cjs/loader.js:1085:14)\n                    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)\n                    at Module.load (internal/modules/cjs/loader.js:950:32)\n                    at Function.Module._load (internal/modules/cjs/loader.js:790:14)",
+    "steps" : [ {
+      "name" : "Установка дефолтных настроек",
+      "time" : {
+        "start" : 1642691669405,
+        "stop" : 1642691669405,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Переход в Спорт",
+      "time" : {
+        "start" : 1642691669503,
+        "stop" : 1642691669503,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Выбираю 1 событие с кэф из линии [2]",
+      "time" : {
+        "start" : 1642691671824,
+        "stop" : 1642691671824,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Сумма ставки больше максимальной",
+      "time" : {
+        "start" : 1642691672068,
+        "stop" : 1642691672068,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Проверка ввода суммы больше чем баланс счета",
+      "time" : {
+        "start" : 1642691672677,
+        "stop" : 1642691672677,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 5,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Проверка всего в ленте купонов"
+  }, {
+    "name" : "testClass",
+    "value" : "Проверка всего в ленте купонов"
+  }, {
+    "name" : "testMethod",
+    "value" : "Проверка ввода суммы больше чем баланс счета"
+  }, {
+    "name" : "package",
+    "value" : "Проверка всего в ленте купонов"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "fec9807fe6c98823.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,71 @@
+{
+  "uid" : "6c8b2f56f770506e",
+  "name" : "Проверка соответсвтия ставки в гриде и ставки в купоне",
+  "fullName" : "Провекра гридов с соревнованиями в линии/лайве.Проверка соответсвтия ставки в гриде и ставки в купоне",
+  "historyId" : "c58bd2c9c853b8c5543a2b96c800f5f8",
+  "time" : {
+    "start" : 1642692280699,
+    "stop" : 1642692299614,
+    "duration" : 18915
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Переход в Спорт",
+      "time" : {
+        "start" : 1642692289805,
+        "stop" : 1642692289805,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Провекра гридов с соревнованиями в линии/лайве"
+  }, {
+    "name" : "testClass",
+    "value" : "Провекра гридов с соревнованиями в линии/лайве"
+  }, {
+    "name" : "testMethod",
+    "value" : "Проверка соответсвтия ставки в гриде и ставки в купоне"
+  }, {
+    "name" : "package",
+    "value" : "Провекра гридов с соревнованиями в линии/лайве"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6c8b2f56f770506e.json",
+  "parameterValues" : [ ]
+}

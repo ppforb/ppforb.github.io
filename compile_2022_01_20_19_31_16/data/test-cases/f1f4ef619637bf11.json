@@ -1,0 +1,71 @@
+{
+  "uid" : "f1f4ef619637bf11",
+  "name" : "Проверка табов",
+  "fullName" : "Запросы на выплату.Проверка табов",
+  "historyId" : "436d4cb4ed30800f335ac2090100ec3d",
+  "time" : {
+    "start" : 1642692140936,
+    "stop" : 1642692153966,
+    "duration" : 13030
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Переход в пополнение и выплаты",
+      "time" : {
+        "start" : 1642692153185,
+        "stop" : 1642692153185,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Запросы на выплату"
+  }, {
+    "name" : "testClass",
+    "value" : "Запросы на выплату"
+  }, {
+    "name" : "testMethod",
+    "value" : "Проверка табов"
+  }, {
+    "name" : "package",
+    "value" : "Запросы на выплату"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f1f4ef619637bf11.json",
+  "parameterValues" : [ ]
+}

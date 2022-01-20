@@ -1,0 +1,226 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "Failed: \n                \tTimed out after 5000ms, while waiting for:\n                \tbrowser.element(By(xpath, //*[@href='/'])).click\n                Reason:\n                \tno such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@href='/']\"}\n                  (Session info: chrome=97.0.4692.71)\n                  (Driver info: chromedriver=97.0.4692.71 (adefa7837d02a07a604c1e6eff0b3a09422ab88d-refs/branch-heads/4692@{#1247}),platform=Mac OS X 11.6.0 x86_64)",
+      "children" : [ {
+        "name" : "Проверка ввода суммы больше чем баланс счета",
+        "uid" : "fec9807fe6c98823",
+        "parentUid" : "28982f04a14f99a24b910f59ef25d2ca",
+        "status" : "failed",
+        "time" : {
+          "start" : 1642691664496,
+          "stop" : 1642691679327,
+          "duration" : 14831
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "28982f04a14f99a24b910f59ef25d2ca"
+    }, {
+      "name" : "Failed: \n                \tTimed out after 5000ms, while waiting for:\n                \tbrowser.element(By(xpath, //div[contains(@class,'calculator__amount--')])).has text: 382\n                Reason:\n                \tactual text: 500\n                ₽\n                384\n                ₽",
+      "children" : [ {
+        "name" : "Проверка Системы и калькулятора",
+        "uid" : "d61a7445707b1d95",
+        "parentUid" : "f891bab371c91e3b6c9934caa8d094d7",
+        "status" : "failed",
+        "time" : {
+          "start" : 1642691744424,
+          "stop" : 1642691762456,
+          "duration" : 18032
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f891bab371c91e3b6c9934caa8d094d7"
+    }, {
+      "name" : "Failed: \n                \tTimed out after 5000ms, while waiting for:\n                \tbrowser.element(By(xpath, //*[@name='password'])).set value: uo3pjK1l\n                Reason:\n                \tno such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@name='password']\"}\n                  (Session info: chrome=97.0.4692.71)\n                  (Driver info: chromedriver=97.0.4692.71 (adefa7837d02a07a604c1e6eff0b3a09422ab88d-refs/branch-heads/4692@{#1247}),platform=Mac OS X 11.6.0 x86_64)",
+      "children" : [ {
+        "name" : "Проверка открытия страницы  пополнения кошелек ЦУПИС",
+        "uid" : "e68480cba0d334ff",
+        "parentUid" : "5697eb9b5787b7e0d66d5f1bb449c33c",
+        "status" : "failed",
+        "time" : {
+          "start" : 1642692003144,
+          "stop" : 1642692027500,
+          "duration" : 24356
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "5697eb9b5787b7e0d66d5f1bb449c33c"
+    }, {
+      "name" : "Failed: \n                \tTimed out after 5000ms, while waiting for:\n                \tbrowser.element(By(xpath, //div[contains(@class,'PaymentsPage__psItems-')]//*[@title='WebMoney'])).click\n                Reason:\n                \tno such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//div[contains(@class,'PaymentsPage__psItems-')]//*[@title='WebMoney']\"}\n                  (Session info: chrome=97.0.4692.71)\n                  (Driver info: chromedriver=97.0.4692.71 (adefa7837d02a07a604c1e6eff0b3a09422ab88d-refs/branch-heads/4692@{#1247}),platform=Mac OS X 11.6.0 x86_64)",
+      "children" : [ {
+        "name" : "Проверка открытия страницы пополнения через Webmoney",
+        "uid" : "ab1f79cc4ebd1a7a",
+        "parentUid" : "47da271b4229abb97f72a71477d0a993",
+        "status" : "failed",
+        "time" : {
+          "start" : 1642692059293,
+          "stop" : 1642692077325,
+          "duration" : 18032
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "47da271b4229abb97f72a71477d0a993"
+    }, {
+      "name" : "Failed: \n                \tTimed out after 5000ms, while waiting for:\n                \tbrowser.all(By(xpath, //*[@class='details__less-value']))[1].has text: 21.99\n                Reason:\n                \tactual text: 0 ₽",
+      "children" : [ {
+        "name" : "Проверка открытия страницы пополнения через Билайн",
+        "uid" : "3e579ae74272e932",
+        "parentUid" : "e662d9345e835f66ea1715203debe52b",
+        "status" : "failed",
+        "time" : {
+          "start" : 1642692091736,
+          "stop" : 1642692112176,
+          "duration" : 20440
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e662d9345e835f66ea1715203debe52b"
+    }, {
+      "name" : "Failed: \n                \tTimed out after 5000ms, while waiting for:\n                \tbrowser.element(By(xpath, //*[@class='request-details__type'])).has text: Выигрыш\n                Reason:\n                \tactual text: Winnings",
+      "children" : [ {
+        "name" : "Проверка карточки заявки",
+        "uid" : "c3b0bbc0be51b759",
+        "parentUid" : "491b5824cab1c27448c9835b25c00679",
+        "status" : "failed",
+        "time" : {
+          "start" : 1642692165900,
+          "stop" : 1642692184549,
+          "duration" : 18649
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "491b5824cab1c27448c9835b25c00679"
+    }, {
+      "name" : "Failed: \n                \tTimed out after 5000ms, while waiting for:\n                \tbrowser.all(By(xpath, //div[contains(@class,'filter-item-drop-down-element__popup__panel--')]//a))[1].click\n                Reason:\n                \tCannot get element with index 1 from webelements collection with length 1",
+      "children" : [ {
+        "name" : "Проверка фильтра в горизонтальном положении на выбор события",
+        "uid" : "849877fc030b8b31",
+        "parentUid" : "2e46d649abf9bd9af25e40ce6c8ce062",
+        "status" : "failed",
+        "time" : {
+          "start" : 1642692184557,
+          "stop" : 1642692198610,
+          "duration" : 14053
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "2e46d649abf9bd9af25e40ce6c8ce062"
+    }, {
+      "name" : "Failed: \n                \tTimed out after 5000ms, while waiting for:\n                \tbrowser.element(By(xpath, //div[contains(@class,'horizontal-panel--')]/div/div[6])).click\n                Reason:\n                \telement not interactable\n                  (Session info: chrome=97.0.4692.71)\n                  (Driver info: chromedriver=97.0.4692.71 (adefa7837d02a07a604c1e6eff0b3a09422ab88d-refs/branch-heads/4692@{#1247}),platform=Mac OS X 11.6.0 x86_64)",
+      "children" : [ {
+        "name" : "Сравнение фильтра времени у конкретного спорта в горизонтальном и вертикальном ",
+        "uid" : "d7a1265d8f46cecf",
+        "parentUid" : "69fc5d0f77fcf700e78f502552c40806",
+        "status" : "failed",
+        "time" : {
+          "start" : 1642692237359,
+          "stop" : 1642692251059,
+          "duration" : 13700
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "69fc5d0f77fcf700e78f502552c40806"
+    }, {
+      "name" : "Failed: \n                \tTimed out after 5000ms, while waiting for:\n                \tbrowser.all(By(xpath, //*[contains(@class,'sport-base-event--')]/div[2]))[0].has attribute 'class' with value '_collapsed'\n                Reason:\n                \tactual attribute class: ",
+      "children" : [ {
+        "name" : "Проверка разворачивания доп пари и доч событий",
+        "uid" : "b0e9d13042d4aae3",
+        "parentUid" : "d29e7848b75e62433697acf3d6a8a74f",
+        "status" : "failed",
+        "time" : {
+          "start" : 1642692263132,
+          "stop" : 1642692280699,
+          "duration" : 17567
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "d29e7848b75e62433697acf3d6a8a74f"
+    }, {
+      "name" : "Failed: \n                \tTimed out after 5000ms, while waiting for:\n                \tbrowser.element(By(xpath, //*[@href='/forecasts/'])).click\n                Reason:\n                \tno such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@href='/forecasts/']\"}\n                  (Session info: chrome=97.0.4692.71)\n                  (Driver info: chromedriver=97.0.4692.71 (adefa7837d02a07a604c1e6eff0b3a09422ab88d-refs/branch-heads/4692@{#1247}),platform=Mac OS X 11.6.0 x86_64)",
+      "children" : [ {
+        "name" : "Проверка открытия всех вкладок",
+        "uid" : "506d8816a0e358ef",
+        "parentUid" : "1696ac41333a35338f4e2ef7684af15d",
+        "status" : "failed",
+        "time" : {
+          "start" : 1642692299619,
+          "stop" : 1642692320262,
+          "duration" : 20643
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "1696ac41333a35338f4e2ef7684af15d"
+    }, {
+      "name" : "Failed: \n                \tTimed out after 5000ms, while waiting for:\n                \tbrowser.all(By(xpath, //span[contains(@class,'ev-live-time__timer--')])).has size 1\n                Reason:\n                \tactual size: 0",
+      "children" : [ {
+        "name" : "Функционал EventView в Лайв событиях",
+        "uid" : "fa02c3349be7d85e",
+        "parentUid" : "a7b559955fa63e292142139604b06334",
+        "status" : "failed",
+        "time" : {
+          "start" : 1642692436544,
+          "stop" : 1642692461445,
+          "duration" : 24901
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a7b559955fa63e292142139604b06334"
+    }, {
+      "name" : "Failed: \n                \tTimed out after 5000ms, while waiting for:\n                \tbrowser.element(By(xpath, //*[@href='/results/'])).click\n                Reason:\n                \tno such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@href='/results/']\"}\n                  (Session info: chrome=97.0.4692.71)\n                  (Driver info: chromedriver=97.0.4692.71 (adefa7837d02a07a604c1e6eff0b3a09422ab88d-refs/branch-heads/4692@{#1247}),platform=Mac OS X 11.6.0 x86_64)",
+      "children" : [ {
+        "name" : "Проверка сортировки по времени",
+        "uid" : "c1b06cdb1921a979",
+        "parentUid" : "c30196e74c8a1aaf2be772da57bba640",
+        "status" : "failed",
+        "time" : {
+          "start" : 1642692559183,
+          "stop" : 1642692574960,
+          "duration" : 15777
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Проверка поиска в результатах",
+        "uid" : "8f1aafe3f3d18481",
+        "parentUid" : "c30196e74c8a1aaf2be772da57bba640",
+        "status" : "failed",
+        "time" : {
+          "start" : 1642692599498,
+          "stop" : 1642692615323,
+          "duration" : 15825
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "c30196e74c8a1aaf2be772da57bba640"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

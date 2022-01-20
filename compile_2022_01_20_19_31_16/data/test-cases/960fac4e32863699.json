@@ -1,0 +1,48 @@
+{
+  "uid" : "960fac4e32863699",
+  "name" : "Проверка быстрого пари",
+  "fullName" : "Проверка настроек сайта.Проверка быстрого пари",
+  "historyId" : "c65fac2048c77592701bbd92214b40de",
+  "time" : {
+    "start" : 1642692615522,
+    "stop" : 1642692615542,
+    "duration" : 20
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "This test was ignored",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Проверка настроек сайта"
+  }, {
+    "name" : "testClass",
+    "value" : "Проверка настроек сайта"
+  }, {
+    "name" : "testMethod",
+    "value" : "Проверка быстрого пари"
+  }, {
+    "name" : "package",
+    "value" : "Проверка настроек сайта"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "960fac4e32863699.json",
+  "parameterValues" : [ ]
+}

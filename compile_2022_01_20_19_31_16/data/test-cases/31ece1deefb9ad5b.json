@@ -1,0 +1,46 @@
+{
+  "uid" : "31ece1deefb9ad5b",
+  "name" : "Клиент с  опцией \"Авторизация запрещена",
+  "fullName" : "Проверка авторизации.Клиент с  опцией \"Авторизация запрещена",
+  "historyId" : "fc005e3104110cf68a20c2553d7aab6d",
+  "time" : {
+    "start" : 1642691551189,
+    "stop" : 1642691560476,
+    "duration" : 9287
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Проверка авторизации"
+  }, {
+    "name" : "testClass",
+    "value" : "Проверка авторизации"
+  }, {
+    "name" : "testMethod",
+    "value" : "Клиент с  опцией \"Авторизация запрещена"
+  }, {
+    "name" : "package",
+    "value" : "Проверка авторизации"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "31ece1deefb9ad5b.json",
+  "parameterValues" : [ ]
+}

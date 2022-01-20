@@ -1,0 +1,109 @@
+{
+  "uid" : "506d8816a0e358ef",
+  "name" : "Проверка открытия всех вкладок",
+  "fullName" : "Тесты на функциии из области шапки сайта.Проверка открытия всех вкладок",
+  "historyId" : "246e9cea4d241305d0b21b2686afc349",
+  "time" : {
+    "start" : 1642692299619,
+    "stop" : 1642692320262,
+    "duration" : 20643
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Failed: \n                \tTimed out after 5000ms, while waiting for:\n                \tbrowser.element(By(xpath, //*[@href='/forecasts/'])).click\n                Reason:\n                \tno such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@href='/forecasts/']\"}\n                  (Session info: chrome=97.0.4692.71)\n                  (Driver info: chromedriver=97.0.4692.71 (adefa7837d02a07a604c1e6eff0b3a09422ab88d-refs/branch-heads/4692@{#1247}),platform=Mac OS X 11.6.0 x86_64)",
+  "statusTrace" : "Error: \n                \tTimed out after 5000ms, while waiting for:\n                \tbrowser.element(By(xpath, //*[@href='/forecasts/'])).click\n                Reason:\n                \tno such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@href='/forecasts/']\"}\n                  (Session info: chrome=97.0.4692.71)\n                  (Driver info: chromedriver=97.0.4692.71 (adefa7837d02a07a604c1e6eff0b3a09422ab88d-refs/branch-heads/4692@{#1247}),platform=Mac OS X 11.6.0 x86_64)\n                    at Wait.for (/Users/forb/Documents/js_web/node_modules/selenidejs/lib/wait.ts:231:37)\n                    at runMicrotasks (<anonymous>)\n                    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n                    at Element.click (/Users/forb/Documents/js_web/node_modules/selenidejs/lib/element.ts:111:9)\n                    at UserContext.<anonymous> (/Users/forb/Documents/js_web/build/test/header.spec.js:30:9)\n                From asynchronous test: \n                Error\n                    at Suite.<anonymous> (/Users/forb/Documents/js_web/build/test/header.spec.js:16:5)\n                    at addSpecsToSuite (/Users/forb/Documents/js_web/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:1107:25)\n                    at Env.describe (/Users/forb/Documents/js_web/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:1074:7)\n                    at describe (/Users/forb/Documents/js_web/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4399:18)\n                    at Object.<anonymous> (/Users/forb/Documents/js_web/build/test/header.spec.js:11:1)\n                    at Module._compile (internal/modules/cjs/loader.js:1085:14)\n                    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)\n                    at Module.load (internal/modules/cjs/loader.js:950:32)\n                    at Function.Module._load (internal/modules/cjs/loader.js:790:14)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "Failed: \n                \tTimed out after 5000ms, while waiting for:\n                \tbrowser.element(By(xpath, //*[@href='/forecasts/'])).click\n                Reason:\n                \tno such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@href='/forecasts/']\"}\n                  (Session info: chrome=97.0.4692.71)\n                  (Driver info: chromedriver=97.0.4692.71 (adefa7837d02a07a604c1e6eff0b3a09422ab88d-refs/branch-heads/4692@{#1247}),platform=Mac OS X 11.6.0 x86_64)",
+    "statusTrace" : "Error: \n                \tTimed out after 5000ms, while waiting for:\n                \tbrowser.element(By(xpath, //*[@href='/forecasts/'])).click\n                Reason:\n                \tno such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@href='/forecasts/']\"}\n                  (Session info: chrome=97.0.4692.71)\n                  (Driver info: chromedriver=97.0.4692.71 (adefa7837d02a07a604c1e6eff0b3a09422ab88d-refs/branch-heads/4692@{#1247}),platform=Mac OS X 11.6.0 x86_64)\n                    at Wait.for (/Users/forb/Documents/js_web/node_modules/selenidejs/lib/wait.ts:231:37)\n                    at runMicrotasks (<anonymous>)\n                    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n                    at Element.click (/Users/forb/Documents/js_web/node_modules/selenidejs/lib/element.ts:111:9)\n                    at UserContext.<anonymous> (/Users/forb/Documents/js_web/build/test/header.spec.js:30:9)\n                From asynchronous test: \n                Error\n                    at Suite.<anonymous> (/Users/forb/Documents/js_web/build/test/header.spec.js:16:5)\n                    at addSpecsToSuite (/Users/forb/Documents/js_web/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:1107:25)\n                    at Env.describe (/Users/forb/Documents/js_web/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:1074:7)\n                    at describe (/Users/forb/Documents/js_web/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4399:18)\n                    at Object.<anonymous> (/Users/forb/Documents/js_web/build/test/header.spec.js:11:1)\n                    at Module._compile (internal/modules/cjs/loader.js:1085:14)\n                    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)\n                    at Module.load (internal/modules/cjs/loader.js:950:32)\n                    at Function.Module._load (internal/modules/cjs/loader.js:790:14)",
+    "steps" : [ {
+      "name" : "Проверка всех страниц",
+      "time" : {
+        "start" : 1642692306841,
+        "stop" : 1642692306841,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Переход в Спорт",
+      "time" : {
+        "start" : 1642692306841,
+        "stop" : 1642692306841,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Переход в Лайв",
+      "time" : {
+        "start" : 1642692308622,
+        "stop" : 1642692308622,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 3,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Тесты на функциии из области шапки сайта"
+  }, {
+    "name" : "testClass",
+    "value" : "Тесты на функциии из области шапки сайта"
+  }, {
+    "name" : "testMethod",
+    "value" : "Проверка открытия всех вкладок"
+  }, {
+    "name" : "package",
+    "value" : "Тесты на функциии из области шапки сайта"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "506d8816a0e358ef.json",
+  "parameterValues" : [ ]
+}

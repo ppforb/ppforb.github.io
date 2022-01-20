@@ -1,0 +1,46 @@
+{
+  "uid" : "305456d6c1440961",
+  "name" : "Авторизация клиента по clinetId",
+  "fullName" : "Проверка авторизации.Авторизация клиента по clinetId",
+  "historyId" : "98bcc32d95821facd0fec32c9891ae7d",
+  "time" : {
+    "start" : 1642691477375,
+    "stop" : 1642691486743,
+    "duration" : 9368
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Проверка авторизации"
+  }, {
+    "name" : "testClass",
+    "value" : "Проверка авторизации"
+  }, {
+    "name" : "testMethod",
+    "value" : "Авторизация клиента по clinetId"
+  }, {
+    "name" : "package",
+    "value" : "Проверка авторизации"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "305456d6c1440961.json",
+  "parameterValues" : [ ]
+}

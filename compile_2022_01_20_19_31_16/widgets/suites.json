@@ -1,0 +1,114 @@
+{
+  "total" : 18,
+  "items" : [ {
+    "uid" : "70b3024019ee01094bbd0f624d9d3be4",
+    "name" : "Проверка пополения и выплаты",
+    "statistic" : {
+      "failed" : 3,
+      "broken" : 0,
+      "skipped" : 3,
+      "passed" : 11,
+      "unknown" : 0,
+      "total" : 17
+    }
+  }, {
+    "uid" : "a8f264e785e3d81fa026e62544950342",
+    "name" : "Проверка всего в ленте купонов",
+    "statistic" : {
+      "failed" : 2,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 10,
+      "unknown" : 0,
+      "total" : 12
+    }
+  }, {
+    "uid" : "b67dd22099d81180105cfb7bc014d588",
+    "name" : "Тесты фильтра меню избранное",
+    "statistic" : {
+      "failed" : 2,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 4,
+      "unknown" : 0,
+      "total" : 6
+    }
+  }, {
+    "uid" : "b233654e9fc5ea382c4aae1c5673d833",
+    "name" : "Проверка работы всего функицонала во вкладке \"Результат\"",
+    "statistic" : {
+      "failed" : 2,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 4
+    }
+  }, {
+    "uid" : "eb5a48e911972c153b71a16a5fd3e874",
+    "name" : "Запросы на выплату",
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 3
+    }
+  }, {
+    "uid" : "5ca57e46989cc977483b6cf5215c0317",
+    "name" : "Провекра гридов с соревнованиями в линии/лайве",
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 3
+    }
+  }, {
+    "uid" : "3290a8da2e6211af6df1279b3281de09",
+    "name" : "Лайв трансляции и eventView",
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 3
+    }
+  }, {
+    "uid" : "b5acefdf303f1a8d74e5f430d0875975",
+    "name" : "Тесты на функциии из области шапки сайта",
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 2
+    }
+  }, {
+    "uid" : "ad18b79960a1e6dd8959e0df8d85e0f8",
+    "name" : "Проверка авторизации",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 11,
+      "unknown" : 0,
+      "total" : 12
+    }
+  }, {
+    "uid" : "69e3cb51db773173f5483192269d09c9",
+    "name" : "Тесты на вкладку Бонусы",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 5,
+      "unknown" : 0,
+      "total" : 5
+    }
+  } ]
+}

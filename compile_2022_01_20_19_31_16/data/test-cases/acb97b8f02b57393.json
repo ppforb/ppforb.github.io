@@ -1,0 +1,116 @@
+{
+  "uid" : "acb97b8f02b57393",
+  "name" : "Проверка шапки чемпионата",
+  "fullName" : "Провекра гридов с соревнованиями в линии/лайве.Проверка шапки чемпионата",
+  "historyId" : "ca08ed4e5aae07a67c89651cdfe773a1",
+  "time" : {
+    "start" : 1642692251069,
+    "stop" : 1642692263132,
+    "duration" : 12063
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Переход в Спорт",
+      "time" : {
+        "start" : 1642692256124,
+        "stop" : 1642692256124,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Установка дефолтных настроек",
+      "time" : {
+        "start" : 1642692257714,
+        "stop" : 1642692257714,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Проверяем лого спорта и чемпионата",
+      "time" : {
+        "start" : 1642692258033,
+        "stop" : 1642692258033,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Проверяем заголовки котировок в шапке турнира",
+      "time" : {
+        "start" : 1642692263094,
+        "stop" : 1642692263094,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 4,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Провекра гридов с соревнованиями в линии/лайве"
+  }, {
+    "name" : "testClass",
+    "value" : "Провекра гридов с соревнованиями в линии/лайве"
+  }, {
+    "name" : "testMethod",
+    "value" : "Проверка шапки чемпионата"
+  }, {
+    "name" : "package",
+    "value" : "Провекра гридов с соревнованиями в линии/лайве"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "acb97b8f02b57393.json",
+  "parameterValues" : [ ]
+}

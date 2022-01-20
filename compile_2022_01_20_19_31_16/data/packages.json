@@ -1,0 +1,1507 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "Проверка авторизации",
+    "children" : [ {
+      "name" : "Проверка работы плейсхолдера всех трех типов авторизации(номер счета, номер телефона, почта)",
+      "uid" : "e6d532f65c24c16b",
+      "parentUid" : "071e9899a800baf35e2f7f6bcf58a218",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642691468745,
+        "stop" : 1642691477375,
+        "duration" : 8630
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Авторизация клиента по clinetId",
+      "uid" : "305456d6c1440961",
+      "parentUid" : "071e9899a800baf35e2f7f6bcf58a218",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642691477375,
+        "stop" : 1642691486743,
+        "duration" : 9368
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Проверка протушей  сессии",
+      "uid" : "7b500090069dd247",
+      "parentUid" : "071e9899a800baf35e2f7f6bcf58a218",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642691486744,
+        "stop" : 1642691501498,
+        "duration" : 14754
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Авторизация клиента по phoneNumber",
+      "uid" : "ec98917d7015e859",
+      "parentUid" : "071e9899a800baf35e2f7f6bcf58a218",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642691501498,
+        "stop" : 1642691511613,
+        "duration" : 10115
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Авторизация клиента по email",
+      "uid" : "a115d45acca4aa96",
+      "parentUid" : "071e9899a800baf35e2f7f6bcf58a218",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642691511613,
+        "stop" : 1642691521033,
+        "duration" : 9420
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Авторизация клиента с самоисключением навсегда",
+      "uid" : "f8137092db62c1d7",
+      "parentUid" : "071e9899a800baf35e2f7f6bcf58a218",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642691521033,
+        "stop" : 1642691530492,
+        "duration" : 9459
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Авторизация клиента с неправильный паролем",
+      "uid" : "3c44545c14e2481e",
+      "parentUid" : "071e9899a800baf35e2f7f6bcf58a218",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642691530492,
+        "stop" : 1642691539881,
+        "duration" : 9389
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Тест на слишком частый ввод пароля неправильный",
+      "uid" : "b7aa3299b7d4da11",
+      "parentUid" : "071e9899a800baf35e2f7f6bcf58a218",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642691539881,
+        "stop" : 1642691551189,
+        "duration" : 11308
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Клиент с  опцией \"Авторизация запрещена",
+      "uid" : "31ece1deefb9ad5b",
+      "parentUid" : "071e9899a800baf35e2f7f6bcf58a218",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642691551189,
+        "stop" : 1642691560476,
+        "duration" : 9287
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Открытие формы Регистрации из формы авторизации",
+      "uid" : "19dd017255cdfe56",
+      "parentUid" : "071e9899a800baf35e2f7f6bcf58a218",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642691560476,
+        "stop" : 1642691568971,
+        "duration" : 8495
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Открытие формы Забыли пароль из формы авторизации",
+      "uid" : "8ce7cff8521054e0",
+      "parentUid" : "071e9899a800baf35e2f7f6bcf58a218",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642691568971,
+        "stop" : 1642691577460,
+        "duration" : 8489
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Добавляю аккаунт в Акцию серия побед, ставлю ставку, продаю",
+      "uid" : "9dde67dc6d7a0834",
+      "parentUid" : "071e9899a800baf35e2f7f6bcf58a218",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1642692559148,
+        "stop" : 1642692559170,
+        "duration" : 22
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "071e9899a800baf35e2f7f6bcf58a218"
+  }, {
+    "name" : "Проверка ленты без авторизации",
+    "children" : [ {
+      "name" : "Проверка сохранения купона, набранного до авторизации",
+      "uid" : "ebacfde2577ecd8a",
+      "parentUid" : "a18bbc906be6973e277010c4129e0ff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642691577467,
+        "stop" : 1642691600868,
+        "duration" : 23401
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Проверка появления окна авторизации на пари без авторизации",
+      "uid" : "842ba2e08a6fe189",
+      "parentUid" : "a18bbc906be6973e277010c4129e0ff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642691600868,
+        "stop" : 1642691614434,
+        "duration" : 13566
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Проверка истории ставок у нового пользователя",
+      "uid" : "58b743073936b960",
+      "parentUid" : "a18bbc906be6973e277010c4129e0ff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642691614434,
+        "stop" : 1642691626041,
+        "duration" : 11607
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "a18bbc906be6973e277010c4129e0ff4"
+  }, {
+    "name" : "Проверка всего в ленте купонов",
+    "children" : [ {
+      "name" : "Проверка быстрой ставки",
+      "uid" : "3cb202abe8e2dec4",
+      "parentUid" : "a111ea30c12a1f425daa2390d1189dda",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642691626043,
+        "stop" : 1642691637652,
+        "duration" : 11609
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Проверка свитчеров",
+      "uid" : "ac68384d86f4e865",
+      "parentUid" : "a111ea30c12a1f425daa2390d1189dda",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642691637653,
+        "stop" : 1642691646146,
+        "duration" : 8493
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Проверка на продажу",
+      "uid" : "9e484e4263e1898d",
+      "parentUid" : "a111ea30c12a1f425daa2390d1189dda",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642691646146,
+        "stop" : 1642691656229,
+        "duration" : 10083
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Проверка любимой ставки и подстановки старой",
+      "uid" : "103751f15f1bfd98",
+      "parentUid" : "a111ea30c12a1f425daa2390d1189dda",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642691656229,
+        "stop" : 1642691664496,
+        "duration" : 8267
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Проверка ввода суммы больше чем баланс счета",
+      "uid" : "fec9807fe6c98823",
+      "parentUid" : "a111ea30c12a1f425daa2390d1189dda",
+      "status" : "failed",
+      "time" : {
+        "start" : 1642691664496,
+        "stop" : 1642691679327,
+        "duration" : 14831
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Проверка настроек в вкладке История",
+      "uid" : "d03a765dfd877c48",
+      "parentUid" : "a111ea30c12a1f425daa2390d1189dda",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642691679328,
+        "stop" : 1642691691541,
+        "duration" : 12213
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Проверка сворачивания ставки из ленты купонов",
+      "uid" : "f5ed00178302850c",
+      "parentUid" : "a111ea30c12a1f425daa2390d1189dda",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642691691541,
+        "stop" : 1642691713133,
+        "duration" : 21592
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Проверка подстановки суммы предыдущей ставки",
+      "uid" : "69b9ed544b1a3f14",
+      "parentUid" : "a111ea30c12a1f425daa2390d1189dda",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642691713133,
+        "stop" : 1642691724425,
+        "duration" : 11292
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Проверка клонирования и закрытия",
+      "uid" : "dab622d9f795dbb9",
+      "parentUid" : "a111ea30c12a1f425daa2390d1189dda",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642691724425,
+        "stop" : 1642691735209,
+        "duration" : 10784
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Проверка продажи и ее настройки",
+      "uid" : "e972e867f168ba7c",
+      "parentUid" : "a111ea30c12a1f425daa2390d1189dda",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642691735210,
+        "stop" : 1642691744424,
+        "duration" : 9214
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Проверка Системы и калькулятора",
+      "uid" : "d61a7445707b1d95",
+      "parentUid" : "a111ea30c12a1f425daa2390d1189dda",
+      "status" : "failed",
+      "time" : {
+        "start" : 1642691744424,
+        "stop" : 1642691762456,
+        "duration" : 18032
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Популярные события",
+      "uid" : "c86957edd82fb80f",
+      "parentUid" : "a111ea30c12a1f425daa2390d1189dda",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642691762457,
+        "stop" : 1642691785742,
+        "duration" : 23285
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "a111ea30c12a1f425daa2390d1189dda"
+  }, {
+    "name" : "Проверка БС, min/max",
+    "children" : [ {
+      "name" : "Проверка Фрибета и БП",
+      "uid" : "f0c60b9726158dc4",
+      "parentUid" : "68459e79d31a2c54d3a997ea1c12e170",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642691785749,
+        "stop" : 1642691807369,
+        "duration" : 21620
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Проверка Фрибета/Бп с нулевым балансом клиента",
+      "uid" : "e49e6541ed825d05",
+      "parentUid" : "68459e79d31a2c54d3a997ea1c12e170",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642691807369,
+        "stop" : 1642691833733,
+        "duration" : 26364
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Проверка Минимальной суммы ставки",
+      "uid" : "ce83dc238f60e635",
+      "parentUid" : "68459e79d31a2c54d3a997ea1c12e170",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642691833733,
+        "stop" : 1642691869775,
+        "duration" : 36042
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Проверка Максимальной суммы ставки",
+      "uid" : "63153716ffd7e66b",
+      "parentUid" : "68459e79d31a2c54d3a997ea1c12e170",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642691869775,
+        "stop" : 1642691894193,
+        "duration" : 24418
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "68459e79d31a2c54d3a997ea1c12e170"
+  }, {
+    "name" : "Проверка пополения и выплаты",
+    "children" : [ {
+      "name" : "Проверка для неидентифицированного клиента",
+      "uid" : "d565fa26a316836",
+      "parentUid" : "41a7d80960de47b3a36db5a68ec83b13",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642691894198,
+        "stop" : 1642691913306,
+        "duration" : 19108
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Проверка избранного в депозитах",
+      "uid" : "1e3fb7a849ea032d",
+      "parentUid" : "41a7d80960de47b3a36db5a68ec83b13",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642691913307,
+        "stop" : 1642691936586,
+        "duration" : 23279
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Проверка избранного в выплатах",
+      "uid" : "80aab498936c7434",
+      "parentUid" : "41a7d80960de47b3a36db5a68ec83b13",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642691936586,
+        "stop" : 1642691958072,
+        "duration" : 21486
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Проверка смены языка",
+      "uid" : "6f89639a529fc838",
+      "parentUid" : "41a7d80960de47b3a36db5a68ec83b13",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642691958072,
+        "stop" : 1642691971703,
+        "duration" : 13631
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Проверка суммы на граничные значения",
+      "uid" : "bee96001739297ab",
+      "parentUid" : "41a7d80960de47b3a36db5a68ec83b13",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642691971703,
+        "stop" : 1642691988711,
+        "duration" : 17008
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Проверка открытия страницы пополнения карты банка",
+      "uid" : "abe8c6ed5fc3bb56",
+      "parentUid" : "41a7d80960de47b3a36db5a68ec83b13",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642691988711,
+        "stop" : 1642692003144,
+        "duration" : 14433
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Проверка открытия страницы  пополнения кошелек ЦУПИС",
+      "uid" : "e68480cba0d334ff",
+      "parentUid" : "41a7d80960de47b3a36db5a68ec83b13",
+      "status" : "failed",
+      "time" : {
+        "start" : 1642692003144,
+        "stop" : 1642692027500,
+        "duration" : 24356
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Проверка открытия страницы пополнения через ЮMoney",
+      "uid" : "914b096b1255607a",
+      "parentUid" : "41a7d80960de47b3a36db5a68ec83b13",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642692027500,
+        "stop" : 1642692042279,
+        "duration" : 14779
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Проверка открытия страницы пополнения через Qiwi",
+      "uid" : "97e6e437bcf067e4",
+      "parentUid" : "41a7d80960de47b3a36db5a68ec83b13",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642692042280,
+        "stop" : 1642692059293,
+        "duration" : 17013
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Проверка открытия страницы пополнения через Webmoney",
+      "uid" : "ab1f79cc4ebd1a7a",
+      "parentUid" : "41a7d80960de47b3a36db5a68ec83b13",
+      "status" : "failed",
+      "time" : {
+        "start" : 1642692059293,
+        "stop" : 1642692077325,
+        "duration" : 18032
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Проверка открытия страницы пополнения через Мегафон",
+      "uid" : "59dafa70ba1fc10f",
+      "parentUid" : "41a7d80960de47b3a36db5a68ec83b13",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642692077325,
+        "stop" : 1642692091736,
+        "duration" : 14411
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Проверка открытия страницы пополнения через Билайн",
+      "uid" : "3e579ae74272e932",
+      "parentUid" : "41a7d80960de47b3a36db5a68ec83b13",
+      "status" : "failed",
+      "time" : {
+        "start" : 1642692091736,
+        "stop" : 1642692112176,
+        "duration" : 20440
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Проверка открытия страницы пополнения через МТС",
+      "uid" : "b4f7905f4c043a34",
+      "parentUid" : "41a7d80960de47b3a36db5a68ec83b13",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642692112176,
+        "stop" : 1642692126494,
+        "duration" : 14318
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Проверка открытия страницы пополнения через TELE2",
+      "uid" : "87ff1f22e34c44f9",
+      "parentUid" : "41a7d80960de47b3a36db5a68ec83b13",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642692126494,
+        "stop" : 1642692140884,
+        "duration" : 14390
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Выплата на телефон",
+      "uid" : "2942fcd351eb7a7b",
+      "parentUid" : "41a7d80960de47b3a36db5a68ec83b13",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1642692140884,
+        "stop" : 1642692140902,
+        "duration" : 18
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Выплата на карту",
+      "uid" : "f18139467b4e67e5",
+      "parentUid" : "41a7d80960de47b3a36db5a68ec83b13",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1642692140902,
+        "stop" : 1642692140911,
+        "duration" : 9
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Выплата на Яндекс деньги",
+      "uid" : "9a125faa0bcdaf97",
+      "parentUid" : "41a7d80960de47b3a36db5a68ec83b13",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1642692140912,
+        "stop" : 1642692140920,
+        "duration" : 8
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "41a7d80960de47b3a36db5a68ec83b13"
+  }, {
+    "name" : "Запросы на выплату",
+    "children" : [ {
+      "name" : "Проверка табов",
+      "uid" : "f1f4ef619637bf11",
+      "parentUid" : "1957cc85cbca6c64955640a4d540b663",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642692140936,
+        "stop" : 1642692153966,
+        "duration" : 13030
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Проверка фильтра",
+      "uid" : "271ee8937b1bd4f9",
+      "parentUid" : "1957cc85cbca6c64955640a4d540b663",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642692153966,
+        "stop" : 1642692165900,
+        "duration" : 11934
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Проверка карточки заявки",
+      "uid" : "c3b0bbc0be51b759",
+      "parentUid" : "1957cc85cbca6c64955640a4d540b663",
+      "status" : "failed",
+      "time" : {
+        "start" : 1642692165900,
+        "stop" : 1642692184549,
+        "duration" : 18649
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "1957cc85cbca6c64955640a4d540b663"
+  }, {
+    "name" : "Тесты фильтра меню избранное",
+    "children" : [ {
+      "name" : "Проверка фильтра в горизонтальном положении на выбор события",
+      "uid" : "849877fc030b8b31",
+      "parentUid" : "67e89c3ee74c79d07adeffaa216e12f8",
+      "status" : "failed",
+      "time" : {
+        "start" : 1642692184557,
+        "stop" : 1642692198610,
+        "duration" : 14053
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Горизонтальное положение, проверка свитчера и компактный режим ",
+      "uid" : "a0bc4cdc616db07a",
+      "parentUid" : "67e89c3ee74c79d07adeffaa216e12f8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642692198610,
+        "stop" : 1642692206364,
+        "duration" : 7754
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Тест фильтра в вертикальном положении",
+      "uid" : "6bd51b5fd47a99b0",
+      "parentUid" : "67e89c3ee74c79d07adeffaa216e12f8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642692206364,
+        "stop" : 1642692216901,
+        "duration" : 10537
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Проверка разворачивания/сворачивания всех дочерних событий и доп. пари",
+      "uid" : "8fa303489fe3760e",
+      "parentUid" : "67e89c3ee74c79d07adeffaa216e12f8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642692216901,
+        "stop" : 1642692226107,
+        "duration" : 9206
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Проверка фильтра времени в меню событий",
+      "uid" : "1ed44e55cec1435e",
+      "parentUid" : "67e89c3ee74c79d07adeffaa216e12f8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642692226107,
+        "stop" : 1642692237359,
+        "duration" : 11252
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Сравнение фильтра времени у конкретного спорта в горизонтальном и вертикальном ",
+      "uid" : "d7a1265d8f46cecf",
+      "parentUid" : "67e89c3ee74c79d07adeffaa216e12f8",
+      "status" : "failed",
+      "time" : {
+        "start" : 1642692237359,
+        "stop" : 1642692251059,
+        "duration" : 13700
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "67e89c3ee74c79d07adeffaa216e12f8"
+  }, {
+    "name" : "Провекра гридов с соревнованиями в линии/лайве",
+    "children" : [ {
+      "name" : "Проверка шапки чемпионата",
+      "uid" : "acb97b8f02b57393",
+      "parentUid" : "b8d209b1532db45f55e0c618343652a9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642692251069,
+        "stop" : 1642692263132,
+        "duration" : 12063
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Проверка разворачивания доп пари и доч событий",
+      "uid" : "b0e9d13042d4aae3",
+      "parentUid" : "b8d209b1532db45f55e0c618343652a9",
+      "status" : "failed",
+      "time" : {
+        "start" : 1642692263132,
+        "stop" : 1642692280699,
+        "duration" : 17567
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Проверка соответсвтия ставки в гриде и ставки в купоне",
+      "uid" : "6c8b2f56f770506e",
+      "parentUid" : "b8d209b1532db45f55e0c618343652a9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642692280699,
+        "stop" : 1642692299614,
+        "duration" : 18915
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "b8d209b1532db45f55e0c618343652a9"
+  }, {
+    "name" : "Тесты на функциии из области шапки сайта",
+    "children" : [ {
+      "name" : "Проверка открытия всех вкладок",
+      "uid" : "506d8816a0e358ef",
+      "parentUid" : "9ead22d2ad1d5a92eba5eb6d3433e6b4",
+      "status" : "failed",
+      "time" : {
+        "start" : 1642692299619,
+        "stop" : 1642692320262,
+        "duration" : 20643
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Проверка функции Поиск",
+      "uid" : "6dbc9fdcd2a0a4d9",
+      "parentUid" : "9ead22d2ad1d5a92eba5eb6d3433e6b4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642692320262,
+        "stop" : 1642692350394,
+        "duration" : 30132
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "9ead22d2ad1d5a92eba5eb6d3433e6b4"
+  }, {
+    "name" : "Тесты на главной странице",
+    "children" : [ {
+      "name" : "Ставки из приоритетных событий линии/лайва с главной страницы",
+      "uid" : "565e4f90635f57bd",
+      "parentUid" : "15d9aeb138a8dcc03c2be5ad8abf6299",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642692350400,
+        "stop" : 1642692397707,
+        "duration" : 47307
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Проверка приветственного слайдера",
+      "uid" : "842203fab1d33fe2",
+      "parentUid" : "15d9aeb138a8dcc03c2be5ad8abf6299",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642692397708,
+        "stop" : 1642692410968,
+        "duration" : 13260
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "15d9aeb138a8dcc03c2be5ad8abf6299"
+  }, {
+    "name" : "Лайв трансляции и eventView",
+    "children" : [ {
+      "name" : "Проверка отображения всех видов трансляций лайф событий ",
+      "uid" : "205cd74889f0ceda",
+      "parentUid" : "7e549787b1493557483d176d5d999714",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642692410972,
+        "stop" : 1642692436544,
+        "duration" : 25572
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Функционал EventView в Лайв событиях",
+      "uid" : "fa02c3349be7d85e",
+      "parentUid" : "7e549787b1493557483d176d5d999714",
+      "status" : "failed",
+      "time" : {
+        "start" : 1642692436544,
+        "stop" : 1642692461445,
+        "duration" : 24901
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Проверка кол-ва трансляций в фильтре трансляций",
+      "uid" : "557577bbc5d63fb2",
+      "parentUid" : "7e549787b1493557483d176d5d999714",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642692461445,
+        "stop" : 1642692484081,
+        "duration" : 22636
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "7e549787b1493557483d176d5d999714"
+  }, {
+    "name" : "Проверка Восстановления пароля",
+    "children" : [ {
+      "name" : "Восстановление пароля по тестовому сценарию через номер телефона",
+      "uid" : "64eae771fddcf144",
+      "parentUid" : "5b9dcf8d4dc65aa3af97d149c0307b20",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1642692484093,
+        "stop" : 1642692484111,
+        "duration" : 18
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Восстановление пароля по тестовому сценарию через email",
+      "uid" : "1e0b579ad40e90e",
+      "parentUid" : "5b9dcf8d4dc65aa3af97d149c0307b20",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1642692484111,
+        "stop" : 1642692484126,
+        "duration" : 15
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "5b9dcf8d4dc65aa3af97d149c0307b20"
+  }, {
+    "name" : "Тесты на производительность",
+    "children" : [ {
+      "name" : "Нагрузка процессора",
+      "uid" : "81e89a5f475db916",
+      "parentUid" : "be74d836ba6887768152e6e18b577a5f",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1642692484131,
+        "stop" : 1642692484151,
+        "duration" : 20
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Нагрузка процессора 2",
+      "uid" : "d3cf9c502c10287a",
+      "parentUid" : "be74d836ba6887768152e6e18b577a5f",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1642692484151,
+        "stop" : 1642692484170,
+        "duration" : 19
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Нагрузка процессора 3",
+      "uid" : "49fc02edd728c7d9",
+      "parentUid" : "be74d836ba6887768152e6e18b577a5f",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1642692484170,
+        "stop" : 1642692484186,
+        "duration" : 16
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Потребление памяти",
+      "uid" : "bde33c77eb58d3f9",
+      "parentUid" : "be74d836ba6887768152e6e18b577a5f",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1642692484186,
+        "stop" : 1642692484200,
+        "duration" : 14
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "be74d836ba6887768152e6e18b577a5f"
+  }, {
+    "name" : "Тесты на вкладку Бонусы",
+    "children" : [ {
+      "name" : "Проверка ввода промокода Бонусы",
+      "uid" : "17b4976cbf5701de",
+      "parentUid" : "43c715e522113a6c45e32536e172067e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642692484204,
+        "stop" : 1642692498298,
+        "duration" : 14094
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Проверка суммы бонусов",
+      "uid" : "a2bf9f4861092013",
+      "parentUid" : "43c715e522113a6c45e32536e172067e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642692498298,
+        "stop" : 1642692511540,
+        "duration" : 13242
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Проверка фильтров бонусов",
+      "uid" : "55bed7bc78fdec2a",
+      "parentUid" : "43c715e522113a6c45e32536e172067e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642692511541,
+        "stop" : 1642692525480,
+        "duration" : 13939
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Проверка баннеров акций",
+      "uid" : "663845bb28c3db40",
+      "parentUid" : "43c715e522113a6c45e32536e172067e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642692525480,
+        "stop" : 1642692543559,
+        "duration" : 18079
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Проверка сортировки по времени",
+      "uid" : "ee6dc79e7daf894f",
+      "parentUid" : "43c715e522113a6c45e32536e172067e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642692543559,
+        "stop" : 1642692558903,
+        "duration" : 15344
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "43c715e522113a6c45e32536e172067e"
+  }, {
+    "name" : "Тесты на личный кабинет",
+    "children" : [ {
+      "name" : "Проверка открытия всех вкладок меню",
+      "uid" : "390c722736149720",
+      "parentUid" : "5190de2c743cfa71a2dabdfe78e124b9",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1642692558910,
+        "stop" : 1642692558922,
+        "duration" : 12
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Проверка работы вкладки История в Личном кабинете пользователя",
+      "uid" : "b1f54888f1ef47e1",
+      "parentUid" : "5190de2c743cfa71a2dabdfe78e124b9",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1642692558923,
+        "stop" : 1642692558936,
+        "duration" : 13
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Проверка работы вкладки Операции в Личном кабинете пользователя",
+      "uid" : "cf0790226e1d8a1b",
+      "parentUid" : "5190de2c743cfa71a2dabdfe78e124b9",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1642692558936,
+        "stop" : 1642692558952,
+        "duration" : 16
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Проверка смены почты через реальную почту",
+      "uid" : "ceaaed9080c1d14",
+      "parentUid" : "5190de2c743cfa71a2dabdfe78e124b9",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1642692558952,
+        "stop" : 1642692558965,
+        "duration" : 13
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Проверка скрытия баланса",
+      "uid" : "9f07b5fa684ca3ea",
+      "parentUid" : "5190de2c743cfa71a2dabdfe78e124b9",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1642692558965,
+        "stop" : 1642692558979,
+        "duration" : 14
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Проверка Самоограничений",
+      "uid" : "29a0079204d014ed",
+      "parentUid" : "5190de2c743cfa71a2dabdfe78e124b9",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1642692558979,
+        "stop" : 1642692559005,
+        "duration" : 26
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Проверка Самоисключений",
+      "uid" : "24f7dd1e71225b28",
+      "parentUid" : "5190de2c743cfa71a2dabdfe78e124b9",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1642692559005,
+        "stop" : 1642692559024,
+        "duration" : 19
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Тестовый сценарий лимитов на депозиты",
+      "uid" : "c3ff5c334fb3db5b",
+      "parentUid" : "5190de2c743cfa71a2dabdfe78e124b9",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1642692559025,
+        "stop" : 1642692559053,
+        "duration" : 28
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Проверка работы процесса изменения номера телефона по тестовому сценарию",
+      "uid" : "8478b8d6008a79de",
+      "parentUid" : "5190de2c743cfa71a2dabdfe78e124b9",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1642692559053,
+        "stop" : 1642692559072,
+        "duration" : 19
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Проверка смены пароля",
+      "uid" : "a64306c48135990",
+      "parentUid" : "5190de2c743cfa71a2dabdfe78e124b9",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1642692559072,
+        "stop" : 1642692559095,
+        "duration" : 23
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Проверка  включения расссылок и уведомлений",
+      "uid" : "6b8957039b12c09b",
+      "parentUid" : "5190de2c743cfa71a2dabdfe78e124b9",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1642692559095,
+        "stop" : 1642692559133,
+        "duration" : 38
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "5190de2c743cfa71a2dabdfe78e124b9"
+  }, {
+    "name" : "Проверка работы всего функицонала во вкладке \"Результат\"",
+    "children" : [ {
+      "name" : "Проверка сортировки по времени",
+      "uid" : "c1b06cdb1921a979",
+      "parentUid" : "f029cdf810d3969dc0f46d7ebcc256ff",
+      "status" : "failed",
+      "time" : {
+        "start" : 1642692559183,
+        "stop" : 1642692574960,
+        "duration" : 15777
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Проверка сортировки по номеру",
+      "uid" : "c3aa6b4d2524b8f7",
+      "parentUid" : "f029cdf810d3969dc0f46d7ebcc256ff",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642692574961,
+        "stop" : 1642692592349,
+        "duration" : 17388
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Проверка чекбокса Только текущие",
+      "uid" : "b024082d81d69443",
+      "parentUid" : "f029cdf810d3969dc0f46d7ebcc256ff",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642692592349,
+        "stop" : 1642692599497,
+        "duration" : 7148
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Проверка поиска в результатах",
+      "uid" : "8f1aafe3f3d18481",
+      "parentUid" : "f029cdf810d3969dc0f46d7ebcc256ff",
+      "status" : "failed",
+      "time" : {
+        "start" : 1642692599498,
+        "stop" : 1642692615323,
+        "duration" : 15825
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "f029cdf810d3969dc0f46d7ebcc256ff"
+  }, {
+    "name" : "Тесты на запросы из личного кабинета",
+    "children" : [ {
+      "name" : "Проверка запроса по textarea + file",
+      "uid" : "f238e8ae3601584e",
+      "parentUid" : "6fa6898382d24d01a7e2a5dcd424156a",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1642692615339,
+        "stop" : 1642692615356,
+        "duration" : 17
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Проверка запроса по input + textarea +file",
+      "uid" : "9bd03d3ef0e2de08",
+      "parentUid" : "6fa6898382d24d01a7e2a5dcd424156a",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1642692615356,
+        "stop" : 1642692615374,
+        "duration" : 18
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Проверка запроса по 3*input + textarea + data",
+      "uid" : "8d0599cc1b84490c",
+      "parentUid" : "6fa6898382d24d01a7e2a5dcd424156a",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1642692615374,
+        "stop" : 1642692615390,
+        "duration" : 16
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Проверка запроса по dropdown + input + textarea + file",
+      "uid" : "72c8a88be80a871f",
+      "parentUid" : "6fa6898382d24d01a7e2a5dcd424156a",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1642692615390,
+        "stop" : 1642692615403,
+        "duration" : 13
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Проверка запроса по input + textarea + data",
+      "uid" : "42cb800bc816773e",
+      "parentUid" : "6fa6898382d24d01a7e2a5dcd424156a",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1642692615403,
+        "stop" : 1642692615430,
+        "duration" : 27
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Проверка запроса по  textarea + data",
+      "uid" : "83b9c34c6eb797c7",
+      "parentUid" : "6fa6898382d24d01a7e2a5dcd424156a",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1642692615430,
+        "stop" : 1642692615447,
+        "duration" : 17
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Проверка фильтров",
+      "uid" : "b451fcdced64934a",
+      "parentUid" : "6fa6898382d24d01a7e2a5dcd424156a",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1642692615447,
+        "stop" : 1642692615471,
+        "duration" : 24
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Проверка переоткрытия заявки",
+      "uid" : "fcb6e04fa7775231",
+      "parentUid" : "6fa6898382d24d01a7e2a5dcd424156a",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1642692615472,
+        "stop" : 1642692615491,
+        "duration" : 19
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Прикрепление и скачивание файла в созданном запросах",
+      "uid" : "feba7460ddb14d5c",
+      "parentUid" : "6fa6898382d24d01a7e2a5dcd424156a",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1642692615492,
+        "stop" : 1642692615505,
+        "duration" : 13
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "6fa6898382d24d01a7e2a5dcd424156a"
+  }, {
+    "name" : "Проверка настроек сайта",
+    "children" : [ {
+      "name" : "Проверка работы ставки пари с предыдущей ставки",
+      "uid" : "f6a74d895cd3161f",
+      "parentUid" : "61d5a04fa9148611af5741d5c330668e",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1642692615510,
+        "stop" : 1642692615522,
+        "duration" : 12
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Проверка быстрого пари",
+      "uid" : "960fac4e32863699",
+      "parentUid" : "61d5a04fa9148611af5741d5c330668e",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1642692615522,
+        "stop" : 1642692615542,
+        "duration" : 20
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Проверка приема без подтверждения",
+      "uid" : "ff017afb2a0016a1",
+      "parentUid" : "61d5a04fa9148611af5741d5c330668e",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1642692615542,
+        "stop" : 1642692615557,
+        "duration" : 15
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Проверка любимой ставки",
+      "uid" : "de77309a8bf05479",
+      "parentUid" : "61d5a04fa9148611af5741d5c330668e",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1642692615557,
+        "stop" : 1642692615570,
+        "duration" : 13
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Проверка настроек Продажа пари",
+      "uid" : "38112a352cff3ea2",
+      "parentUid" : "61d5a04fa9148611af5741d5c330668e",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1642692615570,
+        "stop" : 1642692615584,
+        "duration" : 14
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Проверка настроек Диалоги",
+      "uid" : "251ae81f4fccf277",
+      "parentUid" : "61d5a04fa9148611af5741d5c330668e",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1642692615584,
+        "stop" : 1642692615598,
+        "duration" : 14
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Проверка всего функционала из модуля \"Вид\" в настройках сайта",
+      "uid" : "341d2d0736bcd74b",
+      "parentUid" : "61d5a04fa9148611af5741d5c330668e",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1642692615598,
+        "stop" : 1642692615614,
+        "duration" : 16
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Проверка всего функционала из модуля \"Вид\" в настройках сайта для  неавторизованного пользователя",
+      "uid" : "56a66b8e85cf4d92",
+      "parentUid" : "61d5a04fa9148611af5741d5c330668e",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1642692615614,
+        "stop" : 1642692615639,
+        "duration" : 25
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "61d5a04fa9148611af5741d5c330668e"
+  } ]
+}

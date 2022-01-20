@@ -1,0 +1,109 @@
+{
+  "uid" : "849877fc030b8b31",
+  "name" : "Проверка фильтра в горизонтальном положении на выбор события",
+  "fullName" : "Тесты фильтра меню избранное.Проверка фильтра в горизонтальном положении на выбор события",
+  "historyId" : "fa0745f6f516db4133e6b5a25f469909",
+  "time" : {
+    "start" : 1642692184557,
+    "stop" : 1642692198610,
+    "duration" : 14053
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Failed: \n                \tTimed out after 5000ms, while waiting for:\n                \tbrowser.all(By(xpath, //div[contains(@class,'filter-item-drop-down-element__popup__panel--')]//a))[1].click\n                Reason:\n                \tCannot get element with index 1 from webelements collection with length 1",
+  "statusTrace" : "Error: \n                \tTimed out after 5000ms, while waiting for:\n                \tbrowser.all(By(xpath, //div[contains(@class,'filter-item-drop-down-element__popup__panel--')]//a))[1].click\n                Reason:\n                \tCannot get element with index 1 from webelements collection with length 1\n                    at Wait.for (/Users/forb/Documents/js_web/node_modules/selenidejs/lib/wait.ts:231:37)\n                    at runMicrotasks (<anonymous>)\n                    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n                    at Element.click (/Users/forb/Documents/js_web/node_modules/selenidejs/lib/element.ts:111:9)\n                    at UserContext.<anonymous> (/Users/forb/Documents/js_web/build/test/favoriteTree.spec.js:29:9)\n                From asynchronous test: \n                Error\n                    at Suite.<anonymous> (/Users/forb/Documents/js_web/build/test/favoriteTree.spec.js:17:5)\n                    at addSpecsToSuite (/Users/forb/Documents/js_web/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:1107:25)\n                    at Env.describe (/Users/forb/Documents/js_web/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:1074:7)\n                    at describe (/Users/forb/Documents/js_web/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4399:18)\n                    at Object.<anonymous> (/Users/forb/Documents/js_web/build/test/favoriteTree.spec.js:13:1)\n                    at Module._compile (internal/modules/cjs/loader.js:1085:14)\n                    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)\n                    at Module.load (internal/modules/cjs/loader.js:950:32)\n                    at Function.Module._load (internal/modules/cjs/loader.js:790:14)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "Failed: \n                \tTimed out after 5000ms, while waiting for:\n                \tbrowser.all(By(xpath, //div[contains(@class,'filter-item-drop-down-element__popup__panel--')]//a))[1].click\n                Reason:\n                \tCannot get element with index 1 from webelements collection with length 1",
+    "statusTrace" : "Error: \n                \tTimed out after 5000ms, while waiting for:\n                \tbrowser.all(By(xpath, //div[contains(@class,'filter-item-drop-down-element__popup__panel--')]//a))[1].click\n                Reason:\n                \tCannot get element with index 1 from webelements collection with length 1\n                    at Wait.for (/Users/forb/Documents/js_web/node_modules/selenidejs/lib/wait.ts:231:37)\n                    at runMicrotasks (<anonymous>)\n                    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n                    at Element.click (/Users/forb/Documents/js_web/node_modules/selenidejs/lib/element.ts:111:9)\n                    at UserContext.<anonymous> (/Users/forb/Documents/js_web/build/test/favoriteTree.spec.js:29:9)\n                From asynchronous test: \n                Error\n                    at Suite.<anonymous> (/Users/forb/Documents/js_web/build/test/favoriteTree.spec.js:17:5)\n                    at addSpecsToSuite (/Users/forb/Documents/js_web/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:1107:25)\n                    at Env.describe (/Users/forb/Documents/js_web/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:1074:7)\n                    at describe (/Users/forb/Documents/js_web/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4399:18)\n                    at Object.<anonymous> (/Users/forb/Documents/js_web/build/test/favoriteTree.spec.js:13:1)\n                    at Module._compile (internal/modules/cjs/loader.js:1085:14)\n                    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)\n                    at Module.load (internal/modules/cjs/loader.js:950:32)\n                    at Function.Module._load (internal/modules/cjs/loader.js:790:14)",
+    "steps" : [ {
+      "name" : "Установка дефолтных настроек",
+      "time" : {
+        "start" : 1642692190692,
+        "stop" : 1642692190692,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Переход в Спорт",
+      "time" : {
+        "start" : 1642692190793,
+        "stop" : 1642692190793,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Выбираю поэтапно событие, закрываю",
+      "time" : {
+        "start" : 1642692192541,
+        "stop" : 1642692192541,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 3,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Тесты фильтра меню избранное"
+  }, {
+    "name" : "testClass",
+    "value" : "Тесты фильтра меню избранное"
+  }, {
+    "name" : "testMethod",
+    "value" : "Проверка фильтра в горизонтальном положении на выбор события"
+  }, {
+    "name" : "package",
+    "value" : "Тесты фильтра меню избранное"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "849877fc030b8b31.json",
+  "parameterValues" : [ ]
+}
